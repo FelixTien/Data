@@ -1,0 +1,11 @@
+ColorKANJI
+	R: 167    G: 30    B: 110
+
+ColorVocabulary
+	R: 50    G: 91    B: 108
+
+ColorGrammar
+	R: 156    G: 149    B: 40
+
+ColorChecklist
+	R: 227    G: 178    B: 231
