@@ -32,15 +32,27 @@ class FetchModel: ObservableObject{
     }
     
     func getDetailData(name: String){
-        let url = Bundle.main.url(forResource: name, withExtension: "json")
-        do{
-            let data = try Data(contentsOf: url!)
-            let decoder = JSONDecoder()
-            let detailData = try decoder.decode(Detail.self, from: data)
-            self.detail.append(detailData)
-        }catch{
-            print(error)
+        let url = URL(string: "https://felixtien.github.io/Data/\(name).json")
+        guard url != nil else{
+            return
         }
+        let request = URLRequest(url: url!)
+        let session = URLSession.shared
+        let dataTask = session.dataTask(with: request) { data, response, error in
+            guard error == nil else{
+                return
+            }
+            let decoder = JSONDecoder()
+            do{
+                let detailData = try decoder.decode(Detail.self, from: data!)
+                DispatchQueue.main.async {
+                    self.detail.append(detailData)
+                }
+            }catch{
+                print(error)
+            }
+        }
+        dataTask.resume()
     }
     
     func idMealFind(id: String) -> Int{
