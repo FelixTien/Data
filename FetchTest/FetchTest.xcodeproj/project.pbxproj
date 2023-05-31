@@ -15,72 +15,8 @@
 		DC05A4222A26AB84009590E4 /* FetchModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC05A4212A26AB84009590E4 /* FetchModel.swift */; };
 		DC05A4272A26ED43009590E4 /* dessert.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4262A26ED43009590E4 /* dessert.json */; };
 		DC05A4292A26ED56009590E4 /* dessert.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4282A26ED56009590E4 /* dessert.json */; };
-		DC05A42D2A277F1C009590E4 /* 53049.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A42C2A277F1C009590E4 /* 53049.json */; };
-		DC05A42F2A277F60009590E4 /* 52893.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A42E2A277F60009590E4 /* 52893.json */; };
-		DC05A4312A277FA5009590E4 /* 52768.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4302A277FA5009590E4 /* 52768.json */; };
-		DC05A4332A277FFA009590E4 /* 52767.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4322A277FFA009590E4 /* 52767.json */; };
-		DC05A4352A27804C009590E4 /* 52855.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4342A27804C009590E4 /* 52855.json */; };
-		DC05A4372A278076009590E4 /* 52894.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4362A278076009590E4 /* 52894.json */; };
-		DC05A4392A2780A2009590E4 /* 52928.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4382A2780A2009590E4 /* 52928.json */; };
-		DC05A43B2A2780C9009590E4 /* 52891.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A43A2A2780C9009590E4 /* 52891.json */; };
-		DC05A43D2A278109009590E4 /* 52792.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A43C2A278109009590E4 /* 52792.json */; };
-		DC05A43F2A278137009590E4 /* 52961.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A43E2A278137009590E4 /* 52961.json */; };
-		DC05A4412A27816F009590E4 /* 52923.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4402A27816F009590E4 /* 52923.json */; };
-		DC05A4432A27819D009590E4 /* 52897.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4422A27819D009590E4 /* 52897.json */; };
-		DC05A4452A2781C8009590E4 /* 52976.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4442A2781C8009590E4 /* 52976.json */; };
-		DC05A4472A2781F9009590E4 /* 52898.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4462A2781F9009590E4 /* 52898.json */; };
-		DC05A4492A27823B009590E4 /* 52910.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4482A27823B009590E4 /* 52910.json */; };
-		DC05A44B2A278276009590E4 /* 52856.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A44A2A278276009590E4 /* 52856.json */; };
-		DC05A44D2A27829D009590E4 /* 52853.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A44C2A27829D009590E4 /* 52853.json */; };
-		DC05A44F2A2782C8009590E4 /* 52966.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A44E2A2782C8009590E4 /* 52966.json */; };
-		DC05A4552A278358009590E4 /* 52860.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4542A278358009590E4 /* 52860.json */; };
-		DC05A4572A278381009590E4 /* 52905.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4562A278381009590E4 /* 52905.json */; };
-		DC05A4592A2783AC009590E4 /* 52990.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4582A2783AC009590E4 /* 52990.json */; };
-		DC05A45B2A278413009590E4 /* 52788.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A45A2A278413009590E4 /* 52788.json */; };
-		DC05A45D2A278452009590E4 /* 52989.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A45C2A278452009590E4 /* 52989.json */; };
-		DC05A45F2A278483009590E4 /* 52988.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A45E2A278483009590E4 /* 52988.json */; };
-		DC05A4612A27855D009590E4 /* 52899.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4602A27855D009590E4 /* 52899.json */; };
-		DC05A4632A278585009590E4 /* 52888.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4622A278585009590E4 /* 52888.json */; };
-		DC05A4652A2785AB009590E4 /* 52791.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4642A2785AB009590E4 /* 52791.json */; };
-		DC05A4672A2785D2009590E4 /* 53007.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4662A2785D2009590E4 /* 53007.json */; };
-		DC05A4692A2785FE009590E4 /* 52787.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4682A2785FE009590E4 /* 52787.json */; };
-		DC05A46B2A278639009590E4 /* 52890.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A46A2A278639009590E4 /* 52890.json */; };
-		DC05A46D2A278663009590E4 /* 52859.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A46C2A278663009590E4 /* 52859.json */; };
-		DC05A46F2A278690009590E4 /* 53015.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A46E2A278690009590E4 /* 53015.json */; };
-		DC05A4712A2786B5009590E4 /* 52900.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4702A2786B5009590E4 /* 52900.json */; };
-		DC05A4732A2786D4009590E4 /* 52991.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4722A2786D4009590E4 /* 52991.json */; };
-		DC05A4752A278722009590E4 /* 52924.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4742A278722009590E4 /* 52924.json */; };
-		DC05A4772A27874A009590E4 /* 52858.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4762A27874A009590E4 /* 52858.json */; };
-		DC05A4792A278774009590E4 /* 52854.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4782A278774009590E4 /* 52854.json */; };
-		DC05A47B2A2787A1009590E4 /* 52902.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A47A2A2787A1009590E4 /* 52902.json */; };
-		DC05A47D2A2787D3009590E4 /* 52862.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A47C2A2787D3009590E4 /* 52862.json */; };
-		DC05A47F2A2787F6009590E4 /* 52861.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A47E2A2787F6009590E4 /* 52861.json */; };
-		DC05A4812A27881F009590E4 /* 52958.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4802A27881F009590E4 /* 52958.json */; };
-		DC05A4832A27885D009590E4 /* 52916.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4822A27885D009590E4 /* 52916.json */; };
-		DC05A4852A27889E009590E4 /* 53022.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4842A27889E009590E4 /* 53022.json */; };
-		DC05A4872A2788D8009590E4 /* 53046.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4862A2788D8009590E4 /* 53046.json */; };
-		DC05A4892A2788F9009590E4 /* 52932.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4882A2788F9009590E4 /* 52932.json */; };
-		DC05A48B2A278929009590E4 /* 52857.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A48A2A278929009590E4 /* 52857.json */; };
-		DC05A48D2A278956009590E4 /* 52901.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A48C2A278955009590E4 /* 52901.json */; };
-		DC05A48F2A278987009590E4 /* 52786.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A48E2A278987009590E4 /* 52786.json */; };
-		DC05A4912A2789AF009590E4 /* 53024.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4902A2789AF009590E4 /* 53024.json */; };
-		DC05A4932A2789D5009590E4 /* 52833.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4922A2789D5009590E4 /* 52833.json */; };
-		DC05A4952A278A05009590E4 /* 53054.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4942A278A05009590E4 /* 53054.json */; };
-		DC05A4972A278A30009590E4 /* 52886.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4962A278A30009590E4 /* 52886.json */; };
-		DC05A4992A278A66009590E4 /* 52883.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4982A278A66009590E4 /* 52883.json */; };
-		DC05A49B2A278A8F009590E4 /* 52793.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A49A2A278A8F009590E4 /* 52793.json */; };
-		DC05A49D2A278AC1009590E4 /* 53005.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A49C2A278AC1009590E4 /* 53005.json */; };
-		DC05A49F2A278AEB009590E4 /* 52931.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A49E2A278AEB009590E4 /* 52931.json */; };
-		DC05A4A12A278B12009590E4 /* 52889.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4A02A278B12009590E4 /* 52889.json */; };
-		DC05A4A32A278B36009590E4 /* 52909.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4A22A278B36009590E4 /* 52909.json */; };
-		DC05A4A52A278B83009590E4 /* 52929.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4A42A278B83009590E4 /* 52929.json */; };
-		DC05A4A72A278BA6009590E4 /* 52892.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4A62A278BA6009590E4 /* 52892.json */; };
-		DC05A4A92A278BE8009590E4 /* 52970.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4A82A278BE8009590E4 /* 52970.json */; };
-		DC05A4AB2A278C1E009590E4 /* 53062.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4AA2A278C1E009590E4 /* 53062.json */; };
-		DC05A4AD2A278C47009590E4 /* 52917.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4AC2A278C47009590E4 /* 52917.json */; };
 		DC05A4AF2A27A45D009590E4 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC05A4AE2A27A45D009590E4 /* DetailView.swift */; };
 		DC05A4B12A27BBD9009590E4 /* DataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC05A4B02A27BBD9009590E4 /* DataView.swift */; };
-		DC05A4B32A27C439009590E4 /* 52776.json in Resources */ = {isa = PBXBuildFile; fileRef = DC05A4B22A27C439009590E4 /* 52776.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -94,72 +30,8 @@
 		DC05A4212A26AB84009590E4 /* FetchModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchModel.swift; sourceTree = "<group>"; };
 		DC05A4262A26ED43009590E4 /* dessert.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = dessert.json; path = FetchTest/Data/dessert.json; sourceTree = SOURCE_ROOT; };
 		DC05A4282A26ED56009590E4 /* dessert.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = dessert.json; sourceTree = "<group>"; };
-		DC05A42C2A277F1C009590E4 /* 53049.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53049.json; sourceTree = "<group>"; };
-		DC05A42E2A277F60009590E4 /* 52893.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52893.json; sourceTree = "<group>"; };
-		DC05A4302A277FA5009590E4 /* 52768.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52768.json; sourceTree = "<group>"; };
-		DC05A4322A277FFA009590E4 /* 52767.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52767.json; sourceTree = "<group>"; };
-		DC05A4342A27804C009590E4 /* 52855.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52855.json; sourceTree = "<group>"; };
-		DC05A4362A278076009590E4 /* 52894.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52894.json; sourceTree = "<group>"; };
-		DC05A4382A2780A2009590E4 /* 52928.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52928.json; sourceTree = "<group>"; };
-		DC05A43A2A2780C9009590E4 /* 52891.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52891.json; sourceTree = "<group>"; };
-		DC05A43C2A278109009590E4 /* 52792.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52792.json; sourceTree = "<group>"; };
-		DC05A43E2A278137009590E4 /* 52961.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52961.json; sourceTree = "<group>"; };
-		DC05A4402A27816F009590E4 /* 52923.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52923.json; sourceTree = "<group>"; };
-		DC05A4422A27819D009590E4 /* 52897.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52897.json; sourceTree = "<group>"; };
-		DC05A4442A2781C8009590E4 /* 52976.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52976.json; sourceTree = "<group>"; };
-		DC05A4462A2781F9009590E4 /* 52898.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52898.json; sourceTree = "<group>"; };
-		DC05A4482A27823B009590E4 /* 52910.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52910.json; sourceTree = "<group>"; };
-		DC05A44A2A278276009590E4 /* 52856.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52856.json; sourceTree = "<group>"; };
-		DC05A44C2A27829D009590E4 /* 52853.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52853.json; sourceTree = "<group>"; };
-		DC05A44E2A2782C8009590E4 /* 52966.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52966.json; sourceTree = "<group>"; };
-		DC05A4542A278358009590E4 /* 52860.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52860.json; sourceTree = "<group>"; };
-		DC05A4562A278381009590E4 /* 52905.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52905.json; sourceTree = "<group>"; };
-		DC05A4582A2783AC009590E4 /* 52990.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52990.json; sourceTree = "<group>"; };
-		DC05A45A2A278413009590E4 /* 52788.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52788.json; sourceTree = "<group>"; };
-		DC05A45C2A278452009590E4 /* 52989.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52989.json; sourceTree = "<group>"; };
-		DC05A45E2A278483009590E4 /* 52988.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52988.json; sourceTree = "<group>"; };
-		DC05A4602A27855D009590E4 /* 52899.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52899.json; sourceTree = "<group>"; };
-		DC05A4622A278585009590E4 /* 52888.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52888.json; sourceTree = "<group>"; };
-		DC05A4642A2785AB009590E4 /* 52791.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52791.json; sourceTree = "<group>"; };
-		DC05A4662A2785D2009590E4 /* 53007.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53007.json; sourceTree = "<group>"; };
-		DC05A4682A2785FE009590E4 /* 52787.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52787.json; sourceTree = "<group>"; };
-		DC05A46A2A278639009590E4 /* 52890.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52890.json; sourceTree = "<group>"; };
-		DC05A46C2A278663009590E4 /* 52859.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52859.json; sourceTree = "<group>"; };
-		DC05A46E2A278690009590E4 /* 53015.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53015.json; sourceTree = "<group>"; };
-		DC05A4702A2786B5009590E4 /* 52900.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52900.json; sourceTree = "<group>"; };
-		DC05A4722A2786D4009590E4 /* 52991.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52991.json; sourceTree = "<group>"; };
-		DC05A4742A278722009590E4 /* 52924.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52924.json; sourceTree = "<group>"; };
-		DC05A4762A27874A009590E4 /* 52858.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52858.json; sourceTree = "<group>"; };
-		DC05A4782A278774009590E4 /* 52854.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52854.json; sourceTree = "<group>"; };
-		DC05A47A2A2787A1009590E4 /* 52902.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52902.json; sourceTree = "<group>"; };
-		DC05A47C2A2787D3009590E4 /* 52862.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52862.json; sourceTree = "<group>"; };
-		DC05A47E2A2787F6009590E4 /* 52861.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52861.json; sourceTree = "<group>"; };
-		DC05A4802A27881F009590E4 /* 52958.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52958.json; sourceTree = "<group>"; };
-		DC05A4822A27885D009590E4 /* 52916.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52916.json; sourceTree = "<group>"; };
-		DC05A4842A27889E009590E4 /* 53022.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53022.json; sourceTree = "<group>"; };
-		DC05A4862A2788D8009590E4 /* 53046.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53046.json; sourceTree = "<group>"; };
-		DC05A4882A2788F9009590E4 /* 52932.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52932.json; sourceTree = "<group>"; };
-		DC05A48A2A278929009590E4 /* 52857.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52857.json; sourceTree = "<group>"; };
-		DC05A48C2A278955009590E4 /* 52901.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52901.json; sourceTree = "<group>"; };
-		DC05A48E2A278987009590E4 /* 52786.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52786.json; sourceTree = "<group>"; };
-		DC05A4902A2789AF009590E4 /* 53024.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53024.json; sourceTree = "<group>"; };
-		DC05A4922A2789D5009590E4 /* 52833.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52833.json; sourceTree = "<group>"; };
-		DC05A4942A278A05009590E4 /* 53054.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53054.json; sourceTree = "<group>"; };
-		DC05A4962A278A30009590E4 /* 52886.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52886.json; sourceTree = "<group>"; };
-		DC05A4982A278A66009590E4 /* 52883.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52883.json; sourceTree = "<group>"; };
-		DC05A49A2A278A8F009590E4 /* 52793.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52793.json; sourceTree = "<group>"; };
-		DC05A49C2A278AC1009590E4 /* 53005.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53005.json; sourceTree = "<group>"; };
-		DC05A49E2A278AEB009590E4 /* 52931.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52931.json; sourceTree = "<group>"; };
-		DC05A4A02A278B12009590E4 /* 52889.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52889.json; sourceTree = "<group>"; };
-		DC05A4A22A278B36009590E4 /* 52909.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52909.json; sourceTree = "<group>"; };
-		DC05A4A42A278B83009590E4 /* 52929.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52929.json; sourceTree = "<group>"; };
-		DC05A4A62A278BA6009590E4 /* 52892.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52892.json; sourceTree = "<group>"; };
-		DC05A4A82A278BE8009590E4 /* 52970.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52970.json; sourceTree = "<group>"; };
-		DC05A4AA2A278C1E009590E4 /* 53062.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 53062.json; sourceTree = "<group>"; };
-		DC05A4AC2A278C47009590E4 /* 52917.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52917.json; sourceTree = "<group>"; };
 		DC05A4AE2A27A45D009590E4 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		DC05A4B02A27BBD9009590E4 /* DataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
-		DC05A4B22A27C439009590E4 /* 52776.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 52776.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,70 +115,6 @@
 			isa = PBXGroup;
 			children = (
 				DC05A4282A26ED56009590E4 /* dessert.json */,
-				DC05A42C2A277F1C009590E4 /* 53049.json */,
-				DC05A42E2A277F60009590E4 /* 52893.json */,
-				DC05A4302A277FA5009590E4 /* 52768.json */,
-				DC05A4322A277FFA009590E4 /* 52767.json */,
-				DC05A4342A27804C009590E4 /* 52855.json */,
-				DC05A4362A278076009590E4 /* 52894.json */,
-				DC05A4382A2780A2009590E4 /* 52928.json */,
-				DC05A43A2A2780C9009590E4 /* 52891.json */,
-				DC05A43C2A278109009590E4 /* 52792.json */,
-				DC05A43E2A278137009590E4 /* 52961.json */,
-				DC05A4402A27816F009590E4 /* 52923.json */,
-				DC05A4422A27819D009590E4 /* 52897.json */,
-				DC05A4442A2781C8009590E4 /* 52976.json */,
-				DC05A4462A2781F9009590E4 /* 52898.json */,
-				DC05A4482A27823B009590E4 /* 52910.json */,
-				DC05A44A2A278276009590E4 /* 52856.json */,
-				DC05A44C2A27829D009590E4 /* 52853.json */,
-				DC05A44E2A2782C8009590E4 /* 52966.json */,
-				DC05A4542A278358009590E4 /* 52860.json */,
-				DC05A4562A278381009590E4 /* 52905.json */,
-				DC05A4582A2783AC009590E4 /* 52990.json */,
-				DC05A45A2A278413009590E4 /* 52788.json */,
-				DC05A4762A27874A009590E4 /* 52858.json */,
-				DC05A45C2A278452009590E4 /* 52989.json */,
-				DC05A45E2A278483009590E4 /* 52988.json */,
-				DC05A4602A27855D009590E4 /* 52899.json */,
-				DC05A4622A278585009590E4 /* 52888.json */,
-				DC05A4642A2785AB009590E4 /* 52791.json */,
-				DC05A4662A2785D2009590E4 /* 53007.json */,
-				DC05A4682A2785FE009590E4 /* 52787.json */,
-				DC05A46A2A278639009590E4 /* 52890.json */,
-				DC05A46C2A278663009590E4 /* 52859.json */,
-				DC05A46E2A278690009590E4 /* 53015.json */,
-				DC05A4702A2786B5009590E4 /* 52900.json */,
-				DC05A4722A2786D4009590E4 /* 52991.json */,
-				DC05A4742A278722009590E4 /* 52924.json */,
-				DC05A4782A278774009590E4 /* 52854.json */,
-				DC05A47A2A2787A1009590E4 /* 52902.json */,
-				DC05A47C2A2787D3009590E4 /* 52862.json */,
-				DC05A47E2A2787F6009590E4 /* 52861.json */,
-				DC05A4802A27881F009590E4 /* 52958.json */,
-				DC05A4822A27885D009590E4 /* 52916.json */,
-				DC05A4842A27889E009590E4 /* 53022.json */,
-				DC05A4862A2788D8009590E4 /* 53046.json */,
-				DC05A4882A2788F9009590E4 /* 52932.json */,
-				DC05A48A2A278929009590E4 /* 52857.json */,
-				DC05A48C2A278955009590E4 /* 52901.json */,
-				DC05A48E2A278987009590E4 /* 52786.json */,
-				DC05A4902A2789AF009590E4 /* 53024.json */,
-				DC05A4922A2789D5009590E4 /* 52833.json */,
-				DC05A4942A278A05009590E4 /* 53054.json */,
-				DC05A4962A278A30009590E4 /* 52886.json */,
-				DC05A4982A278A66009590E4 /* 52883.json */,
-				DC05A49A2A278A8F009590E4 /* 52793.json */,
-				DC05A49C2A278AC1009590E4 /* 53005.json */,
-				DC05A49E2A278AEB009590E4 /* 52931.json */,
-				DC05A4A02A278B12009590E4 /* 52889.json */,
-				DC05A4A22A278B36009590E4 /* 52909.json */,
-				DC05A4A42A278B83009590E4 /* 52929.json */,
-				DC05A4A62A278BA6009590E4 /* 52892.json */,
-				DC05A4A82A278BE8009590E4 /* 52970.json */,
-				DC05A4AA2A278C1E009590E4 /* 53062.json */,
-				DC05A4AC2A278C47009590E4 /* 52917.json */,
-				DC05A4B22A27C439009590E4 /* 52776.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -369,74 +177,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DC05A4352A27804C009590E4 /* 52855.json in Resources */,
-				DC05A4A92A278BE8009590E4 /* 52970.json in Resources */,
-				DC05A4812A27881F009590E4 /* 52958.json in Resources */,
-				DC05A4432A27819D009590E4 /* 52897.json in Resources */,
-				DC05A4392A2780A2009590E4 /* 52928.json in Resources */,
 				DC05A4162A26A942009590E4 /* Preview Assets.xcassets in Resources */,
-				DC05A4712A2786B5009590E4 /* 52900.json in Resources */,
-				DC05A48F2A278987009590E4 /* 52786.json in Resources */,
-				DC05A4492A27823B009590E4 /* 52910.json in Resources */,
-				DC05A4452A2781C8009590E4 /* 52976.json in Resources */,
-				DC05A4772A27874A009590E4 /* 52858.json in Resources */,
-				DC05A4A32A278B36009590E4 /* 52909.json in Resources */,
-				DC05A47F2A2787F6009590E4 /* 52861.json in Resources */,
-				DC05A42F2A277F60009590E4 /* 52893.json in Resources */,
-				DC05A4752A278722009590E4 /* 52924.json in Resources */,
-				DC05A4832A27885D009590E4 /* 52916.json in Resources */,
-				DC05A4892A2788F9009590E4 /* 52932.json in Resources */,
-				DC05A4872A2788D8009590E4 /* 53046.json in Resources */,
-				DC05A4672A2785D2009590E4 /* 53007.json in Resources */,
-				DC05A4852A27889E009590E4 /* 53022.json in Resources */,
-				DC05A46B2A278639009590E4 /* 52890.json in Resources */,
-				DC05A45D2A278452009590E4 /* 52989.json in Resources */,
-				DC05A49F2A278AEB009590E4 /* 52931.json in Resources */,
-				DC05A4552A278358009590E4 /* 52860.json in Resources */,
-				DC05A49B2A278A8F009590E4 /* 52793.json in Resources */,
-				DC05A4792A278774009590E4 /* 52854.json in Resources */,
 				DC05A4272A26ED43009590E4 /* dessert.json in Resources */,
-				DC05A44B2A278276009590E4 /* 52856.json in Resources */,
-				DC05A4992A278A66009590E4 /* 52883.json in Resources */,
-				DC05A48D2A278956009590E4 /* 52901.json in Resources */,
-				DC05A4AD2A278C47009590E4 /* 52917.json in Resources */,
-				DC05A42D2A277F1C009590E4 /* 53049.json in Resources */,
 				DC05A4292A26ED56009590E4 /* dessert.json in Resources */,
-				DC05A4952A278A05009590E4 /* 53054.json in Resources */,
-				DC05A4612A27855D009590E4 /* 52899.json in Resources */,
-				DC05A45B2A278413009590E4 /* 52788.json in Resources */,
-				DC05A4332A277FFA009590E4 /* 52767.json in Resources */,
-				DC05A46F2A278690009590E4 /* 53015.json in Resources */,
-				DC05A4732A2786D4009590E4 /* 52991.json in Resources */,
-				DC05A4A12A278B12009590E4 /* 52889.json in Resources */,
-				DC05A4572A278381009590E4 /* 52905.json in Resources */,
-				DC05A4AB2A278C1E009590E4 /* 53062.json in Resources */,
-				DC05A46D2A278663009590E4 /* 52859.json in Resources */,
-				DC05A4912A2789AF009590E4 /* 53024.json in Resources */,
-				DC05A4632A278585009590E4 /* 52888.json in Resources */,
-				DC05A4B32A27C439009590E4 /* 52776.json in Resources */,
-				DC05A44F2A2782C8009590E4 /* 52966.json in Resources */,
-				DC05A47B2A2787A1009590E4 /* 52902.json in Resources */,
-				DC05A48B2A278929009590E4 /* 52857.json in Resources */,
-				DC05A4592A2783AC009590E4 /* 52990.json in Resources */,
 				DC05A4122A26A942009590E4 /* Assets.xcassets in Resources */,
-				DC05A4372A278076009590E4 /* 52894.json in Resources */,
-				DC05A4972A278A30009590E4 /* 52886.json in Resources */,
-				DC05A4472A2781F9009590E4 /* 52898.json in Resources */,
-				DC05A49D2A278AC1009590E4 /* 53005.json in Resources */,
-				DC05A4932A2789D5009590E4 /* 52833.json in Resources */,
-				DC05A47D2A2787D3009590E4 /* 52862.json in Resources */,
-				DC05A43D2A278109009590E4 /* 52792.json in Resources */,
-				DC05A45F2A278483009590E4 /* 52988.json in Resources */,
-				DC05A43F2A278137009590E4 /* 52961.json in Resources */,
-				DC05A4652A2785AB009590E4 /* 52791.json in Resources */,
-				DC05A4312A277FA5009590E4 /* 52768.json in Resources */,
-				DC05A4692A2785FE009590E4 /* 52787.json in Resources */,
-				DC05A4412A27816F009590E4 /* 52923.json in Resources */,
-				DC05A4A52A278B83009590E4 /* 52929.json in Resources */,
-				DC05A44D2A27829D009590E4 /* 52853.json in Resources */,
-				DC05A4A72A278BA6009590E4 /* 52892.json in Resources */,
-				DC05A43B2A2780C9009590E4 /* 52891.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
