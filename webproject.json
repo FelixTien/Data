@@ -28,5 +28,305 @@
         "id" : 6,
         "level" : "Easy",
         "question" : "Invert Binary Tree"
+    },
+    {
+        "id" : 7,
+        "level" : "Easy",
+        "question" : "Valid Anagram"
+    },
+    {
+        "id" : 8,
+        "level" : "Easy",
+        "question" : "Binary Search"
+    },
+    {
+        "id" : 9,
+        "level" : "Easy",
+        "question" : "Flood Fill"
+    },
+    {
+        "id" : 10,
+        "level" : "Easy",
+        "question" : "Lowest Common Ancestor of a Binary Search Tree"
+    },
+    {
+        "id" : 11,
+        "level" : "Easy",
+        "question" : "Balanced Binary Tree"
+    },
+    {
+        "id" : 12,
+        "level" : "Easy",
+        "question" : "Linked List Cycle"
+    },
+    {
+        "id" : 13,
+        "level" : "Easy",
+        "question" : "Implement Queue using Stacks"
+    },
+    {
+        "id" : 14,
+        "level" : "Easy",
+        "question" : "First Bad Version"
+    },
+    {
+        "id" : 15,
+        "level" : "Easy",
+        "question" : "Ransom Note"
+    },
+    {
+        "id" : 16,
+        "level" : "Easy",
+        "question" : "Climbing Stairs"
+    },
+    {
+        "id" : 17,
+        "level" : "Easy",
+        "question" : "Longest Palindrome"
+    },
+    {
+        "id" : 18,
+        "level" : "Easy",
+        "question" : "Reverse Linked List"
+    },
+    {
+        "id" : 19,
+        "level" : "Easy",
+        "question" : "Majority Element"
+    },
+    {
+        "id" : 20,
+        "level" : "Easy",
+        "question" : "Add Binary"
+    },
+    {
+        "id" : 21,
+        "level" : "Easy",
+        "question" : "Diameter of Binary Tree"
+    },
+    {
+        "id" : 22,
+        "level" : "Easy",
+        "question" : "Middle of the Linked List"
+    },
+    {
+        "id" : 23,
+        "level" : "Easy",
+        "question" : "Maximum Depth of Binary Tree"
+    },
+    {
+        "id" : 24,
+        "level" : "Easy",
+        "question" : "Contains Duplicate"
+    },
+    {
+        "id" : 25,
+        "level" : "Medium",
+        "question" : "Maximum Subarray"
+    },
+    {
+        "id" : 26,
+        "level" : "Medium",
+        "question" : "Insert Interval"
+    },
+    {
+        "id" : 27,
+        "level" : "Medium",
+        "question" : "01 Matrix"
+    },
+    {
+        "id" : 28,
+        "level" : "Medium",
+        "question" : "K Closest Points to Origin"
+    },
+    {
+        "id" : 29,
+        "level" : "Medium",
+        "question" : "Longest Substring Without Repeating Characters"
+    },
+    {
+        "id" : 30,
+        "level" : "Medium",
+        "question" : "3Sum"
+    },
+    {
+        "id" : 31,
+        "level" : "Medium",
+        "question" : "Binary Tree Level Order Traversal"
+    },
+    {
+        "id" : 32,
+        "level" : "Medium",
+        "question" : "Clone Graph"
+    },
+    {
+        "id" : 33,
+        "level" : "Medium",
+        "question" : "Evaluate Reverse Polish Notation"
+    },
+    {
+        "id" : 34,
+        "level" : "Medium",
+        "question" : "Course Schedule"
+    },
+    {
+        "id" : 35,
+        "level" : "Medium",
+        "question" : "Implement Trie (Prefix Tree)"
+    },
+    {
+        "id" : 36,
+        "level" : "Medium",
+        "question" : "Coin Change"
+    },
+    {
+        "id" : 37,
+        "level" : "Medium",
+        "question" : "Product of Array Except Self"
+    },
+    {
+        "id" : 38,
+        "level" : "Medium",
+        "question" : "Min Stack"
+    },
+    {
+        "id" : 39,
+        "level" : "Medium",
+        "question" : "Validate Binary Search Tree"
+    },
+    {
+        "id" : 40,
+        "level" : "Medium",
+        "question" : "Number of Islands"
+    },
+    {
+        "id" : 41,
+        "level" : "Medium",
+        "question" : "Rotting Oranges"
+    },
+    {
+        "id" : 42,
+        "level" : "Medium",
+        "question" : "Search in Rotated Sorted Array"
+    },
+    {
+        "id" : 43,
+        "level" : "Medium",
+        "question" : "Combination Sum"
+    },
+    {
+        "id" : 44,
+        "level" : "Medium",
+        "question" : "Permutations"
+    },
+    {
+        "id" : 45,
+        "level" : "Medium",
+        "question" : "Merge Intervals"
+    },
+    {
+        "id" : 46,
+        "level" : "Medium",
+        "question" : "Lowest Common Ancestor of a Binary Tree"
+    },
+    {
+        "id" : 47,
+        "level" : "Medium",
+        "question" : "Time Based Key-Value Store"
+    },
+    {
+        "id" : 48,
+        "level" : "Medium",
+        "question" : "Accounts Merge"
+    },
+    {
+        "id" : 49,
+        "level" : "Medium",
+        "question" : "Sort Colors"
+    },
+    {
+        "id" : 50,
+        "level" : "Medium",
+        "question" : "Word Break"
+    },
+    {
+        "id" : 51,
+        "level" : "Medium",
+        "question" : "Partition Equal Subset Sum"
+    },
+    {
+        "id" : 52,
+        "level" : "Medium",
+        "question" : "String to Integer (atoi)"
+    },
+    {
+        "id" : 53,
+        "level" : "Medium",
+        "question" : "Spiral Matrix"
+    },
+    {
+        "id" : 54,
+        "level" : "Medium",
+        "question" : "Subsets"
+    },
+    {
+        "id" : 55,
+        "level" : "Medium",
+        "question" : "Binary Tree Right Side View"
+    },
+    {
+        "id" : 56,
+        "level" : "Medium",
+        "question" : "Longest Palindromic Substring"
+    },
+    {
+        "id" : 57,
+        "level" : "Medium",
+        "question" : "Unique Paths"
+    },
+    {
+        "id" : 58,
+        "level" : "Medium",
+        "question" : "Construct Binary Tree from Preorder and Inorder Traversal"
+    },
+    {
+        "id" : 59,
+        "level" : "Medium",
+        "question" : "Container With Most Water"
+    },
+    {
+        "id" : 60,
+        "level" : "Medium",
+        "question" : "Letter Combinations of a Phone Number"
+    },
+    {
+        "id" : 61,
+        "level" : "Medium",
+        "question" : "Word Search"
+    },
+    {
+        "id" : 62,
+        "level" : "Medium",
+        "question" : "Find All Anagrams in a String"
+    },
+    {
+        "id" : 63,
+        "level" : "Medium",
+        "question" : "Minimum Height Trees"
+    },
+    {
+        "id" : 64,
+        "level" : "Medium",
+        "question" : "Task Scheduler"
+    },
+    {
+        "id" : 65,
+        "level" : "Medium",
+        "question" : "LRU Cache"
+    },
+    {
+        "id" : 66,
+        "level" : "Medium",
+        "question" : "Kth Smallest Element in a BST"
     }
 ]
