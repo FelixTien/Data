@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "level" : "Easy",
+        "question" : "Two Sum"
+    },
+    {
+        "id" : 2,
+        "level" : "Easy",
+        "question" : "Valid Parentheses"
+    },
+    {
+        "id" : 3,
+        "level" : "Easy",
+        "question" : "Merge Two Sorted Lists"
+    },
+    {
+        "id" : 4,
+        "level" : "Easy",
+        "question" : "Best Time to Buy and Sell Stock"
+    },
+    {
+        "id" : 5,
+        "level" : "Easy",
+        "question" : "Valid Palindrome"
+    },
+    {
+        "id" : 6,
+        "level" : "Easy",
+        "question" : "Invert Binary Tree"
+    }
+]
