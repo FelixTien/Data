@@ -4,41 +4,41 @@
         "level" : "Easy",
         "question" : "Two Sum",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "aaa\n\nbbb"
+        "detail" : "aaa<br>bbb"
     },
     {
         "id" : 2,
         "level" : "Easy",
         "question" : "Valid Parentheses",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "aaa\n\nbbb"
+        "detail" : "aaa<br>bbb"
     },
     {
         "id" : 3,
         "level" : "Easy",
         "question" : "Merge Two Sorted Lists",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "aaa\n\nbbb"
+        "detail" : "aaa<br>bbb"
     },
     {
         "id" : 4,
         "level" : "Easy",
         "question" : "Best Time to Buy and Sell Stock",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "aaa\n\nbbb"
+        "detail" : "aaa<br>bbb"
     },
     {
         "id" : 5,
         "level" : "Easy",
         "question" : "Valid Palindrome",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "aaa\n\nbbb"
+        "detail" : "aaa<br>bbb"
     },
     {
         "id" : 6,
         "level" : "Easy",
         "question" : "Invert Binary Tree",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "aaa\n\nbbb"
+        "detail" : "aaa<br>bbb"
     }
 ]
