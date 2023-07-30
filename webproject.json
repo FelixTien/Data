@@ -2,31 +2,37 @@
     {
         "id" : 1,
         "level" : "Easy",
-        "question" : "Two Sum"
+        "question" : "Two Sum",
+        "youtube" : "https://youtu.be/oadssnyJA90"
     },
     {
         "id" : 2,
         "level" : "Easy",
-        "question" : "Valid Parentheses"
+        "question" : "Valid Parentheses",
+        "youtube" : "https://youtu.be/oadssnyJA90"
     },
     {
         "id" : 3,
         "level" : "Easy",
-        "question" : "Merge Two Sorted Lists"
+        "question" : "Merge Two Sorted Lists",
+        "youtube" : "https://youtu.be/oadssnyJA90"
     },
     {
         "id" : 4,
         "level" : "Easy",
-        "question" : "Best Time to Buy and Sell Stock"
+        "question" : "Best Time to Buy and Sell Stock",
+        "youtube" : "https://youtu.be/oadssnyJA90"
     },
     {
         "id" : 5,
         "level" : "Easy",
-        "question" : "Valid Palindrome"
+        "question" : "Valid Palindrome",
+        "youtube" : "https://youtu.be/oadssnyJA90"
     },
     {
         "id" : 6,
         "level" : "Easy",
-        "question" : "Invert Binary Tree"
+        "question" : "Invert Binary Tree",
+        "youtube" : "https://youtu.be/oadssnyJA90"
     }
 ]
