@@ -4,7 +4,7 @@
         "level" : "Easy",
         "question" : "Two Sum",
         "youtube" : "https://youtu.be/oadssnyJA90",
-        "detail" : "s = \"(]\""
+        "detail" : ["aaa", "bbb"]
     },
     {
         "id" : 2,
