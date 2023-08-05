@@ -1,0 +1,11 @@
+Type,Name,Size,Price,Caffeine,Origin
+Coffee,Espresso, Small,2.99,80, Brazil
+Coffee,Cappuccino, Medium,3.49,50, Italy
+Coffee,Latte, Large,3.99,30, Colombia
+Coffee,Americano, Small,2.79,100, United States
+Coffee,Mocha, Medium,4.29,45, Switzerland
+Coffee,Caramel Macchiato, Large,4.49,35, France
+Tea,Green Tea, Small,2.49,5, Japan
+Tea,Black Tea, Medium,2.29,40, Sri Lanka
+Tea,Chai Tea, Large,3.99,20, India
+Tea,Peppermint Tea, Small,2.29,0, United Kingdom
