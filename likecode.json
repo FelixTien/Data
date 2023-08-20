@@ -91,7 +91,7 @@
         "Use a while loop with condition left < right.",
         "Set a helper function with boolean return type to check if the char is valid. Return true if the char is a number or an alphabet, return false otherwise.",
         "Set 2 nested while loop with condition true for both left and right to find a valid character.",
-        "Inside the nested while loops:",
+        "Inside the nested while loops：",
         "Return true if left or right out of bound.$",
         "Break loop if the char is valid.$",
         "Else left++ or right--.$",
