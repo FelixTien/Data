@@ -138,7 +138,7 @@
         "Use a for loop to add 1 for all the characters in the string s and minus 1 for all the characters in the string t.",
         "Write the other for loop to check if every chunk is 0. Return false if not.",
         "Return true outside the second loop.",
-        "To put an alphabet into an array chunks, use Character - 'a' to them to the correct chunk.※"],
+        "To put an alphabet into the correct array chunk, use character - 'a' to count the corresponding index chunk.※"],
         "complexity" : "O(n)",
         "detail" : ["Given two strings s and t, return true if t is an anagram of s, and false otherwise.",
         "",
