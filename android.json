@@ -20,7 +20,7 @@
         "answer": "People"
     },
     {
-        "content": "Whis the capital city of Taiwan？",
+        "content": "Whis is the capital city of Taiwan？",
         "options": [
             "Taipei",
             "Taichung",
@@ -30,7 +30,7 @@
         "answer": "Taipei"
     },
     {
-        "content": "Whis the capital city of Japan？",
+        "content": "Whis is the capital city of Japan？",
         "options": [
             "Tokyo",
             "Kyoto",
@@ -40,7 +40,7 @@
         "answer": "Tokyo"
     },
     {
-        "content": "Whis the capital city of the US？",
+        "content": "Whis is the capital city of the US？",
         "options": [
             "Washington, D.C.",
             "New York",
