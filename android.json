@@ -1,6 +1,6 @@
 [
     {
-        "content": "What animal has 2 legs",
+        "content": "What kind of animal has 2 legs？",
         "options": [
             "Chicken",
             "Dog",
@@ -10,7 +10,7 @@
         "answer": "Chicken"
     },
     {
-        "content": "Which of the following is an animal",
+        "content": "Which of the following is an animal？",
         "options": [
             "People",
             "Fire",
@@ -20,7 +20,7 @@
         "answer": "People"
     },
     {
-        "content": "Whis the capital of Taiwan",
+        "content": "Whis the capital city of Taiwan？",
         "options": [
             "Taipei",
             "Taichung",
@@ -30,17 +30,17 @@
         "answer": "Taipei"
     },
     {
-        "content": "Whis the capital of Japan",
+        "content": "Whis the capital city of Japan？",
         "options": [
             "Tokyo",
             "Kyoto",
             "Hokkaido",
             "Osaka"
         ],
-        "answer": "Taipei"
+        "answer": "Tokyo"
     },
     {
-        "content": "Whis the capital of the US",
+        "content": "Whis the capital city of the US？",
         "options": [
             "Washington, D.C.",
             "New York",
