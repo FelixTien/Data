@@ -2,11 +2,51 @@
     {
         "content": "What animal has 2 legs",
         "options": [
-            "Dog",
             "Chicken",
+            "Dog",
             "Cat",
             "Pig"
         ],
         "answer": "Chicken"
+    },
+    {
+        "content": "Which of the following is an animal",
+        "options": [
+            "People",
+            "Fire",
+            "Gold",
+            "Water"
+        ],
+        "answer": "People"
+    },
+    {
+        "content": "Whis the capital of Taiwan",
+        "options": [
+            "Taipei",
+            "Taichung",
+            "Tainan",
+            "Kaohsiung"
+        ],
+        "answer": "Taipei"
+    },
+    {
+        "content": "Whis the capital of Japan",
+        "options": [
+            "Tokyo",
+            "Kyoto",
+            "Hokkaido",
+            "Osaka"
+        ],
+        "answer": "Taipei"
+    },
+    {
+        "content": "Whis the capital of the US",
+        "options": [
+            "Washington, D.C.",
+            "New York",
+            "Chicago",
+            "Boston"
+        ],
+        "answer": "Washington, D.C."
     }
 ]
