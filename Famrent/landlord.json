@@ -5,7 +5,13 @@
         "rent" : "Rent",
         "utility" : "Utility",
         "wifi" : "Wi-Fi",
-        "other" : "Other"
+        "other" : "Other",
+        "overall" : "Overall",
+        "ratings" : "ratings",
+        "landlordCommunication" : "Landlord Communication",
+        "housingQuality" : "Housing Quality",
+        "repairSpeed" : "Repair Speed",
+        "costToPriceRatio" : "Cost To Price Ratio"
     },
     {
         "landlordMode" : "房東模式",
@@ -13,6 +19,12 @@
         "rent" : "房租",
         "utility" : "水電",
         "wifi" : "網路",
-        "other" : "其他"
+        "other" : "其他",
+        "overall" : "總體",
+        "ratings" : "個評分",
+        "landlordCommunication" : "溝通流暢度",
+        "housingQuality" : "居住環境",
+        "repairSpeed" : "修繕效率",
+        "costToPriceRatio" : "性價比"
     }
 ]
