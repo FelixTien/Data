@@ -1,0 +1,18 @@
+[
+    {
+        "landlordMode" : "Landlord Mode",
+        "monthlyIncome" : "Monthly Income",
+        "rent" : "Rent",
+        "utility" : "Utility",
+        "wifi" : "Wi-Fi",
+        "other" : "Other"
+    },
+    {
+        "landlordMode" : "房東模式",
+        "monthlyIncome" : "每月收入",
+        "rent" : "房租",
+        "utility" : "水電",
+        "wifi" : "Wi-Fi",
+        "other" : "其他"
+    }
+]
