@@ -6,6 +6,7 @@
         "utility" : "Utility",
         "wifi" : "Wi-Fi",
         "other" : "Other",
+        "delete" : "Delete",
         "overall" : "Overall",
         "ratings" : "ratings",
         "landlordCommunication" : "Landlord Communication",
@@ -22,7 +23,16 @@
         "dueDateType" : "Due Date Type",
         "messages" : "The system starts to send reminding messages 3 days before the due day.",
         "tenantId" : "Tenant ID",
-        "search" : "Search"
+        "search" : "Search", //here
+        "deposit" : "Deposit",
+        "late" : "Late",
+        "ontime" : "On Time",
+        "repair" : "Repair",
+        "report" : "Report",
+        "upload" : "Upload",
+        "total" : "Total",
+        "bill" : "Bill",
+        "type" : "Type"
     },
     {
         "landlordMode" : "房東模式",
@@ -31,6 +41,7 @@
         "utility" : "水電",
         "wifi" : "網路",
         "other" : "其他",
+        "delete" : "刪除",
         "overall" : "總體",
         "ratings" : "個評分",
         "landlordCommunication" : "溝通流暢度",
@@ -47,6 +58,15 @@
         "dueDateType" : "到期日",
         "messages" : "系統會在到期日 3天 前開始發送提醒訊息。",
         "tenantId" : "房客 ID",
-        "search" : "搜尋"
+        "search" : "搜尋",
+        "deposit" : "押金",
+        "late" : "遲繳",
+        "ontime" : "準時繳",
+        "repair" : "維修",
+        "report" : "檢舉",
+        "upload" : "上傳",
+        "total" : "總價",
+        "bill" : "帳單",
+        "type" : "類別"
     }
 ]
