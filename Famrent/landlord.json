@@ -11,7 +11,15 @@
         "landlordCommunication" : "Landlord Communication",
         "housingQuality" : "Housing Quality",
         "repairSpeed" : "Repair Speed",
-        "costToPriceRatio" : "Cost To Price Ratio"
+        "costToPriceRatio" : "Cost To Price Ratio",
+        "myLeases" : "My Leases",
+        "requesting" : "Requesting",
+        "tenants" : "Tenants",
+        "leaseName" : "Lease Name",
+        "dueDateType" : "Due Date Type",
+        "messages" : "The system starts to send reminding messages 3 days before the due day.",
+        "tenantId" : "Tenant ID",
+        "search" : "Search"
     },
     {
         "landlordMode" : "房東模式",
@@ -25,6 +33,14 @@
         "landlordCommunication" : "溝通流暢度",
         "housingQuality" : "居住環境",
         "repairSpeed" : "修繕效率",
-        "costToPriceRatio" : "性價比"
+        "costToPriceRatio" : "性價比",
+        "myLeases" : "我的合約",
+        "requesting" : "申請中",
+        "tenants" : "房客",
+        "leaseName" : "契約標題",
+        "dueDateType" : "到期日",
+        "messages" : "系統會在到期日 3天 前開始發送提醒訊息。",
+        "tenantId" : "房客 ID",
+        "search" : "搜尋"
     }
 ]
