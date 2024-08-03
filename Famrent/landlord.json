@@ -23,7 +23,7 @@
         "dueDateType" : "Due Date Type",
         "messages" : "The system starts to send reminding messages 3 days before the due day.",
         "tenantId" : "Tenant ID",
-        "search" : "Search", //here
+        "search" : "Search",
         "deposit" : "Deposit",
         "late" : "Late",
         "ontime" : "On Time",
