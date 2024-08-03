@@ -36,7 +36,10 @@
         "type" : "Type",
         "pending" : "Pending",
         "rejected" : "Rejected",
-        "history" : "History"
+        "history" : "History",
+        "warning" : "Warning",
+        "warningAlertLeft" : "Are you sure you want to delete ",
+        "warningAlertRight" : " ?"
     },
     {
         "landlordMode" : "房東模式",
@@ -75,6 +78,9 @@
         "type" : "類別",
         "pending" : "審查中",
         "rejected" : "未通過",
-        "history" : "歷史紀錄"
+        "history" : "歷史紀錄",
+        "warning" : "警告",
+        "warningAlertLeft" : "您確定您要刪除 ",
+        "warningAlertRight" : " 嗎？"
     }
 ]
