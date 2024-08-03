@@ -33,7 +33,10 @@
         "upload" : "Upload",
         "total" : "Total",
         "bill" : "Bill",
-        "type" : "Type"
+        "type" : "Type",
+        "pending" : "Pending",
+        "rejected" : "Rejected",
+        "history" : "History"
     },
     {
         "landlordMode" : "房東模式",
@@ -69,6 +72,9 @@
         "upload" : "上傳",
         "total" : "總價",
         "bill" : "帳單",
-        "type" : "類別"
+        "type" : "類別",
+        "pending" : "審查中",
+        "rejected" : "未通過",
+        "history" : "歷史紀錄"
     }
 ]
