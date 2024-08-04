@@ -16,7 +16,10 @@
         "hintDetail" : "Detail regarding the subject",
         "landlord" : "Landlord",
         "feedback" : "Feedback",
-        "feedbackDetail" : "Leave your feedback here"
+        "feedbackDetail" : "Leave your feedback here",
+        "landlordId" : "Landlord ID",
+        "warningAlertLeft" : "Are you sure you want to leave ",
+        "warningAlertRight" : " ?"
     },
     {
         "tenantMode" : "房客模式",
@@ -35,6 +38,9 @@
         "hintDetail" : "詳細說明/原因/補充內容",
         "landlord" : "房東",
         "feedback" : "評論",
-        "feedbackDetail" : "留下您的評論吧！"
+        "feedbackDetail" : "留下您的評論吧！",
+        "landlordId" : "房東 ID",
+        "warningAlertLeft" : "您確定您要離開 ",
+        "warningAlertRight" : " 嗎？"
     }
 ]
