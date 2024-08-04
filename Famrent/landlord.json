@@ -23,9 +23,7 @@
         "bill" : "Bill",
         "type" : "Type",
         "warningAlertLeft" : "Are you sure you want to delete ",
-        "warningAlertRight" : " ?",
-        "scheduled" : "Scheduled",
-        "solved" : "Solved"
+        "warningAlertRight" : " ?"
     },
     {
         "landlordMode" : "房東模式",
@@ -51,8 +49,6 @@
         "bill" : "帳單",
         "type" : "類別",
         "warningAlertLeft" : "您確定您要刪除 ",
-        "warningAlertRight" : " 嗎？",
-        "scheduled" : "已排程",
-        "solved" : "已解決"
+        "warningAlertRight" : " 嗎？"
     }
 ]

@@ -32,6 +32,8 @@
         "repairSpeed" : "Repair Speed",
         "costToPriceRatio" : "Cost To Price Ratio",
         "overall" : "Overall",
+        "scheduled" : "Scheduled",
+        "solved" : "Solved",
         "subject" : "Subject",
         "detail" : "Detail"
     },
@@ -68,6 +70,8 @@
         "repairSpeed" : "修繕效率",
         "costToPriceRatio" : "性價比",
         "overall" : "總體",
+        "scheduled" : "已排程",
+        "solved" : "已解決",
         "subject" : "主旨",
         "detail" : "詳細資料"
     }
