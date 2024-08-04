@@ -15,7 +15,13 @@
         "due5" : "Due every 5th",
         "due15" : "Due every 15th",
         "due25" : "Due every 25th",
-        "due30" : "Due on the last day"
+        "due30" : "Due on the last day",
+        "repair" : "Repair",
+        "report" : "Report",
+        "upload" : "Upload",
+        "pending" : "Pending",
+        "rejected" : "Rejected",
+        "history" : "History"
     },
     {
         "receipt1" : "一月發票",
@@ -33,6 +39,12 @@
         "due5" : "每月 5 號到期",
         "due15" : "每月 15 號到期",
         "due25" : "每月 25 號到期",
-        "due30" : "每月最後一天到期"
+        "due30" : "每月最後一天到期",
+        "repair" : "維修",
+        "report" : "檢舉",
+        "upload" : "上傳",
+        "pending" : "審查中",
+        "rejected" : "未通過",
+        "history" : "歷史紀錄"
     }
 ]
