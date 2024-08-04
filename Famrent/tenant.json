@@ -15,7 +15,8 @@
         "hintUpload" : "E.g. Service Dog Certificate",
         "hintDetail" : "Detail regarding the subject",
         "landlord" : "Landlord",
-        "feedback" : "Feedback"
+        "feedback" : "Feedback",
+        "feedbackDetail" : "Leave your feedback here"
     },
     {
         "tenantMode" : "房客模式",
@@ -33,6 +34,7 @@
         "hintUpload" : "例：身心障礙的相關文件",
         "hintDetail" : "詳細說明/原因/補充內容",
         "landlord" : "房東",
-        "feedback" : "反饋"
+        "feedback" : "評論",
+        "feedbackDetail" : "留下您的評論吧！"
     }
 ]
