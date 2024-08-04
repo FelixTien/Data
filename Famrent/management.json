@@ -27,6 +27,11 @@
         "pending" : "Pending",
         "rejected" : "Rejected",
         "history" : "History",
+        "landlordCommunication" : "Landlord Communication",
+        "housingQuality" : "Housing Quality",
+        "repairSpeed" : "Repair Speed",
+        "costToPriceRatio" : "Cost To Price Ratio",
+        "overall" : "Overall",
         "subject" : "Subject",
         "detail" : "Detail"
     },
@@ -58,6 +63,11 @@
         "pending" : "審查中",
         "rejected" : "未通過",
         "history" : "歷史紀錄",
+        "landlordCommunication" : "溝通流暢度",
+        "housingQuality" : "居住環境",
+        "repairSpeed" : "修繕效率",
+        "costToPriceRatio" : "性價比",
+        "overall" : "總體",
         "subject" : "主旨",
         "detail" : "詳細資料"
     }

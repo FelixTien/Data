@@ -13,7 +13,9 @@
         "hintRepair" : "E.g. Toilet is clogged",
         "hintReport" : "E.g. My neighbor keeps throwing trash",
         "hintUpload" : "E.g. Service Dog Certificate",
-        "hintDetail" : "Detail regarding the subject"
+        "hintDetail" : "Detail regarding the subject",
+        "landlord" : "Landlord",
+        "feedback" : "Feedback"
     },
     {
         "tenantMode" : "房客模式",
@@ -29,6 +31,8 @@
         "hintRepair" : "例：我的馬桶堵塞了",
         "hintReport" : "例：鄰居一直丟垃圾在我家門口",
         "hintUpload" : "例：身心障礙的相關文件",
-        "hintDetail" : "詳細說明/原因/補充內容"
+        "hintDetail" : "詳細說明/原因/補充內容",
+        "landlord" : "房東",
+        "feedback" : "反饋"
     }
 ]
