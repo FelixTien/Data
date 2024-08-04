@@ -19,9 +19,11 @@
         "deposit" : "Deposit",
         "late" : "Late",
         "ontime" : "On Time",
+        "total" : "Total",
         "repair" : "Repair",
         "report" : "Report",
         "upload" : "Upload",
+        "warning" : "Warning",
         "pending" : "Pending",
         "rejected" : "Rejected",
         "history" : "History"
@@ -46,9 +48,11 @@
         "deposit" : "押金",
         "late" : "遲繳",
         "ontime" : "準時繳",
+        "total" : "總價",
         "repair" : "維修",
         "report" : "檢舉",
         "upload" : "上傳",
+        "warning" : "警告",
         "pending" : "審查中",
         "rejected" : "未通過",
         "history" : "歷史紀錄"
