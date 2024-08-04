@@ -1,0 +1,18 @@
+[
+    {
+        "tenantMode" : "Tenant Mode",
+        "monthlyPayment" : "Montyly Payment",
+        "rent" : "Rent",
+        "utility" : "Utility",
+        "wifi" : "Wi-Fi",
+        "other" : "Other"
+    },
+    {
+        "tenantMode" : "房客模式",
+        "monthlyPayment" : "每月支出",
+        "rent" : "房租",
+        "utility" : "水電",
+        "wifi" : "網路",
+        "other" : "其他"
+    }
+]
