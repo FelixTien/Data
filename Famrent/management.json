@@ -11,7 +11,11 @@
         "receipt9" : "September Receipt",
         "receipt10" : "October Receipt",
         "receipt11" : "November Receipt",
-        "receipt12" : "December Receipt"
+        "receipt12" : "December Receipt",
+        "due5" : "Due every 5th",
+        "due15" : "Due every 15th",
+        "due25" : "Due every 25th",
+        "due30" : "Due on the last day"
     },
     {
         "receipt1" : "一月發票",
@@ -25,6 +29,10 @@
         "receipt9" : "九月發票",
         "receipt10" : "十月發票",
         "receipt11" : "十一月發票",
-        "receipt12" : "十二月發票"
+        "receipt12" : "十二月發票",
+        "due5" : "每月 5 號到期",
+        "due15" : "每月 5 號到期",
+        "due25" : "每月 5 號到期",
+        "due30" : "每月最後一天到期"
     }
 ]
