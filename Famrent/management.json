@@ -26,7 +26,9 @@
         "warning" : "Warning",
         "pending" : "Pending",
         "rejected" : "Rejected",
-        "history" : "History"
+        "history" : "History",
+        "subject" : "Subject",
+        "detail" : "Detail"
     },
     {
         "receipt1" : "一月發票",
@@ -55,6 +57,8 @@
         "warning" : "警告",
         "pending" : "審查中",
         "rejected" : "未通過",
-        "history" : "歷史紀錄"
+        "history" : "歷史紀錄",
+        "subject" : "主旨",
+        "detail" : "詳細資料"
     }
 ]

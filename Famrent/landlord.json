@@ -30,9 +30,7 @@
         "warningAlertLeft" : "Are you sure you want to delete ",
         "warningAlertRight" : " ?",
         "scheduled" : "Scheduled",
-        "solved" : "Solved",
-        "subject" : "Subject",
-        "detail" : "Detail"
+        "solved" : "Solved"
     },
     {
         "landlordMode" : "房東模式",
@@ -65,8 +63,6 @@
         "warningAlertLeft" : "您確定您要刪除 ",
         "warningAlertRight" : " 嗎？",
         "scheduled" : "已排程",
-        "solved" : "已解決",
-        "subject" : "主旨",
-        "detail" : "詳細資料"
+        "solved" : "已解決"
     }
 ]
