@@ -8,7 +8,8 @@
         "other" : "Other",
         "myRentals" : "My Rentals",
         "uploadPaymentReceipt" : "Upload Payment Receipt",
-        "rateYourLandlord" : "Rate Your Landlord"
+        "rateYourLandlord" : "Rate Your Landlord",
+        "upload" : "Upload "
     },
     {
         "tenantMode" : "房客模式",
@@ -19,6 +20,7 @@
         "other" : "其他",
         "myRentals" : "我的租約",
         "uploadPaymentReceipt" : "上傳付款明細",
-        "rateYourLandlord" : "為你的房東評分"
+        "rateYourLandlord" : "為你的房東評分",
+        "upload" : "上傳"
     }
 ]
