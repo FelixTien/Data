@@ -18,6 +18,7 @@
         "invalidSmsCode" : "Invalid SMS code.",
         "verify" : "Verify",
         "yourAccountHasBeenDeleted" : "Your Account Has Been Deleted",
+        "yourPasswordHasBeenChanged" : "Your Password Has Been Changed",
         "ok" : "OK"
     },
     {
@@ -39,6 +40,7 @@
         "invalidSmsCode" : "簡訊驗證碼無效。",
         "verify" : "驗證",
         "yourAccountHasBeenDeleted" : "您的帳號已被刪除",
+        "yourPasswordHasBeenChanged" : "您已更改您的密碼",
         "ok" : "確認"
     }
 ]
