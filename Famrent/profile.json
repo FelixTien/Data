@@ -19,7 +19,20 @@
         "verify" : "Verify",
         "yourAccountHasBeenDeleted" : "Your Account Has Been Deleted",
         "yourPasswordHasBeenChanged" : "Your Password Has Been Changed",
-        "ok" : "OK"
+        "ok" : "OK",
+        "password" : "Password",
+        "confirmPassword" : "Confirm Password",
+        "enterYourNewPassword" : "Enter Your New Password.",
+        "noEmptyField" : "No empty field.",
+        "passwordShouldBeAtLeast6Characters" : "Password should be at least 6 characters.",
+        "passwordDoesNotMatch" : "Password does not match.",
+        "severError" : "Sever error.",
+        "reset" : "Reset",
+        "email" : "Email",
+        "emailDescription" : "Enter your desired email address and click the button. You'll receive a verification link to confirm the change.",
+        "invalidEmail" : "Invalid email.",
+        "theEmailHasBeenRegistered" : "The email has been registered.",
+        "sendVerificationLink" : "Send Verification Link"
     },
     {
         "language" : "語言",
@@ -41,6 +54,19 @@
         "verify" : "驗證",
         "yourAccountHasBeenDeleted" : "您的帳號已被刪除",
         "yourPasswordHasBeenChanged" : "您已更改您的密碼",
-        "ok" : "確認"
+        "ok" : "確認",
+        "password" : "密碼",
+        "confirmPassword" : "確認密碼",
+        "enterYourNewPassword" : "輸入您的新密碼。",
+        "noEmptyField" : "請輸入所有欄位。",
+        "passwordShouldBeAtLeast6Characters" : "密碼必須至少 6 個字符。",
+        "passwordDoesNotMatch" : "密碼不相符。",
+        "severError" : "伺服器錯誤。",
+        "reset" : "重置密碼",
+        "email" : "電子郵件",
+        "emailDescription" : "輸入您想變更的電子郵件然後點擊下方按鈕，您將會收到驗證連結來確認您的變更。",
+        "invalidEmail" : "無效的電子郵件。",
+        "theEmailHasBeenRegistered" : "此電子郵件已經被使用了。",
+        "sendVerificationLink" : "發送驗證連結"
     }
 ]
