@@ -16,7 +16,9 @@
         "userId" : "User ID",
         "verifyIdentity" : "Verify Identity",
         "invalidSmsCode" : "Invalid SMS code.",
-        "verify" : "Verify"
+        "verify" : "Verify",
+        "yourAccountHasBeenDeleted" : "Your Account Has Been Deleted",
+        "ok" : "OK"
     },
     {
         "language" : "語言",
@@ -35,6 +37,8 @@
         "userId" : "使用者 ID",
         "verifyIdentity" : "身分驗證",
         "invalidSmsCode" : "簡訊驗證碼無效。",
-        "verify" : "驗證"
+        "verify" : "驗證",
+        "yourAccountHasBeenDeleted" : "您的帳號已被刪除",
+        "ok" : "確認"
     }
 ]
