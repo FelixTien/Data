@@ -1,8 +1,30 @@
 [
     {
-        "language" : "Language"
+        "language" : "Language",
+        "mode" : "Mode",
+        "landlord" : "Landlord",
+        "tenant" : "Tenant",
+        "profileOptions" : "Profile Options",
+        "changePassword" : "Change Password",
+        "changeEmail" : "Change Email",
+        "signOut" : "Sign Out",
+        "signOutAlert" : "You have successfully signed out.",
+        "deleteAccount" : "Delete Account",
+        "deleteAccountTitle" : "Warning",
+        "deleteAccountAlert" : "Are you sure you want to delete your account?"
     },
     {
-        "language" : "語言"
+        "language" : "語言",
+        "mode" : "模式",
+        "landlord" : "房東",
+        "tenant" : "房客",
+        "profileOptions" : "個人資料",
+        "changePassword" : "變更密碼",
+        "changeEmail" : "變更電子郵件",
+        "signOut" : "登出",
+        "signOutAlert" : "您已成功登出您的帳號。",
+        "deleteAccount" : "刪除帳號",
+        "deleteAccountTitle" : "警告",
+        "deleteAccountAlert" : "您確定您要刪除您的帳號嗎？"
     }
 ]
