@@ -13,7 +13,7 @@
         "deleteAccountTitle" : "Warning",
         "deleteAccountAlert" : "Are you sure you want to delete your account?",
         "userName" : "User Name",
-        "UserId" : "User ID"
+        "userId" : "User ID"
     },
     {
         "language" : "語言",
