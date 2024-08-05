@@ -11,7 +11,9 @@
         "signOutAlert" : "You have successfully signed out.",
         "deleteAccount" : "Delete Account",
         "deleteAccountTitle" : "Warning",
-        "deleteAccountAlert" : "Are you sure you want to delete your account?"
+        "deleteAccountAlert" : "Are you sure you want to delete your account?",
+        "userName" : "User Name",
+        "UserId" : "User ID"
     },
     {
         "language" : "語言",
@@ -25,6 +27,8 @@
         "signOutAlert" : "您已成功登出您的帳號。",
         "deleteAccount" : "刪除帳號",
         "deleteAccountTitle" : "警告",
-        "deleteAccountAlert" : "您確定您要刪除您的帳號嗎？"
+        "deleteAccountAlert" : "您確定您要刪除您的帳號嗎？",
+        "userName" : "使用者名稱",
+        "UserId" : "使用者 ID"
     }
 ]
