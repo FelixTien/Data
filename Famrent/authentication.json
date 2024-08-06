@@ -2,6 +2,7 @@
     {
         "phoneNumber" : "Phone Number",
         "orSignInWith" : "or sign in with",
+        "accountHasBeenDeleted" : "Account has been deleted.",
         "home" : "Home",
         "email" : "Email",
         "password" : "Password",
@@ -15,6 +16,7 @@
     {
         "phoneNumber" : "電話號碼",
         "orSignInWith" : "其他登入選項",
+        "accountHasBeenDeleted" : "帳號已被刪除。",
         "home" : "首頁",
         "email" : "電子郵件",
         "password" : "密碼",
