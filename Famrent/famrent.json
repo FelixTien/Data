@@ -7,7 +7,7 @@
         "notification" : "Notification",
         "profile" : "Profile",
         "cancel" : "Cancel",
-        "Confirm" : "Confirm",
+        "confirm" : "Confirm",
         "yes" : "Yes",
         "no" : "No"
     },
@@ -19,7 +19,7 @@
         "notification" : "通知",
         "profile" : "簡介",
         "cancel" : "取消",
-        "Confirm" : "確定",
+        "confirm" : "確定",
         "yes" : "是",
         "no" : "否"
     }
