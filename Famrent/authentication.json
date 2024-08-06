@@ -27,7 +27,8 @@
         "createContent" : "Please check your email for the verification link and click on it to verify your account before logging in.",
         "phoneMessage" : "We will send you a SMS message to confirm your phone number.",
         "invalidPhoneNumber" : "Invalid phone number.",
-        "next" : "Continue"
+        "next" : "Continue",
+        "invalidSmsCode" : "Invalid SMS code."
     },
     {
         "phoneNumber" : "電話號碼",
@@ -57,6 +58,7 @@
         "createContent" : "請檢查您電子郵件中的驗證連結，並請先點擊它以驗證您的帳號再登入。",
         "phoneMessage" : "我們將會傳送簡訊驗證碼到您的手機。",
         "invalidPhoneNumber" : "無效的電話號碼。",
-        "next" : "繼續"
+        "next" : "繼續",
+        "invalidSmsCode" : "簡訊驗證碼無效。"
     }
 ]
