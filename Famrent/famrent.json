@@ -2,11 +2,25 @@
     {
         "us" : "US",
         "tw" : "TW",
-        "jp" : "JP"
+        "jp" : "JP",
+        "management" : "Management",
+        "notification" : "Notification",
+        "profile" : "Profile",
+        "cancel" : "Cancel",
+        "Confirm" : "Confirm",
+        "yes" : "Yes",
+        "no" : "No"
     },
     {
         "us" : "美國",
         "tw" : "臺灣",
-        "jp" : "日本"
+        "jp" : "日本",
+        "management" : "管理",
+        "notification" : "通知",
+        "profile" : "簡介",
+        "cancel" : "取消",
+        "Confirm" : "確定",
+        "yes" : "是",
+        "no" : "否"
     }
 ]
