@@ -60,7 +60,7 @@
         "accountHasNotYetBeenVerified" : "帳號尚未被驗證。",
         "invalidPassword" : "密碼無效。",
         "changeNewEmailLinkSent" : "更改電子郵件連結已送出",
-        "changeEmailMessage" : "請至新電子郵件中點選驗證連結以更新電子郵件請檢查您的新電子郵件中的驗證連結，並點擊它以更改您的帳號至新電子郵件。",
+        "changeEmailMessage" : "請檢查您新電子郵件中的驗證連結，並點擊它以更改您的帳號至新電子郵件。",
         "yourAccountHasBeenDeleted" : "您的帳號已被刪除",
         "yourPasswordHasBeenChanged" : "您已更改您的密碼",
         "ok" : "確認",
