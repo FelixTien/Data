@@ -1,10 +1,22 @@
 [
     {
         "phoneNumber" : "Phone Number",
-        "orSignInWith" : "or sign in with"
+        "orSignInWith" : "or sign in with",
+        "home" : "Home",
+        "email" : "Email",
+        "password" : "Password",
+        "resetPassword" : "Reset Password",
+        "login" : "Log In",
+        "registerAnAccountAndJoinUs" : "Register an account and join us."
     },
     {
         "phoneNumber" : "電話號碼",
-        "orSignInWith" : "其他登入選項"
+        "orSignInWith" : "其他登入選項",
+        "home" : "首頁",
+        "email" : "電子郵件",
+        "password" : "密碼",
+        "resetPassword" : "重置密碼",
+        "login" : "登入",
+        "registerAnAccountAndJoinUs" : "創建新帳號來加入我們。"
     }
 ]
