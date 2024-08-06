@@ -7,7 +7,10 @@
         "password" : "Password",
         "resetPassword" : "Reset Password",
         "login" : "Log In",
-        "registerAnAccountAndJoinUs" : "Register an account and join us."
+        "registerAnAccountAndJoinUs" : "Register an account and join us.",
+        "noEmptyField" : "No empty field.",
+        "accountHasNotYetBeenVerified" : "Account has not yet been verified.",
+        "invalidEmailOrPassword" : "Invalid email or password."
     },
     {
         "phoneNumber" : "電話號碼",
@@ -17,6 +20,9 @@
         "password" : "密碼",
         "resetPassword" : "重置密碼",
         "login" : "登入",
-        "registerAnAccountAndJoinUs" : "創建新帳號來加入我們。"
+        "registerAnAccountAndJoinUs" : "創建新帳號來加入我們。",
+        "noEmptyField" : "請輸入所有欄位。",
+        "accountHasNotYetBeenVerified" : "帳號尚未被驗證。",
+        "invalidEmailOrPassword" : "無效的帳號或密碼。"
     }
 ]
