@@ -24,7 +24,10 @@
         "resetTitle" : "Password Reset Email Sent",
         "resetContent" : "Please check your email for the link to reset your password and follow the instructions to create a new one.",
         "createTitle" : "Verification Email Link Sent",
-        "createContent" : "Please check your email for the verification link and click on it to verify your account before logging in."
+        "createContent" : "Please check your email for the verification link and click on it to verify your account before logging in.",
+        "phoneMessage" : "We will send you a SMS message to confirm your phone number.",
+        "invalidPhoneNumber" : "Invalid phone number.",
+        "next" : "Continue"
     },
     {
         "phoneNumber" : "電話號碼",
@@ -51,6 +54,9 @@
         "resetTitle" : "重置密碼的電子郵件已發送",
         "resetContent" : "請檢查您電子郵件中的重置密碼連結，並按照指示來建立新密碼。",
         "createTitle" : "驗證電子郵件已發送",
-        "createContent" : "請檢查您電子郵件中的驗證連結，並請先點擊它以驗證您的帳號再登入。"
+        "createContent" : "請檢查您電子郵件中的驗證連結，並請先點擊它以驗證您的帳號再登入。",
+        "phoneMessage" : "我們將會傳送簡訊驗證碼到您的手機。",
+        "invalidPhoneNumber" : "無效的電話號碼。",
+        "next" : "繼續"
     }
 ]
