@@ -19,7 +19,11 @@
         "feedbackDetail" : "Leave your feedback here",
         "landlordId" : "Landlord ID",
         "warningAlertLeft" : "Are you sure you want to leave ",
-        "warningAlertRight" : " ?"
+        "warningAlertRight" : " ?",
+        "emptySubject" : "Empty subject.",
+        "emptyDetail." : "Empty detail.",
+        "errorAlertLeft" : "",
+        "errorAlertRight" : " photo required."
     },
     {
         "tenantMode" : "房客模式",
@@ -41,6 +45,10 @@
         "feedbackDetail" : "留下您的評論吧！",
         "landlordId" : "房東 ID",
         "warningAlertLeft" : "您確定您要離開 ",
-        "warningAlertRight" : " 嗎？"
+        "warningAlertRight" : " 嗎？",
+        "emptySubject" : "主旨不可為空白。",
+        "emptyDetail." : "詳細資料不可為空白。",
+        "errorAlertLeft" : "請上傳 ",
+        "errorAlertRight" : " 圖片。"
     }
 ]
