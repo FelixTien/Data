@@ -14,7 +14,12 @@
         "invalidEmailOrPassword" : "Invalid email or password.",
         "forgotMessage" : "Enter your email address and click the button. We'll send you a link to reset your password.",
         "invalidEmail" : "Invalid email.",
-        "sendResetLink" : "Send Reset Link"
+        "sendResetLink" : "Send Reset Link",
+        "passwordShouldBeAtLeast6Characters" : "Password should be at least 6 characters.",
+        "passwordDoesNotMatch" : "Password does not match.",
+        "theEmailHasBeenRegistered" : "The email has been registered.",
+        "serverError" : "Server error.",
+        "register" : "Register"
     },
     {
         "phoneNumber" : "電話號碼",
@@ -31,6 +36,11 @@
         "invalidEmailOrPassword" : "無效的帳號或密碼。",
         "forgotMessage" : "輸入您的電子郵件並點擊下方按鈕。我們將向您發送重置密碼的連結。",
         "invalidEmail" : "無效的電子郵件。",
-        "sendResetLink" : "發送重置連結"
+        "sendResetLink" : "發送重置連結",
+        "passwordShouldBeAtLeast6Characters" : "密碼必須至少 6 個字符。",
+        "passwordDoesNotMatch" : "密碼不相符。",
+        "theEmailHasBeenRegistered" : "此電子郵件已經被使用了。",
+        "serverError" : "伺服器錯誤。",
+        "register" : "註冊"
     }
 ]
