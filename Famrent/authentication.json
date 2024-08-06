@@ -28,7 +28,8 @@
         "phoneMessage" : "We will send you a SMS message to confirm your phone number.",
         "invalidPhoneNumber" : "Invalid phone number.",
         "next" : "Continue",
-        "invalidSmsCode" : "Invalid SMS code."
+        "invalidSmsCode" : "Invalid SMS code.",
+        "verify" : "Verify"
     },
     {
         "phoneNumber" : "電話號碼",
@@ -59,6 +60,7 @@
         "phoneMessage" : "我們將會傳送簡訊驗證碼到您的手機。",
         "invalidPhoneNumber" : "無效的電話號碼。",
         "next" : "繼續",
-        "invalidSmsCode" : "簡訊驗證碼無效。"
+        "invalidSmsCode" : "簡訊驗證碼無效。",
+        "verify" : "驗證"
     }
 ]
