@@ -1,8 +1,10 @@
 [
     {
-        "phoneNumber" : "Phone Number"
+        "phoneNumber" : "Phone Number",
+        "orSignInWith" : "or sign in with"
     },
     {
-        "phoneNumber" : "電話號碼"
+        "phoneNumber" : "電話號碼",
+        "orSignInWith" : "其他登入選項"
     }
 ]
