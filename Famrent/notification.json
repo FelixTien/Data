@@ -1,11 +1,13 @@
 [
     {
         "notification" : "Notification",
+        "leaseInfo" : "Lease Info",
         "requestTitle" : "Lease Request",
         "requestRight" : " sends you a lease request."
     },
     {
         "notification" : "通知",
+        "leaseInfo" : "租約資訊",
         "requestTitle" : "租約請求",
         "requestRight" : " 邀請您成為他的房客。"
     }

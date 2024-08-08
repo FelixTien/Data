@@ -9,7 +9,10 @@
         "cancel" : "Cancel",
         "confirm" : "Confirm",
         "yes" : "Yes",
-        "no" : "No"
+        "no" : "No",
+        "accept" : "Accept",
+        "refuse" : "Refuse",
+        "acknowledge" : "Acknowledge"
     },
     {
         "us" : "美國",
@@ -21,6 +24,9 @@
         "cancel" : "取消",
         "confirm" : "確定",
         "yes" : "是",
-        "no" : "否"
+        "no" : "否",
+        "accept" : "接受",
+        "refuse" : "拒絕",
+        "acknowledge" : "了解"
     }
 ]
