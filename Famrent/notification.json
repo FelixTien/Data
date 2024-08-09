@@ -2,13 +2,17 @@
     {
         "notification" : "Notification",
         "leaseInfo" : "Lease Info",
-        "requestTitle" : "Lease Request",
-        "requestRight" : " sends you a lease request."
+        "leaseRequestTitle" : "Lease Request",
+        "leaseRequestRight" : " sends you a lease request.",
+        "leaseAcceptedTitle" : "Lease Accepted",
+        "leaseAcceptedRight" : " accepted your lease request."
     },
     {
         "notification" : "通知",
         "leaseInfo" : "租約資訊",
-        "requestTitle" : "租約請求",
-        "requestRight" : " 邀請您成為他的房客。"
+        "leaseRequestTitle" : "租約請求",
+        "leaseRequestRight" : " 邀請您成為他的房客。",
+        "leaseAcceptedTitle" : "接受租約",
+        "leaseAcceptedRight" : " 已接受並成為您的房客。"
     }
 ]
