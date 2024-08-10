@@ -3,6 +3,7 @@
         "notification" : "Notification",
         "lease" : "Lease Info",
         "info" : " Info",
+        "createdTime" : "Created Time",
         "leaseRequestTitle" : "Lease Request",
         "leaseRequestRight" : " sends you a lease request.",
         "leaseAcceptedTitle" : "Lease Accepted",
@@ -12,12 +13,19 @@
         "leaseIsRemovedRight" : ".",
         "tenantLeftTitle" : "Tenant Left",
         "tenantLeftLeft" : " left a lease from ",
-        "tenantLeftRight" : "."
+        "tenantLeftRight" : ".",
+        "repairCreatedTitle" : "Repair Created",
+        "repairCreatedRight" : " created a new repair for a broken item.",
+        "reportCreatedTitle" : "Report Created",
+        "reportCreatedRight" : " make a new report.",
+        "uploadCreatedTitle" : "Upload Created",
+        "uploadCreatedRight" : " uploaded a new document."
     },
     {
         "notification" : "通知",
-        "leaseInfo" : "租約資訊",
+        "lease" : "租約",
         "info" : "資訊",
+        "createdTime" : "創建時間",
         "leaseRequestTitle" : "租約請求",
         "leaseRequestRight" : " 邀請您成為房客。",
         "leaseAcceptedTitle" : "接受租約",
@@ -27,6 +35,12 @@
         "leaseIsRemovedRight" : " 中移除。",
         "tenantLeftTitle" : "房客已離開",
         "tenantLeftLeft" : " 已從您的 ",
-        "tenantLeftRight" : " 合約中離開。"
+        "tenantLeftRight" : " 合約中離開。",
+        "repairCreatedTitle" : "維修事項",
+        "repairCreatedRight" : " 通報了一個損壞物件需要維修。",
+        "reportCreatedTitle" : "檢舉報告",
+        "reportCreatedRight" : " 新增了一項檢舉報告。",
+        "uploadCreatedTitle" : "上傳檔案",
+        "uploadCreatedRight" : " 上傳了一個新檔案。"
     }
 ]
