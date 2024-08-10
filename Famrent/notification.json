@@ -5,7 +5,13 @@
         "leaseRequestTitle" : "Lease Request",
         "leaseRequestRight" : " sends you a lease request.",
         "leaseAcceptedTitle" : "Lease Accepted",
-        "leaseAcceptedRight" : " accepted your lease request."
+        "leaseAcceptedRight" : " accepted your lease request.",
+        "leaseIsRemovedTitle" : "Lease Is Removed",
+        "leaseIsRemovedLeft" : " removed you from ",
+        "leaseIsRemovedRight" : ".",
+        "tenantLeftTitle" : "TenantLeft",
+        "tenantLeftLeft" : " left a lease from ",
+        "tenantLeftRight" : "."
     },
     {
         "notification" : "通知",
@@ -13,6 +19,12 @@
         "leaseRequestTitle" : "租約請求",
         "leaseRequestRight" : " 邀請您成為他的房客。",
         "leaseAcceptedTitle" : "接受租約",
-        "leaseAcceptedRight" : " 已接受並成為您的房客。"
+        "leaseAcceptedRight" : " 已接受並成為您的房客。",
+        "leaseIsRemovedTitle" : "租約已被移除",
+        "leaseIsRemovedLeft" : " 已將您從 ",
+        "leaseIsRemovedRight" : " 中移除。",
+        "tenantLeftTitle" : "房客已離開",
+        "tenantLeftLeft" : " 已從您的 ",
+        "tenantLeftRight" : " 合約中離開。"
     }
 ]
