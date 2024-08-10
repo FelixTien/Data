@@ -1,7 +1,8 @@
 [
     {
         "notification" : "Notification",
-        "leaseInfo" : "Lease Info",
+        "lease" : "Lease Info",
+        "info" : " Info",
         "leaseRequestTitle" : "Lease Request",
         "leaseRequestRight" : " sends you a lease request.",
         "leaseAcceptedTitle" : "Lease Accepted",
@@ -16,8 +17,9 @@
     {
         "notification" : "通知",
         "leaseInfo" : "租約資訊",
+        "info" : "資訊",
         "leaseRequestTitle" : "租約請求",
-        "leaseRequestRight" : " 邀請您成為他的房客。",
+        "leaseRequestRight" : " 邀請您成為房客。",
         "leaseAcceptedTitle" : "接受租約",
         "leaseAcceptedRight" : " 已接受並成為您的房客。",
         "leaseIsRemovedTitle" : "租約已被移除",
