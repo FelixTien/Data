@@ -30,7 +30,7 @@
         "yes" : "是",
         "no" : "否",
         "accept" : "接受",
-        "refuse" : "拒絕",
+        "reject" : "拒絕",
         "acknowledge" : "了解"
     }
 ]
