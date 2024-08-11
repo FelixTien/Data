@@ -3,6 +3,7 @@
         "notification" : "Notification",
         "lease" : "Lease Info",
         "info" : " Info",
+        "time" : " Time",
         "createdTime" : "Created Time",
         "leaseRequestTitle" : "Lease Request",
         "leaseRequestRight" : " sends you a lease request.",
@@ -22,14 +23,16 @@
         "uploadCreatedRight" : " uploaded a new document.",
         "solved" : "Solved",
         "scheduled" : "Scheduled",
-        "completed" : "Accepted",
+        "completed" : "Completed",
         "canceled" : "Canceled",
-        "rejected" : "Rejected"
+        "rejected" : "Rejected",
+        "accepted" : "Accepted"
     },
     {
         "notification" : "通知",
         "lease" : "租約",
         "info" : "資訊",
+        "time" : "時間",
         "createdTime" : "創建時間",
         "leaseRequestTitle" : "租約請求",
         "leaseRequestRight" : " 邀請您成為房客。",
@@ -47,10 +50,11 @@
         "reportCreatedRight" : " 新增了一項檢舉報告。",
         "uploadCreatedTitle" : "上傳檔案",
         "uploadCreatedRight" : " 上傳了一個新檔案。",
-        "solved" : "已解決",
-        "scheduled" : "已排程",
-        "completed" : "已接受",
-        "canceled" : "已取消",
-        "rejected" : "被決絕"
+        "solved" : "解決",
+        "scheduled" : "排程",
+        "completed" : "完成",
+        "canceled" : "取消",
+        "rejected" : "拒絕",
+        "accepted" : "接受"
     }
 ]
