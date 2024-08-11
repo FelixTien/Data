@@ -56,13 +56,7 @@
         "canceled" : "Canceled",
         "created" : "Created",
         "rejectTheSolution" : "Reject The Solution",
-        "alertRejectLeft" : "Do you want to reject the ",
-        "alertRejectMid" : " solution from ",
-        "alertRejectRight" : "?",
-        "acceptTheSolution" : "Accept The Solution",
-        "alertAcceptLeft" : "Do you want to accept the ",
-        "alertAcceptMid" : " solution from ",
-        "alertAcceptRight" : "?"
+        "acceptTheSolution" : "Accept The Solution"
     },
     {
         "notification" : "通知",
@@ -121,12 +115,6 @@
         "canceled" : "取消",
         "created" : "創建",
         "rejectTheSolution" : "拒絕解決方案",
-        "alertRejectLeft" : "您確定您要拒絕 ",
-        "alertRejectMid" : " 的 ",
-        "alertRejectRight" : " 解決方案嗎？",
-        "acceptTheSolution" : "接受解決方案",
-        "alertAcceptLeft" : "您確定您要接受 ",
-        "alertAcceptMid" : " 的 ",
-        "alertAcceptRight" : " 解決方案嗎？"
+        "acceptTheSolution" : "接受解決方案"
     }
 ]
