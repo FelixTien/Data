@@ -54,7 +54,15 @@
         "rejected" : "Rejected",
         "accepted" : "Accepted",
         "canceled" : "Canceled",
-        "created" : "Created"
+        "created" : "Created",
+        "rejectTheSolution" : "Reject The Solution",
+        "alertRejectLeft" : "Do you want to reject the ",
+        "alertRejectMid" : " solution from ",
+        "alertRejectRight" : "?",
+        "acceptTheSolution" : "Accept The Solution",
+        "alertAcceptLeft" : "Do you want to accept the ",
+        "alertAcceptMid" : " solution from ",
+        "alertAcceptRight" : "?"
     },
     {
         "notification" : "通知",
@@ -111,6 +119,14 @@
         "rejected" : "拒絕",
         "accepted" : "接受",
         "canceled" : "取消",
-        "created" : "創建"
+        "created" : "創建",
+        "rejectTheSolution" : "拒絕解決方案",
+        "alertRejectLeft" : "您確定您要拒絕 ",
+        "alertRejectMid" : " 的解決方案 ",
+        "alertRejectRight" : " 嗎？",
+        "acceptTheSolution" : "接受解決方案",
+        "alertAcceptLeft" : "您確定您要接受 ",
+        "alertAcceptMid" : " 的解決方案 ",
+        "alertAcceptRight" : " 嗎？"
     }
 ]
