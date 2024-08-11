@@ -13,7 +13,7 @@
         "yes" : "Yes",
         "no" : "No",
         "accept" : "Accept",
-        "refuse" : "Refuse",
+        "reject" : "Reject",
         "acknowledge" : "Acknowledge"
     },
     {
