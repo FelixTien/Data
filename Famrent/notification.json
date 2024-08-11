@@ -122,11 +122,11 @@
         "created" : "創建",
         "rejectTheSolution" : "拒絕解決方案",
         "alertRejectLeft" : "您確定您要拒絕 ",
-        "alertRejectMid" : " 的解決方案 ",
-        "alertRejectRight" : " 嗎？",
+        "alertRejectMid" : " 的 ",
+        "alertRejectRight" : " 解決方案嗎？",
         "acceptTheSolution" : "接受解決方案",
         "alertAcceptLeft" : "您確定您要接受 ",
-        "alertAcceptMid" : " 的解決方案 ",
-        "alertAcceptRight" : " 嗎？"
+        "alertAcceptMid" : " 的 ",
+        "alertAcceptRight" : " 解決方案嗎？"
     }
 ]
