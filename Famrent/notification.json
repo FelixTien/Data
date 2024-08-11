@@ -22,7 +22,7 @@
         "uploadCreatedRight" : " uploaded a new document.",
         "solved" : "Solved",
         "scheduled" : "Scheduled",
-        "completed" : "Completed",
+        "completed" : "Accepted",
         "canceled" : "Canceled",
         "rejected" : "Rejected"
     },
@@ -49,7 +49,7 @@
         "uploadCreatedRight" : " 上傳了一個新檔案。",
         "solved" : "已解決",
         "scheduled" : "已排程",
-        "completed" : "已完成",
+        "completed" : "已接受",
         "canceled" : "已取消",
         "rejected" : "被決絕"
     }
