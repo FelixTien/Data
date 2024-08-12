@@ -112,7 +112,7 @@
         "reportRejectedRight" : " 已拒絕您檢舉的解決方案。",
         "statusSolved" : "已解決",
         "statusScheduled" : "已排程",
-        "statusRejected" : "已拒絕",
+        "statusRejected" : "被拒絕",
         "statusCompleted" : "已完成",
         "statusCanceled" : "已取消",
         "statusUnsolved" : "未解決",
