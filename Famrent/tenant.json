@@ -23,7 +23,8 @@
         "emptySubject" : "Empty subject.",
         "emptyDetail" : "Empty detail.",
         "errorAlertLeft" : "",
-        "errorAlertRight" : " photo required."
+        "errorAlertRight" : " photo required.",
+        "pleaseUpdateTheReceiptFirst." : "Please update the receipt first."
     },
     {
         "tenantMode" : "房客模式",
@@ -49,6 +50,7 @@
         "emptySubject" : "主旨不可為空白。",
         "emptyDetail" : "詳細資料不可為空白。",
         "errorAlertLeft" : "請上傳 ",
-        "errorAlertRight" : " 圖片。"
+        "errorAlertRight" : " 圖片。",
+        "pleaseUpdateTheReceiptFirst." : "請先上傳收據圖片。"
     }
 ]
