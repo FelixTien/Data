@@ -102,7 +102,13 @@
         "canceled" : "Canceled",
         "created" : "Created",
         "rejectTheSolution" : "Reject The Solution",
-        "acceptTheSolution" : "Accept The Solution"
+        "acceptTheSolution" : "Accept The Solution",
+        "rejectTheReceiptTitle" : "Reject The Receipt",
+        "rejectTheReceiptLeft" : "Are you sure you want to reject ",
+        "rejectTheReceiptRight" : " receipt?",
+        "acceptTheReceiptTitle" : "Accept The Receipt",
+        "acceptTheReceiptLeft" : "Are you sure you want to accept ",
+        "acceptTheReceiptRight" : " receipt?"
     },
     {
         "notification" : "通知",
@@ -207,6 +213,12 @@
         "canceled" : "取消",
         "created" : "創建",
         "rejectTheSolution" : "拒絕解決方案",
-        "acceptTheSolution" : "接受解決方案"
+        "acceptTheSolution" : "接受解決方案",
+        "rejectTheReceiptTitle" : "拒絕已上傳發票",
+        "rejectTheReceiptLeft" : "您確定您要拒絕 ",
+        "rejectTheReceiptRight" : " 上傳的發票嗎？",
+        "acceptTheReceiptTitle" : "接受已上傳發票",
+        "acceptTheReceiptLeft" : "您確定您要接受 ",
+        "acceptTheReceiptRight" : " 上傳的發票嗎？"
     }
 ]
