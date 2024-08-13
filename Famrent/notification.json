@@ -105,10 +105,10 @@
         "acceptTheSolution" : "Accept The Solution",
         "rejectTheReceiptTitle" : "Reject The Receipt",
         "rejectTheReceiptLeft" : "Are you sure you want to reject ",
-        "rejectTheReceiptRight" : " receipt?",
+        "rejectTheReceiptRight" : "'s receipt?",
         "acceptTheReceiptTitle" : "Accept The Receipt",
         "acceptTheReceiptLeft" : "Are you sure you want to accept ",
-        "acceptTheReceiptRight" : " receipt?"
+        "acceptTheReceiptRight" : "'s receipt?"
     },
     {
         "notification" : "通知",
