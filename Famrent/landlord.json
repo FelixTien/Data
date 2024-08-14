@@ -23,6 +23,29 @@
         "warningAlertRight" : " ?"
     },
     {
+        "landlordMode" : "Landlord Mode",
+        "monthlyIncome" : "Monthly Income",
+        "rent" : "Rent",
+        "utility" : "Utility",
+        "wifi" : "Wi-Fi",
+        "internet" : "Internet",
+        "other" : "Other",
+        "delete" : "Delete",
+        "myLeases" : "My Leases",
+        "request" : "Request",
+        "requesting" : "Requesting",
+        "tenant" : "Tenant",
+        "tenants" : "Tenants",
+        "leaseName" : "Lease Name",
+        "dueDateType" : "Due Date Type",
+        "messages" : "The system starts to send reminding messages 3 days before the due day.",
+        "tenantId" : "Tenant ID",
+        "bill" : "Bill",
+        "type" : "Type",
+        "warningAlertLeft" : "Are you sure you want to delete ",
+        "warningAlertRight" : " ?"
+    },
+    {
         "landlordMode" : "房東模式",
         "monthlyIncome" : "每月收入",
         "rent" : "房租",
@@ -44,5 +67,28 @@
         "type" : "類別",
         "warningAlertLeft" : "您確定您要刪除 ",
         "warningAlertRight" : " 嗎？"
+    },
+    {
+        "landlordMode" : "Landlord Mode",
+        "monthlyIncome" : "Monthly Income",
+        "rent" : "Rent",
+        "utility" : "Utility",
+        "wifi" : "Wi-Fi",
+        "internet" : "Internet",
+        "other" : "Other",
+        "delete" : "Delete",
+        "myLeases" : "My Leases",
+        "request" : "Request",
+        "requesting" : "Requesting",
+        "tenant" : "Tenant",
+        "tenants" : "Tenants",
+        "leaseName" : "Lease Name",
+        "dueDateType" : "Due Date Type",
+        "messages" : "The system starts to send reminding messages 3 days before the due day.",
+        "tenantId" : "Tenant ID",
+        "bill" : "Bill",
+        "type" : "Type",
+        "warningAlertLeft" : "Are you sure you want to delete ",
+        "warningAlertRight" : " ?"
     }
 ]

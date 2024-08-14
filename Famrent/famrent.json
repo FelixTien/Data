@@ -18,6 +18,24 @@
         "acknowledge" : "Acknowledge"
     },
     {
+        "us" : "US",
+        "tw" : "TW",
+        "jp" : "JP",
+        "management" : "Management",
+        "notification" : "Notification",
+        "profile" : "Profile",
+        "previous" : "Previous",
+        "next" : "Next",
+        "cancel" : "Cancel",
+        "confirm" : "Confirm",
+        "update" : "Update",
+        "yes" : "Yes",
+        "no" : "No",
+        "accept" : "Accept",
+        "reject" : "Reject",
+        "acknowledge" : "Acknowledge"
+    },
+    {
         "us" : "美國",
         "tw" : "臺灣",
         "jp" : "日本",
@@ -34,5 +52,23 @@
         "accept" : "接受",
         "reject" : "拒絕",
         "acknowledge" : "了解"
+    },
+    {
+        "us" : "US",
+        "tw" : "TW",
+        "jp" : "JP",
+        "management" : "Management",
+        "notification" : "Notification",
+        "profile" : "Profile",
+        "previous" : "Previous",
+        "next" : "Next",
+        "cancel" : "Cancel",
+        "confirm" : "Confirm",
+        "update" : "Update",
+        "yes" : "Yes",
+        "no" : "No",
+        "accept" : "Accept",
+        "reject" : "Reject",
+        "acknowledge" : "Acknowledge"
     }
 ]
