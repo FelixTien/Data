@@ -34,7 +34,7 @@
     {
         "phoneNumber" : "電話番号",
         "orSignInWith" : "他のログイン方法",
-        "accountHasBeenDeleted" : "Account has been deleted.",
+        "accountHasBeenDeleted" : "アカウントが削除された。",
         "home" : "ホーム",
         "email" : "メール",
         "password" : "パスワード",
@@ -52,7 +52,7 @@
         "passwordDoesNotMatch" : "Password does not match.",
         "theEmailHasBeenRegistered" : "The email has been registered.",
         "serverError" : "Server error.",
-        "register" : "Register",
+        "register" : "登録",
         "resetTitle" : "Password Reset Email Sent",
         "resetContent" : "Please check your email for the link to reset your password and follow the instructions to create a new one.",
         "createTitle" : "Verification Email Link Sent",
