@@ -32,15 +32,15 @@
         "verify" : "Verify"
     },
     {
-        "phoneNumber" : "Phone Number",
-        "orSignInWith" : "or sign in with",
+        "phoneNumber" : "電話番号",
+        "orSignInWith" : "他のログイン方法",
         "accountHasBeenDeleted" : "Account has been deleted.",
-        "home" : "Home",
-        "email" : "Email",
-        "password" : "Password",
-        "confirmPassword" : "Confirm Password",
-        "resetPassword" : "Reset Password",
-        "login" : "Log In",
+        "home" : "ホーム",
+        "email" : "メール",
+        "password" : "パスワード",
+        "confirmPassword" : "パスワード確認",
+        "resetPassword" : "パスワードをリセット",
+        "login" : "ログイン",
         "registerAnAccountAndJoinUs" : "Register an account and join us.",
         "noEmptyField" : "No empty field.",
         "accountHasNotYetBeenVerified" : "Account has not yet been verified.",
@@ -59,7 +59,7 @@
         "createContent" : "Please check your email for the verification link and click on it to verify your account before logging in.",
         "phoneMessage" : "We will send you a SMS message to confirm your phone number.",
         "invalidPhoneNumber" : "Invalid phone number.",
-        "next" : "Continue",
+        "next" : "次へ",
         "invalidSmsCode" : "Invalid SMS code.",
         "verify" : "Verify"
     },
@@ -96,7 +96,7 @@
         "verify" : "驗證"
     },
     {
-        "phoneNumber" : "電話番号",
+        "phoneNumber" : "Phone Number",
         "orSignInWith" : "or sign in with",
         "accountHasBeenDeleted" : "Account has been deleted.",
         "home" : "Home",
