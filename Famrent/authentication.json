@@ -43,7 +43,7 @@
         "login" : "ログイン",
         "registerAnAccountAndJoinUs" : "新規登録はこちら",
         "noEmptyField" : "全て入力してください。",
-        "accountHasNotYetBeenVerified" : "アカウントはまだ承認されていません。",
+        "accountHasNotYetBeenVerified" : "アカウントはまだ承認されていません。メールを確認してください。",
         "invalidEmailOrPassword" : "Invalid email or password.",
         "forgotMessage" : "入力していただいたメールへリンクを送ります。",
         "invalidEmail" : "Invalid email.",
