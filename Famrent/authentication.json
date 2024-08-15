@@ -42,7 +42,7 @@
         "resetPassword" : "リセット",
         "login" : "ログイン",
         "registerAnAccountAndJoinUs" : "新規登録はこちら",
-        "noEmptyField" : "No empty field.",
+        "noEmptyField" : "全て入力してください。",
         "accountHasNotYetBeenVerified" : "Account has not yet been verified.",
         "invalidEmailOrPassword" : "Invalid email or password.",
         "forgotMessage" : "入力していただいたメールへリンクを送ります。",
