@@ -57,10 +57,10 @@
         "resetContent" : "メールのリンクを確認し、新たなパスワードを作成してください。",
         "createTitle" : "アカウント承認のメールを送りました。",
         "createContent" : "メールのリンクを確認し、ログインしてください。",
-        "phoneMessage" : "ＳＭＳにメッセージを送るので確認してください。",
+        "phoneMessage" : "ＳＭＳにメッセージを送るので、確認してください。",
         "invalidPhoneNumber" : "電話番号が無効です。",
         "next" : "次へ",
-        "invalidSmsCode" : "SMSコードが無効です。",
+        "invalidSmsCode" : "ＳＭＳコードが無効です。",
         "verify" : "承認"
     },
     {
