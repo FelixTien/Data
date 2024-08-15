@@ -25,7 +25,7 @@
     {
         "landlordMode" : "Landlord Mode",
         "monthlyIncome" : "Monthly Income",
-        "rent" : "Rent",
+        "rent" : "家賃",
         "utility" : "Utility",
         "wifi" : "Wi-Fi",
         "internet" : "Internet",

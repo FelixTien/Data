@@ -118,7 +118,7 @@
         "acceptTheReceiptRight" : "'s receipt?"
     },
     {
-        "notification" : "Notification",
+        "notification" : "通知",
         "lease" : "Lease Info",
         "payment" : "Payment",
         "info" : " Info",

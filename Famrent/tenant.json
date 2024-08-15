@@ -83,7 +83,7 @@
     {
         "tenantMode" : "Tenant Mode",
         "monthlyPayment" : "Montyly Payment",
-        "rent" : "Rent",
+        "rent" : "家賃",
         "utility" : "Utility",
         "wifi" : "Wi-Fi",
         "other" : "Other",

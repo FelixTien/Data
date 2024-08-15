@@ -96,7 +96,7 @@
         "verify" : "驗證"
     },
     {
-        "phoneNumber" : "Phone Number",
+        "phoneNumber" : "電話番号",
         "orSignInWith" : "or sign in with",
         "accountHasBeenDeleted" : "Account has been deleted.",
         "home" : "Home",
