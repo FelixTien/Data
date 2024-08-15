@@ -39,7 +39,7 @@
         "email" : "メール",
         "password" : "パスワード",
         "confirmPassword" : "パスワード確認",
-        "resetPassword" : "パスワードをリセット",
+        "resetPassword" : "リセット",
         "login" : "ログイン",
         "registerAnAccountAndJoinUs" : "Register an account and join us.",
         "noEmptyField" : "No empty field.",
@@ -57,11 +57,11 @@
         "resetContent" : "Please check your email for the link to reset your password and follow the instructions to create a new one.",
         "createTitle" : "Verification Email Link Sent",
         "createContent" : "Please check your email for the verification link and click on it to verify your account before logging in.",
-        "phoneMessage" : "We will send you a SMS message to confirm your phone number.",
+        "phoneMessage" : "あなたのSMSにメッセージを送るので確認してください。",
         "invalidPhoneNumber" : "Invalid phone number.",
         "next" : "次へ",
-        "invalidSmsCode" : "Invalid SMS code.",
-        "verify" : "Verify"
+        "invalidSmsCode" : "無効のSMSコード",
+        "verify" : "確定"
     },
     {
         "phoneNumber" : "電話號碼",
