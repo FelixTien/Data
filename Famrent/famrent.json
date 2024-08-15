@@ -28,12 +28,12 @@
         "next" : "次へ",
         "cancel" : "取り消し",
         "confirm" : "確認",
-        "update" : "Update",
-        "yes" : "Yes",
-        "no" : "No",
-        "accept" : "Accept",
-        "reject" : "Reject",
-        "acknowledge" : "Acknowledge"
+        "update" : "編集",
+        "yes" : "はい",
+        "no" : "いいえ",
+        "accept" : "受信",
+        "reject" : "拒否",
+        "acknowledge" : "承認"
     },
     {
         "us" : "美國",
