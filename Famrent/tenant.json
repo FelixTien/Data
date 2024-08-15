@@ -27,7 +27,7 @@
         "pleaseUpdateTheReceiptFirst" : "Please update the receipt first."
     },
     {
-        "tenantMode" : "Tenant Mode",
+        "tenantMode" : "入居者モード",
         "monthlyPayment" : "Montyly Payment",
         "rent" : "家賃",
         "utility" : "Utility",
