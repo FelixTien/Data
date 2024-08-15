@@ -43,7 +43,7 @@
         "login" : "ログイン",
         "registerAnAccountAndJoinUs" : "新規登録はこちら",
         "noEmptyField" : "全て入力してください。",
-        "accountHasNotYetBeenVerified" : "Account has not yet been verified.",
+        "accountHasNotYetBeenVerified" : "アカウントはまだ承認されていません。",
         "invalidEmailOrPassword" : "Invalid email or password.",
         "forgotMessage" : "入力していただいたメールへリンクを送ります。",
         "invalidEmail" : "Invalid email.",
@@ -61,7 +61,7 @@
         "invalidPhoneNumber" : "Invalid phone number.",
         "next" : "次へ",
         "invalidSmsCode" : "無効のSMSコード",
-        "verify" : "確定"
+        "verify" : "承認"
     },
     {
         "phoneNumber" : "電話號碼",
