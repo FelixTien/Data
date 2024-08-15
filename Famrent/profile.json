@@ -41,8 +41,8 @@
     {
         "language" : "言語",
         "mode" : "Mode",
-        "landlord" : "Landlord",
-        "tenant" : "Tenant",
+        "landlord" : "家主",
+        "tenant" : "入居者",
         "profileOptions" : "Profile Options",
         "changePassword" : "Change Password",
         "changeEmail" : "Change Email",
