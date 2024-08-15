@@ -47,7 +47,7 @@
         "invalidEmailOrPassword" : "Invalid email or password.",
         "forgotMessage" : "Enter your email address and click the button. We'll send you a link to reset your password.",
         "invalidEmail" : "Invalid email.",
-        "sendResetLink" : "Send Reset Link",
+        "sendResetLink" : "リンクを送る",
         "passwordShouldBeAtLeast6Characters" : "Password should be at least 6 characters.",
         "passwordDoesNotMatch" : "Password does not match.",
         "theEmailHasBeenRegistered" : "The email has been registered.",
