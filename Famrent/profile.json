@@ -36,7 +36,10 @@
         "emailDescription" : "Enter your desired email address and click the button. You'll receive a verification link to confirm the change.",
         "invalidEmail" : "Invalid email.",
         "theEmailHasBeenRegistered" : "The email has been registered.",
-        "sendVerificationLink" : "Send Verification Link"
+        "sendVerificationLink" : "Send Verification Link",
+        "userNameCannotBeEmpty" : "User name cannot be empty.",
+        "userNotFound" : "User not found.",
+        "idHasBeenUsed" : "ID has been used."
     },
     {
         "language" : "言語",
@@ -75,7 +78,10 @@
         "emailDescription" : "Enter your desired email address and click the button. You'll receive a verification link to confirm the change.",
         "invalidEmail" : "Invalid email.",
         "theEmailHasBeenRegistered" : "The email has been registered.",
-        "sendVerificationLink" : "Send Verification Link"
+        "sendVerificationLink" : "Send Verification Link",
+        "userNameCannotBeEmpty" : "User name cannot be empty.",
+        "userNotFound" : "User not found.",
+        "idHasBeenUsed" : "ID has been used."
     },
     {
         "language" : "語言",
@@ -114,7 +120,10 @@
         "emailDescription" : "輸入您想變更的電子郵件然後點擊下方按鈕，您將會收到驗證連結來確認您的變更。",
         "invalidEmail" : "無效的電子郵件。",
         "theEmailHasBeenRegistered" : "此電子郵件已經被使用了。",
-        "sendVerificationLink" : "發送驗證連結"
+        "sendVerificationLink" : "發送驗證連結",
+        "userNameCannotBeEmpty" : "使用者名稱不可為空白。",
+        "userNotFound" : "找不到使用者。",
+        "idHasBeenUsed" : "此 ID 已被使用。"
     },
     {
         "language" : "Language",
@@ -153,6 +162,9 @@
         "emailDescription" : "Enter your desired email address and click the button. You'll receive a verification link to confirm the change.",
         "invalidEmail" : "Invalid email.",
         "theEmailHasBeenRegistered" : "The email has been registered.",
-        "sendVerificationLink" : "Send Verification Link"
+        "sendVerificationLink" : "Send Verification Link",
+        "userNameCannotBeEmpty" : "User name cannot be empty.",
+        "userNotFound" : "User not found.",
+        "idHasBeenUsed" : "ID has been used."
     }
 ]
