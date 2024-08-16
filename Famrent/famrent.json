@@ -33,7 +33,7 @@
         "no" : "いいえ",
         "accept" : "受信",
         "reject" : "拒否",
-        "acknowledge" : "承認"
+        "acknowledge" : "了解"
     },
     {
         "us" : "美國",
@@ -51,7 +51,7 @@
         "no" : "否",
         "accept" : "接受",
         "reject" : "拒絕",
-        "acknowledge" : "了解"
+        "acknowledge" : "知道了"
     },
     {
         "us" : "US",
