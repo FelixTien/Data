@@ -78,8 +78,8 @@
         "overall" : "Overall",
         "scheduled" : "Scheduled",
         "solved" : "Solved",
-        "subject" : "Subject",
-        "detail" : "Detail"
+        "subject" : "タイトル",
+        "detail" : "詳細"
     },
     {
         "receipt1" : "一月發票",

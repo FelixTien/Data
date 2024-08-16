@@ -47,11 +47,11 @@
         "landlordId" : "家主 ID",
         "warningAlertLeft" : "本当に ",
         "warningAlertRight" : " を解約しますか？",
-        "emptySubject" : "Empty subject.",
-        "emptyDetail" : "Empty detail.",
+        "emptySubject" : "タイトルを書いてください。",
+        "emptyDetail" : "詳細を書いてください。",
         "errorAlertLeft" : "",
-        "errorAlertRight" : " photo required.",
-        "pleaseUpdateTheReceiptFirst" : "Please update the receipt first."
+        "errorAlertRight" : "画像が必要です。",
+        "pleaseUpdateTheReceiptFirst" : "もう一度明細書をアップロードしてください。"
     },
     {
         "tenantMode" : "房客模式",
