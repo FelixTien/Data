@@ -70,7 +70,7 @@
     },
     {
         "landlordMode" : "집주인 모드",
-        "monthlyIncome" : "세입자 모드",
+        "monthlyIncome" : "Monthly Income",
         "rent" : "임차료",
         "utility" : "공과금",
         "wifi" : "인터넷",
@@ -82,7 +82,7 @@
         "requesting" : "신청 중",
         "tenant" : "세입자",
         "tenants" : "세입자",
-        "leaseName" : "Lease Name",
+        "leaseName" : "세입자들",
         "dueDateType" : "Due Date Type",
         "messages" : "The system starts to send reminding messages 3 days before the due day.",
         "tenantId" : "Tenant ID",

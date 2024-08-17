@@ -81,7 +81,7 @@
         "pleaseUpdateTheReceiptFirst" : "請先上傳收據圖片。"
     },
     {
-        "tenantMode" : "Tenant Mode",
+        "tenantMode" : "세입자 모드",
         "monthlyPayment" : "Montyly Payment",
         "rent" : "Rent",
         "utility" : "Utility",
