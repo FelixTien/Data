@@ -83,12 +83,12 @@
         "tenant" : "세입자",
         "tenants" : "세입자",
         "leaseName" : "세입자들",
-        "dueDateType" : "Due Date Type",
-        "messages" : "The system starts to send reminding messages 3 days before the due day.",
-        "tenantId" : "Tenant ID",
-        "bill" : "Bill",
-        "type" : "Type",
-        "warningAlertLeft" : "Are you sure you want to delete ",
-        "warningAlertRight" : " ?"
+        "dueDateType" : "납부일",
+        "messages" : "시스템은 납부 기한 3일 전부터 알림 메시지를 보내기 시작합니다.",
+        "tenantId" : "세입자 ID",
+        "bill" : "명세서",
+        "type" : "유형",
+        "warningAlertLeft" : "정말 ",
+        "warningAlertRight" : " 님을 삭제 하시겠습니까？"
     }
 ]
