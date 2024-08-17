@@ -61,7 +61,7 @@
         "invalidPhoneNumber" : "電話番号が無効です。",
         "next" : "次へ",
         "invalidSmsCode" : "ＳＭＳコードが無効です。",
-        "verify" : "承認"
+        "verify" : "検証"
     },
     {
         "phoneNumber" : "電話號碼",
