@@ -111,7 +111,7 @@
         "invalidEmailOrPassword" : "이메일 또는 비밀번호가 잘못되었습니다.",
         "forgotMessage" : "이메일 주소를 입력하고 버튼을 클릭하세요. 비밀번호를 재설정할 수 있는 링크를 보내드리겠습니다.",
         "invalidEmail" : "이메일 잘못되었습니다.",
-        "sendResetLink" : "Send Reset Link",
+        "sendResetLink" : "링크 보내기",
         "passwordShouldBeAtLeast6Characters" : "Password should be at least 6 characters.",
         "passwordDoesNotMatch" : "Password does not match.",
         "theEmailHasBeenRegistered" : "The email has been registered.",
