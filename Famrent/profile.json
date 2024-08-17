@@ -127,9 +127,9 @@
     },
     {
         "language" : "Language",
-        "mode" : "Mode",
-        "landlord" : "Landlord",
-        "tenant" : "Tenant",
+        "mode" : "모드",
+        "landlord" : "집주인",
+        "tenant" : "세입자",
         "profileOptions" : "Profile Options",
         "changePassword" : "Change Password",
         "changeEmail" : "Change Email",
