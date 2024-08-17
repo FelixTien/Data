@@ -61,7 +61,7 @@
         "tenants" : "房客",
         "leaseName" : "契約標題",
         "dueDateType" : "到期日",
-        "messages" : "系統會在到期日３天 前開始發送提醒訊息。",
+        "messages" : "系統會在到期日 3 天 前開始發送提醒訊息。",
         "tenantId" : "房客 ID",
         "bill" : "帳單",
         "type" : "類別",
