@@ -70,7 +70,7 @@
     },
     {
         "landlordMode" : "집주인 모드",
-        "monthlyIncome" : "Monthly Income",
+        "monthlyIncome" : "월수입",
         "rent" : "임차료",
         "utility" : "공과금",
         "wifi" : "인터넷",
