@@ -50,7 +50,7 @@
         "emptySubject" : "タイトルを書いてください。",
         "emptyDetail" : "詳細を書いてください。",
         "errorAlertLeft" : "",
-        "errorAlertRight" : "画像が必要です。",
+        "errorAlertRight" : " 画像が必要です。",
         "pleaseUpdateTheReceiptFirst" : "もう一度明細書をアップロードしてください。"
     },
     {
@@ -101,10 +101,10 @@
         "landlordId" : "집주인 ID",
         "warningAlertLeft" : "정말 ",
         "warningAlertRight" : "를 해지 하시겠습니까？",
-        "emptySubject" : "Empty subject.",
-        "emptyDetail" : "Empty detail.",
+        "emptySubject" : "제목을 적어주세요.",
+        "emptyDetail" : "자세한 내용을 적어주세요.",
         "errorAlertLeft" : "",
-        "errorAlertRight" : " photo required.",
-        "pleaseUpdateTheReceiptFirst" : "Please update the receipt first."
+        "errorAlertRight" : " 이미지가 필요합니다.",
+        "pleaseUpdateTheReceiptFirst" : "다시 명세서를 업로드하세요."
     }
 ]
