@@ -77,7 +77,7 @@
         "emptySubject" : "主旨不可為空白。",
         "emptyDetail" : "詳細資料不可為空白。",
         "errorAlertLeft" : "請上傳 ",
-        "errorAlertRight" : " 圖片。",
+        "errorAlertRight" : " 圖片。 ",
         "pleaseUpdateTheReceiptFirst" : "請先上傳收據圖片。"
     },
     {
