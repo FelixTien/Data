@@ -20,7 +20,9 @@
         "bill" : "Bill",
         "type" : "Type",
         "warningAlertLeft" : "Are you sure you want to delete ",
-        "warningAlertRight" : " ?"
+        "warningAlertRight" : " ?",
+        "noUserIdTitle" : "Restriction",
+        "noUserIdContent" : "Please setup your User ID before you create a new property."
     },
     {
         "landlordMode" : "家主モード",
@@ -43,7 +45,9 @@
         "bill" : "明細書",
         "type" : "項目",
         "warningAlertLeft" : "本当に ",
-        "warningAlertRight" : " さんを削除しますか？"
+        "warningAlertRight" : " さんを削除しますか？",
+        "noUserIdTitle" : "Restriction",
+        "noUserIdContent" : "Please setup your User ID before you create a new property."
     },
     {
         "landlordMode" : "房東模式",
@@ -66,7 +70,9 @@
         "bill" : "帳單",
         "type" : "類別",
         "warningAlertLeft" : "您確定您要刪除 ",
-        "warningAlertRight" : " 嗎？"
+        "warningAlertRight" : " 嗎？",
+        "noUserIdTitle" : "限制",
+        "noUserIdContent" : "請先設定您的使用者 ID 再新增您的房產。"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -89,6 +95,8 @@
         "bill" : "명세서",
         "type" : "유형",
         "warningAlertLeft" : "정말 ",
-        "warningAlertRight" : " 님을 삭제 하시겠습니까？"
+        "warningAlertRight" : " 님을 삭제 하시겠습니까？",
+        "noUserIdTitle" : "Restriction",
+        "noUserIdContent" : "Please setup your User ID before you create a new property."
     }
 ]
