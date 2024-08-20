@@ -17,7 +17,11 @@
         "accept" : "Accept",
         "reject" : "Reject",
         "acknowledge" : "Acknowledge",
-        "save" : "Save"
+        "save" : "Save",
+        "english" : "English",
+        "japanese" : "Japanese",
+        "taiwanese" : "Mandarin",
+        "korean" : "Korean"
     },
     {
         "us" : "米国",
@@ -37,7 +41,11 @@
         "accept" : "承認",
         "reject" : "拒否",
         "acknowledge" : "了解",
-        "save" : "セーブ"
+        "save" : "セーブ",
+        "english" : "英語",
+        "japanese" : "日本語",
+        "taiwanese" : "中国語",
+        "korean" : "韓国語"
     },
     {
         "us" : "美國",
@@ -57,7 +65,11 @@
         "accept" : "接受",
         "reject" : "拒絕",
         "acknowledge" : "收到",
-        "save" : "儲存"
+        "save" : "儲存",
+        "english" : "英文",
+        "japanese" : "日文",
+        "taiwanese" : "中文",
+        "korean" : "韓文"
     },
     {
         "us" : "미국",
@@ -77,6 +89,10 @@
         "accept" : "수락하다",
         "reject" : "거부하다",
         "acknowledge" : "확인했음",
-        "save" : "Save"
+        "save" : "Save",
+        "english" : "English",
+        "japanese" : "Japanese",
+        "taiwanese" : "Mandarin",
+        "korean" : "Korean"
     }
 ]

@@ -39,7 +39,10 @@
         "sendVerificationLink" : "Send Verification Link",
         "userNameCannotBeEmpty" : "User name cannot be empty.",
         "userNotFound" : "User not found.",
-        "idHasBeenUsed" : "ID has been used."
+        "idHasBeenUsed" : "ID has been used.",
+        "languageChange" : "Language Change",
+        "languageChangeLeft" : "Do you want to change your language to ",
+        "languageChangeRight" : " ?"
     },
     {
         "language" : "言語",
@@ -81,7 +84,10 @@
         "sendVerificationLink" : "リンクを送る",
         "userNameCannotBeEmpty" : "名前を入力してください。",
         "userNotFound" : "使用者が見つかりませんでした。",
-        "idHasBeenUsed" : "ＩＤが既に使われています。"
+        "idHasBeenUsed" : "ＩＤが既に使われています。",
+        "languageChange" : "Language Change",
+        "languageChangeLeft" : "Do you want to change your language to ",
+        "languageChangeRight" : " ?"
     },
     {
         "language" : "語言",
@@ -123,7 +129,10 @@
         "sendVerificationLink" : "發送驗證連結",
         "userNameCannotBeEmpty" : "使用者名稱不可為空白。",
         "userNotFound" : "找不到使用者。",
-        "idHasBeenUsed" : "此 ID 已被使用。"
+        "idHasBeenUsed" : "此 ID 已被使用。",
+        "languageChange" : "變更語言",
+        "languageChangeLeft" : "您要將您的語言改成 ",
+        "languageChangeRight" : " 嗎？"
     },
     {
         "language" : "Language",
@@ -165,6 +174,9 @@
         "sendVerificationLink" : "Send Verification Link",
         "userNameCannotBeEmpty" : "User name cannot be empty.",
         "userNotFound" : "User not found.",
-        "idHasBeenUsed" : "ID has been used."
+        "idHasBeenUsed" : "ID has been used.",
+        "languageChange" : "Language Change",
+        "languageChangeLeft" : "Do you want to change your language to ",
+        "languageChangeRight" : " ?"
     }
 ]
