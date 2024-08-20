@@ -16,7 +16,8 @@
         "no" : "No",
         "accept" : "Accept",
         "reject" : "Reject",
-        "acknowledge" : "Acknowledge"
+        "acknowledge" : "Acknowledge",
+        "save" : "Save"
     },
     {
         "us" : "米国",
@@ -35,7 +36,8 @@
         "no" : "いいえ",
         "accept" : "承認",
         "reject" : "拒否",
-        "acknowledge" : "了解"
+        "acknowledge" : "了解",
+        "save" : "Save"
     },
     {
         "us" : "美國",
@@ -54,7 +56,8 @@
         "no" : "否",
         "accept" : "接受",
         "reject" : "拒絕",
-        "acknowledge" : "收到"
+        "acknowledge" : "收到",
+        "save" : "儲存"
     },
     {
         "us" : "미국",
@@ -73,6 +76,7 @@
         "no" : "아니요",
         "accept" : "수락하다",
         "reject" : "거부하다",
-        "acknowledge" : "확인했음"
+        "acknowledge" : "확인했음",
+        "save" : "Save"
     }
 ]
