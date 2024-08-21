@@ -1,7 +1,7 @@
 [
     {
         "notification" : "Notification",
-        "lease" : "Lease Info",
+        "lease" : "Lease",
         "payment" : "Payment",
         "info" : " Info",
         "time" : " Time",
@@ -119,7 +119,7 @@
     },
     {
         "notification" : "お知らせ",
-        "lease" : "Lease Info",
+        "lease" : "Lease",
         "payment" : "Payment",
         "info" : " Info",
         "time" : "時間",
@@ -355,7 +355,7 @@
     },
     {
         "notification" : "Notification",
-        "lease" : "Lease Info",
+        "lease" : "Lease",
         "payment" : "Payment",
         "info" : " Info",
         "time" : " Time",
