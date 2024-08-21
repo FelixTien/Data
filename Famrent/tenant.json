@@ -44,7 +44,7 @@
         "landlord" : "家主",
         "feedback" : "コメント",
         "feedbackDetail" : "ここにコメントを書いてください",
-        "landlordId" : "家主のＩＤ",
+        "landlordId" : "家主の ID",
         "warningAlertLeft" : "本当に ",
         "warningAlertRight" : " を解約しますか？",
         "emptySubject" : "タイトルを書いてください。",
