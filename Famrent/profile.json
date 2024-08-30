@@ -83,9 +83,9 @@
         "userNameCannotBeEmpty" : "名前を入力してください。",
         "userNotFound" : "使用者が見つかりませんでした。",
         "idHasBeenUsed" : "ID が既に使われています。",
-        "languageChange" : "Language Change",
-        "languageChangeLeft" : "Do you want to change your language to ",
-        "languageChangeRight" : " ?"
+        "languageChange" : "言語設定",
+        "languageChangeLeft" : "",
+        "languageChangeRight" : " に変更しますか？"
     },
     {
         "language" : "語言",

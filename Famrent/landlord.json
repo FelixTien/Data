@@ -41,7 +41,7 @@
         "requesting" : "申込中",
         "tenant" : "入居者",
         "tenants" : "入居者",
-        "propertyName" : "Property Name",
+        "propertyName" : "不動産名",
         "dueDateType" : "支払日",
         "messages" : "期日の３日前から支払われるまで毎日メッセージが送られます。",
         "tenantId" : "入居者の ID",
