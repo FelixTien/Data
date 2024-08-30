@@ -36,7 +36,7 @@
         "internet" : "インターネット",
         "other" : "その他",
         "delete" : "削除",
-        "myProperties" : "My Properties 私の不動産",
+        "myProperties" : "不動産",
         "request" : "申込",
         "requesting" : "申込中",
         "tenant" : "入居者",
@@ -49,11 +49,11 @@
         "type" : "項目",
         "warningAlertLeft" : "本当に ",
         "warningAlertRight" : " さんを削除しますか？",
-        "restrictionTitle" : "Restriction",
-        "restrictionContent" : "Please setup your User ID before you create a new property.",
-        "requestLeft" : "Are you sure you want to cancel ",
-        "requestRight" : " request?",
-        "requestNull" : "the"
+        "restrictionTitle" : "制限",
+        "restrictionContent" : "最初にアカウントを作成してください。",
+        "requestLeft" : "本当に ",
+        "requestRight" : " を削除しますか？",
+        "requestNull" : "このアカウント"
     },
     {
         "landlordMode" : "房東模式",
