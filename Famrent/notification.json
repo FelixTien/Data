@@ -176,24 +176,31 @@
         "reportSolvedRight" : " さんの通報リクエストを解決しました。",
         "duplicateReportSolvedLeft" : "家主の ",
         "duplicateReportSolvedRight" : " さんが通報リクエストを解決しました。",
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "repairRejectedTitle" : "修理方法の拒否",
         "repairRejectedLeft" : "",
         "repairRejectedRight" : " さんが修理方法を拒否しました。",
         "reportRejectedTitle" : "通報方法の拒否",
         "reportRejectedLeft" : "",
         "reportRejectedRight" : " さんが通報方法を拒否しました。",
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "repairAcceptedTitle" : "修理リクエストが承認済みRepair Accepted",
         "repairAcceptedLeft" : "",
         "repairAcceptedRight" : " さんが修理リクエストを受け付けました。accepted your Repair solution.",
         "reportAcceptedTitle" : "通報リクエストが承認済みReport Accepted",
         "reportAcceptedLeft" : "",
         "reportAcceptedRight" : " さんが通報リクエスを受け付けました。accepted your Report solution.",
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "repairCanceledTitle" : "修理リクエストのキャンセルRepair Canceled",
         "repairCanceledLeft" : "",
         "repairCanceledRight" : " さんが修理リクエストをキャンセルしました。canceled the Repair.",
         "reportCanceledTitle" : "通報リクエスのキャンセルReport Canceled",
         "reportCanceledLeft" : "",
         "reportCanceledRight" : " さんが通報リクエスをキャンセルしました。canceled the Report.",
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "receiptUploadedTitle" : "通報リクエスがアップロード済みReceipt Uploaded",
         "receiptUploadedLeft" : "",
         "receiptUploadedRight" : " さんがレシートアップロードしました。uploaded the receipt.",
@@ -203,6 +210,8 @@
         "receiptAcceptTitle" : "レシートが承認済みReceipt Accepted",
         "receiptAcceptLeft" : "",
         "receiptAcceptRight" : " さんがレシートを承認しました。accepted your receipt.",
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "paymentDueReminderTitle" : "支払い期日にご注意Payment Due Reminder",
         "paymentDueReminderLeft" : "？？さんのYour ",
         "paymentDueReminderRight3" : " 家賃のお支払い期日は3日後になります。payment will be due in 3 days.",
@@ -215,6 +224,7 @@
         "pendingReminderLeft" : "",
         "pendingReminderRight2" : "さんの保留されたレシートは明日が最終日になります。's receipt pending will be due tomorrow.",
         "pendingReminderRight1" : "さんの保留されたレシートは本日が最終日になります。's receipt pending will be due today.",
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "statusSolved" : "解決したSolved",
         "statusScheduled" : "手配したScheduled",
         "statusRejected" : "拒否したRejected",
