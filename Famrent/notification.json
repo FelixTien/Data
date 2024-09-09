@@ -165,25 +165,24 @@
         "reportScheduledRight" : " さんの通報内容について打ち合わせ予定日が手配されました。",
         "duplicateReportScheduledLeft" : "家主の ",
         "duplicateReportScheduledRight" : " さんが通報内容について打ち合わせ予定日を手配しました。",
-        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "repairSolvedTitle" : "修理済み",
         "repairSolvedLeft" : "",
         "repairSolvedRight" : " さんの修理リクエストを解決しました。",
         "duplicateRepairSolvedLeft" : "家主の ",
         "duplicateRepairSolvedRight" : " さんがこの修理問題を解決しましたか。",
-        "reportSolvedTitle" : "通報リクエストが解決済みReport Solved",
+
+        "reportSolvedTitle" : "通報リクエストが解決済み",
         "reportSolvedLeft" : "",
         "reportSolvedRight" : " さんの通報リクエストを解決しました。",
         "duplicateReportSolvedLeft" : "家主の ",
-        "duplicateReportSolvedRight" : " さんが通報リクエストを解決しました。solved your Report.",
-        ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
+        "duplicateReportSolvedRight" : " さんが通報リクエストを解決しました。",
         ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "repairRejectedTitle" : "修理リクエストの拒否Repair Rejected",
+        "repairRejectedTitle" : "修理方法の拒否",
         "repairRejectedLeft" : "",
-        "repairRejectedRight" : " さんが修理リクエストを拒否しました。rejected your Repair solution.",
-        "reportRejectedTitle" : "通報リクエストの拒否Report Rejected",
+        "repairRejectedRight" : " さんが修理方法を拒否しました。",
+        "reportRejectedTitle" : "通報方法の拒否",
         "reportRejectedLeft" : "",
-        "reportRejectedRight" : " さんが通報リクエストを拒否しました。rejected your Report solution.",
+        "reportRejectedRight" : " さんが通報方法を拒否しました。",
         ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▲ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         ~~~~~~~~~~~~~~~~~~~~~~~~~~ ▼ ~~~~~~~~~~~~~~~~~~~~~~~~~~
         "repairAcceptedTitle" : "修理リクエストが承認済みRepair Accepted",
