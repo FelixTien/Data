@@ -193,7 +193,7 @@
         "reportCanceledTitle" : "通報リクエスの取り消し",
         "reportCanceledLeft" : "",
         "reportCanceledRight" : " さんが通報リクエスを取り消しました。",
-        "receiptUploadedTitle" : "レシートがアップロード済み",
+        "receiptUploadedTitle" : "レシートアップロード済み",
         "receiptUploadedLeft" : "",
         "receiptUploadedRight" : " さんがレシートをアップロードしました。",
         "receiptRejectedTitle" : "レシートの拒否",
