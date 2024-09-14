@@ -96,11 +96,11 @@
         "accept" : "수락하다",
         "reject" : "거부하다",
         "acknowledge" : "확인했음",
-        "save" : "Save",
-        "add" : "Add",
-        "english" : "English",
-        "japanese" : "Japanese",
-        "taiwanese" : "Mandarin",
-        "korean" : "Korean"
+        "save" : "저장",
+        "add" : "추가",
+        "english" : "영어",
+        "japanese" : "일본어",
+        "taiwanese" : "중국어",
+        "korean" : "한국어"
     }
 ]

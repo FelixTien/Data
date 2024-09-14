@@ -92,12 +92,12 @@
         "internet" : "인터넷",
         "other" : "기타",
         "delete" : "삭제",
-        "myProperties" : "My Properties",
+        "myProperties" : "부동산",
         "request" : "신청",
         "requesting" : "신청 중",
         "tenant" : "세입자",
         "tenants" : "세입자",
-        "propertyName" : "Property Name",
+        "propertyName" : "부동산명",
         "dueDateType" : "납부일",
         "messages" : "시스템은 납부 기한 3일 전부터 알림 메시지를 보내기 시작합니다.",
         "tenantId" : "세입자 ID",
@@ -105,10 +105,10 @@
         "type" : "유형",
         "warningAlertLeft" : "정말 ",
         "warningAlertRight" : " 님을 삭제 하시겠습니까？",
-        "restrictionTitle" : "Restriction",
-        "restrictionContent" : "Please setup your User ID before you create a new property.",
-        "requestLeft" : "Are you sure you want to cancel ",
-        "requestRight" : " request?",
-        "requestNull" : "the"
+        "restrictionTitle" : "제한",
+        "restrictionContent" : "사용자 ID를 설정하세요.",
+        "requestLeft" : "정말로 ",
+        "requestRight" : "을 삭제하시겠습니까?",
+        "requestNull" : "이 계정"
     }
 ]

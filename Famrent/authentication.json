@@ -116,7 +116,7 @@
         "passwordDoesNotMatch" : "비밀번호가 일치하지 않습니다.",
         "theEmailHasBeenRegistered" : "이미 등록된 이메일 주소입니다.",
         "serverError" : "서버 오류.",
-        "register" : "Register",
+        "register" : "등록",
         "resetTitle" : "비밀번호 재설정 이메일이 전송되었습니다.",
         "resetContent" : "메일 링크를 확인하시고, 새로운 비밀번호를 만드세요.",
         "createTitle" : "확인 이메일 링크가 전송되었습니다.",
