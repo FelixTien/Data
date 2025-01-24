@@ -25,7 +25,9 @@
         "restrictionContent" : "Please setup your User ID before you create a new property.",
         "requestLeft" : "Are you sure you want to cancel ",
         "requestRight" : " request?",
-        "requestNull" : "the"
+        "requestNull" : "the",
+        "deniedTitle" : "Membership Denied",
+        "deniedContent" : "Please upgrade your membership."
     },
     {
         "landlordMode" : "家主モード",
@@ -53,7 +55,9 @@
         "restrictionContent" : "最初にアカウントを作成してください。",
         "requestLeft" : "本当に ",
         "requestRight" : " を削除しますか？",
-        "requestNull" : "このアカウント"
+        "requestNull" : "このアカウント",
+        "deniedTitle" : "Membership Denied",
+        "deniedContent" : "Please upgrade your membership."
     },
     {
         "landlordMode" : "房東模式",
@@ -81,7 +85,9 @@
         "restrictionContent" : "請先設定您的使用者 ID 再新增您的房產。",
         "requestLeft" : "您確定您要取消 ",
         "requestRight" : " 的房客請求嗎？",
-        "requestNull" : "使用者"
+        "requestNull" : "使用者",
+        "deniedTitle" : "會員權限不夠",
+        "deniedContent" : "請升級您的會員資格。"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -109,6 +115,8 @@
         "restrictionContent" : "사용자 ID를 설정하세요.",
         "requestLeft" : "정말로 ",
         "requestRight" : "을 삭제하시겠습니까?",
-        "requestNull" : "이 계정"
+        "requestNull" : "이 계정",
+        "deniedTitle" : "Membership Denied",
+        "deniedContent" : "Please upgrade your membership."
     }
 ]
