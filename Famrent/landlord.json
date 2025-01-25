@@ -56,8 +56,8 @@
         "requestLeft" : "本当に ",
         "requestRight" : " を削除しますか？",
         "requestNull" : "このアカウント",
-        "deniedTitle" : "Membership Denied",
-        "deniedContent" : "Please upgrade your membership."
+        "deniedTitle" : "会員権限が不足しています",
+        "deniedContent" : "会員資格をアップグレードしてください。"
     },
     {
         "landlordMode" : "房東模式",
