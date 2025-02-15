@@ -354,7 +354,7 @@
         "acceptTheReceiptTitle" : "接受已上傳發票",
         "acceptTheReceiptLeft" : "您確定您要接受 ",
         "acceptTheReceiptRight" : " 上傳的發票嗎？",
-        "noNewNotification" : "No New Notification"
+        "noNewNotification" : "沒有任何新通知"
     },
     {
         "notification" : "공지",

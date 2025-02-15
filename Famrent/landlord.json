@@ -90,7 +90,7 @@
         "requestNull" : "使用者",
         "deniedTitle" : "會員權限不夠",
         "deniedContent" : "請升級您的會員資格。",
-        "noProperty" : "No Property"
+        "noProperty" : "沒有任何房產"
     },
     {
         "landlordMode" : "집주인 모드",

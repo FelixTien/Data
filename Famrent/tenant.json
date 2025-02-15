@@ -81,7 +81,7 @@
         "errorAlertLeft" : "請上傳 ",
         "errorAlertRight" : " 圖片。",
         "pleaseUpdateTheReceiptFirst" : "請先上傳收據圖片。",
-        "noLease" : "No Lease"
+        "noLease" : "沒有任何租約"
     },
     {
         "tenantMode" : "세입자 모드",
