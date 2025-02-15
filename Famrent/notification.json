@@ -115,7 +115,8 @@
         "rejectTheReceiptRight" : "'s receipt?",
         "acceptTheReceiptTitle" : "Accept The Receipt",
         "acceptTheReceiptLeft" : "Are you sure you want to accept ",
-        "acceptTheReceiptRight" : "'s receipt?"
+        "acceptTheReceiptRight" : "'s receipt?",
+        "noNewNotification" : "No New Notification"
     },
     {
         "notification" : "お知らせ",
@@ -233,7 +234,8 @@
         "rejectTheReceiptRight" : " さんからのレシートを拒否しますか。",
         "acceptTheReceiptTitle" : "レシートを承認する",
         "acceptTheReceiptLeft" : "",
-        "acceptTheReceiptRight" : "さんからのレシートを承認しますか。"
+        "acceptTheReceiptRight" : "さんからのレシートを承認しますか。",
+        "noNewNotification" : "No New Notification"
     },
     {
         "notification" : "通知",
@@ -351,7 +353,8 @@
         "rejectTheReceiptRight" : " 上傳的發票嗎？",
         "acceptTheReceiptTitle" : "接受已上傳發票",
         "acceptTheReceiptLeft" : "您確定您要接受 ",
-        "acceptTheReceiptRight" : " 上傳的發票嗎？"
+        "acceptTheReceiptRight" : " 上傳的發票嗎？",
+        "noNewNotification" : "No New Notification"
     },
     {
         "notification" : "공지",
@@ -469,6 +472,7 @@
         "rejectTheReceiptRight" : "의 영수증을 거부하시겠습니까?",
         "acceptTheReceiptTitle" : "영수증을 수락하다",
         "acceptTheReceiptLeft" : "",
-        "acceptTheReceiptRight" : "의 영수증을 수락하시겠습니까?"
+        "acceptTheReceiptRight" : "의 영수증을 수락하시겠습니까?",
+        "noNewNotification" : "No New Notification"
     }
 ]

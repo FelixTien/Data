@@ -27,7 +27,8 @@
         "requestRight" : " request?",
         "requestNull" : "the",
         "deniedTitle" : "Membership Denied",
-        "deniedContent" : "Please upgrade your membership."
+        "deniedContent" : "Please upgrade your membership.",
+        "noProperty" : "No Property"
     },
     {
         "landlordMode" : "家主モード",
@@ -57,7 +58,8 @@
         "requestRight" : " を削除しますか？",
         "requestNull" : "このアカウント",
         "deniedTitle" : "会員権限が不足しています",
-        "deniedContent" : "会員資格をアップグレードしてください。"
+        "deniedContent" : "会員資格をアップグレードしてください。",
+        "noProperty" : "No Property"
     },
     {
         "landlordMode" : "房東模式",
@@ -87,7 +89,8 @@
         "requestRight" : " 的房客請求嗎？",
         "requestNull" : "使用者",
         "deniedTitle" : "會員權限不夠",
-        "deniedContent" : "請升級您的會員資格。"
+        "deniedContent" : "請升級您的會員資格。",
+        "noProperty" : "No Property"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -117,6 +120,7 @@
         "requestRight" : "을 삭제하시겠습니까?",
         "requestNull" : "이 계정",
         "deniedTitle" : "Membership Denied",
-        "deniedContent" : "Please upgrade your membership."
+        "deniedContent" : "Please upgrade your membership.",
+        "noProperty" : "No Property"
     }
 ]
