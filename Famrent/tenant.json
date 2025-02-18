@@ -54,8 +54,8 @@
         "errorAlertLeft" : "",
         "errorAlertRight" : " 画像が必要です。",
         "pleaseUpdateTheReceiptFirst" : "もう一度明細書をアップロードしてください。",
-        "noLease" : "No Lease",
-        "noData" : "No Data"
+        "noLease" : "賃貸契約なし",
+        "noData" : "データなし"
     },
     {
         "tenantMode" : "房客模式",

@@ -235,7 +235,7 @@
         "acceptTheReceiptTitle" : "レシートを承認する",
         "acceptTheReceiptLeft" : "",
         "acceptTheReceiptRight" : "さんからのレシートを承認しますか。",
-        "noNewNotification" : "No New Notification"
+        "noNewNotification" : "新しい通知なし"
     },
     {
         "notification" : "通知",

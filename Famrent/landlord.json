@@ -59,7 +59,7 @@
         "requestNull" : "このアカウント",
         "deniedTitle" : "会員権限が不足しています",
         "deniedContent" : "会員資格をアップグレードしてください。",
-        "noProperty" : "No Property"
+        "noProperty" : "物件なし"
     },
     {
         "landlordMode" : "房東模式",
