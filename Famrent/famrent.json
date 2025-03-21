@@ -25,7 +25,9 @@
         "english" : "English",
         "japanese" : "Japanese",
         "taiwanese" : "Mandarin",
-        "korean" : "Korean"
+        "korean" : "Korean",
+        "noIdAlertTitle" : "Set up ID",
+        "noIdAlertText" : "No ID"
     },
     {
         "us" : "米国",
@@ -53,7 +55,9 @@
         "english" : "英語",
         "japanese" : "日本語",
         "taiwanese" : "中国語",
-        "korean" : "韓国語"
+        "korean" : "韓国語",
+        "noIdAlertTitle" : "Set up ID",
+        "noIdAlertText" : "No ID"
     },
     {
         "us" : "美國",
@@ -81,7 +85,9 @@
         "english" : "英文",
         "japanese" : "日文",
         "taiwanese" : "中文",
-        "korean" : "韓文"
+        "korean" : "韓文",
+        "noIdAlertTitle" : "Set up ID",
+        "noIdAlertText" : "No ID"
     },
     {
         "us" : "미국",
@@ -109,6 +115,8 @@
         "english" : "영어",
         "japanese" : "일본어",
         "taiwanese" : "중국어",
-        "korean" : "한국어"
+        "korean" : "한국어",
+        "noIdAlertTitle" : "Set up ID",
+        "noIdAlertText" : "No ID"
     }
 ]
