@@ -42,8 +42,8 @@
         "languageChange" : "Language Change",
         "languageChangeLeft" : "Do you want to change your language to ",
         "languageChangeRight" : " ?",
-        "languageModeAlertTitle" : "Landlord Mode",
-        "languageModeAlertText" : "Tenant Mode",
+        "landlordModeAlertTitle" : "Landlord Mode",
+        "landlordModeAlertText" : "Tenant Mode",
         "tenantModeAlertTitle" : "You are now in Landlord Mode",
         "tenantModeAlertText" : "You are now in Tenant Mode"
     },
@@ -90,8 +90,8 @@
         "languageChange" : "言語設定",
         "languageChangeLeft" : "",
         "languageChangeRight" : " に変更しますか？",
-        "languageModeAlertTitle" : "Landlord Mode",
-        "languageModeAlertText" : "Tenant Mode",
+        "landlordModeAlertTitle" : "Landlord Mode",
+        "landlordModeAlertText" : "Tenant Mode",
         "tenantModeAlertTitle" : "You are now in Landlord Mode",
         "tenantModeAlertText" : "You are now in Tenant Mode"
     },
@@ -138,8 +138,8 @@
         "languageChange" : "變更語言",
         "languageChangeLeft" : "您要將您的語言改成 ",
         "languageChangeRight" : " 嗎？",
-        "languageModeAlertTitle" : "Landlord Mode",
-        "languageModeAlertText" : "Tenant Mode",
+        "landlordModeAlertTitle" : "Landlord Mode",
+        "landlordModeAlertText" : "Tenant Mode",
         "tenantModeAlertTitle" : "You are now in Landlord Mode",
         "tenantModeAlertText" : "You are now in Tenant Mode"
     },
@@ -186,8 +186,8 @@
         "languageChange" : "언어 변경",
         "languageChangeLeft" : "언어를 ",
         "languageChangeRight" : "로 변경하시겠습니까?",
-        "languageModeAlertTitle" : "Landlord Mode",
-        "languageModeAlertText" : "Tenant Mode",
+        "landlordModeAlertTitle" : "Landlord Mode",
+        "landlordModeAlertText" : "Tenant Mode",
         "tenantModeAlertTitle" : "You are now in Landlord Mode",
         "tenantModeAlertText" : "You are now in Tenant Mode"
     }
