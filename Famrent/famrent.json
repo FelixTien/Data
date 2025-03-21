@@ -26,7 +26,7 @@
         "japanese" : "Japanese",
         "taiwanese" : "Mandarin",
         "korean" : "Korean",
-        "notSetYet" : "Not Set Yet",
+        "notSetYet" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID",
         "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     },
@@ -57,7 +57,7 @@
         "japanese" : "日本語",
         "taiwanese" : "中国語",
         "korean" : "韓国語",
-        "notSetYet" : "Not Set Yet",
+        "notSetYet" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID",
         "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     },
@@ -88,7 +88,7 @@
         "japanese" : "日文",
         "taiwanese" : "中文",
         "korean" : "韓文",
-        "notSetYet" : "Not Set Yet",
+        "notSetYet" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID",
         "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     },
@@ -119,7 +119,7 @@
         "japanese" : "일본어",
         "taiwanese" : "중국어",
         "korean" : "한국어",
-        "notSetYet" : "Not Set Yet",
+        "notSetYet" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID",
         "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     }
