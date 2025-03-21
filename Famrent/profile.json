@@ -43,9 +43,9 @@
         "languageChangeLeft" : "Do you want to change your language to ",
         "languageChangeRight" : " ?",
         "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in Landlord Mode",
+        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in Tenant Mode"
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
     },
     {
         "language" : "言語",
@@ -91,9 +91,9 @@
         "languageChangeLeft" : "",
         "languageChangeRight" : " に変更しますか？",
         "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in Landlord Mode",
+        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in Tenant Mode"
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
     },
     {
         "language" : "語言",
@@ -139,9 +139,9 @@
         "languageChangeLeft" : "您要將您的語言改成 ",
         "languageChangeRight" : " 嗎？",
         "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in Landlord Mode",
+        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in Tenant Mode"
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
     },
     {
         "language" : "언어",
@@ -187,8 +187,8 @@
         "languageChangeLeft" : "언어를 ",
         "languageChangeRight" : "로 변경하시겠습니까?",
         "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in Landlord Mode",
+        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in Tenant Mode"
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
     }
 ]
