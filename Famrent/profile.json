@@ -41,7 +41,11 @@
         "idHasBeenUsed" : "ID has been used.",
         "languageChange" : "Language Change",
         "languageChangeLeft" : "Do you want to change your language to ",
-        "languageChangeRight" : " ?"
+        "languageChangeRight" : " ?",
+        "languageModeAlertTitle" : "Landlord Mode",
+        "languageModeAlertText" : "Tenant Mode",
+        "tenantModeAlertTitle" : "You are now in Landlord Mode",
+        "tenantModeAlertText" : "You are now in Tenant Mode"
     },
     {
         "language" : "言語",
