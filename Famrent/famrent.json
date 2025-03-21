@@ -27,8 +27,8 @@
         "taiwanese" : "Mandarin",
         "korean" : "Korean",
         "notSetYet" : "Not Set Yet",
-        "noIdAlertTitle" : "Set up ID",
-        "noIdAlertText" : "No ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     },
     {
         "us" : "米国",
@@ -58,8 +58,8 @@
         "taiwanese" : "中国語",
         "korean" : "韓国語",
         "notSetYet" : "Not Set Yet",
-        "noIdAlertTitle" : "Set up ID",
-        "noIdAlertText" : "No ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     },
     {
         "us" : "美國",
@@ -89,8 +89,8 @@
         "taiwanese" : "中文",
         "korean" : "韓文",
         "notSetYet" : "Not Set Yet",
-        "noIdAlertTitle" : "Set up ID",
-        "noIdAlertText" : "No ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     },
     {
         "us" : "미국",
@@ -120,7 +120,7 @@
         "taiwanese" : "중국어",
         "korean" : "한국어",
         "notSetYet" : "Not Set Yet",
-        "noIdAlertTitle" : "Set up ID",
-        "noIdAlertText" : "No ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step"
     }
 ]
