@@ -89,7 +89,11 @@
         "idHasBeenUsed" : "ID が既に使われています。",
         "languageChange" : "言語設定",
         "languageChangeLeft" : "",
-        "languageChangeRight" : " に変更しますか？"
+        "languageChangeRight" : " に変更しますか？",
+        "languageModeAlertTitle" : "Landlord Mode",
+        "languageModeAlertText" : "Tenant Mode",
+        "tenantModeAlertTitle" : "You are now in Landlord Mode",
+        "tenantModeAlertText" : "You are now in Tenant Mode"
     },
     {
         "language" : "語言",
@@ -133,7 +137,11 @@
         "idHasBeenUsed" : "此 ID 已被使用。",
         "languageChange" : "變更語言",
         "languageChangeLeft" : "您要將您的語言改成 ",
-        "languageChangeRight" : " 嗎？"
+        "languageChangeRight" : " 嗎？",
+        "languageModeAlertTitle" : "Landlord Mode",
+        "languageModeAlertText" : "Tenant Mode",
+        "tenantModeAlertTitle" : "You are now in Landlord Mode",
+        "tenantModeAlertText" : "You are now in Tenant Mode"
     },
     {
         "language" : "언어",
@@ -177,6 +185,10 @@
         "idHasBeenUsed" : "이미 사용중인 아이디입니다.",
         "languageChange" : "언어 변경",
         "languageChangeLeft" : "언어를 ",
-        "languageChangeRight" : "로 변경하시겠습니까?"
+        "languageChangeRight" : "로 변경하시겠습니까?",
+        "languageModeAlertTitle" : "Landlord Mode",
+        "languageModeAlertText" : "Tenant Mode",
+        "tenantModeAlertTitle" : "You are now in Landlord Mode",
+        "tenantModeAlertText" : "You are now in Tenant Mode"
     }
 ]
