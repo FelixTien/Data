@@ -1,46 +1,30 @@
 [
     {
-        "landlordOneTitle" : "",
-        "landlordOneText" : "Click the 3 bar on top right corner to add your property",
-        "propertyListOneTitle" : "",
-        "propertyListOneText" : "To add your Property, click on the plus Icon",
-        "profileOneTitle" : "",
-        "profileOneText" : "Click the Pen Icon on top right corner to change or setup Username and ID",
-        "profileTwoTitle" : "",
-        "profileTwoText" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
+        "landlordOne" : "Click the 3 bar on top right corner to add your property",
+        "propertyListOne" : "To add your Property, click on the plus Icon",
+        "profileOne" : "Click the Pen Icon on top right corner to change or setup Username and ID",
+        "profileTwo" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
         "dismiss" : "Dismiss"
     },
     {
-        "landlordOneTitle" : "",
-        "landlordOneText" : "Click the 3 bar on top right corner to add your property",
-        "propertyListOneTitle" : "",
-        "propertyListOneText" : "To add your Property, click on the plus Icon",
-        "profileOneTitle" : "",
-        "profileOneText" : "Click the Pen Icon on top right corner to change or setup Username and ID",
-        "profileTwoTitle" : "",
-        "profileTwoText" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
+        "landlordOne" : "Click the 3 bar on top right corner to add your property",
+        "propertyListOne" : "To add your Property, click on the plus Icon",
+        "profileOne" : "Click the Pen Icon on top right corner to change or setup Username and ID",
+        "profileTwo" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
         "dismiss" : "Dismiss"
     },
     {
-        "landlordOneTitle" : "",
-        "landlordOneText" : "Click the 3 bar on top right corner to add your property",
-        "propertyListOneTitle" : "",
-        "propertyListOneText" : "To add your Property, click on the plus Icon",
-        "profileOneTitle" : "",
-        "profileOneText" : "Click the Pen Icon on top right corner to change or setup Username and ID",
-        "profileTwoTitle" : "",
-        "profileTwoText" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
+        "landlordOne" : "Click the 3 bar on top right corner to add your property",
+        "propertyListOne" : "To add your Property, click on the plus Icon",
+        "profileOne" : "Click the Pen Icon on top right corner to change or setup Username and ID",
+        "profileTwo" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
         "dismiss" : "Dismiss"
     },
     {
-        "landlordOneTitle" : "",
-        "landlordOneText" : "Click the 3 bar on top right corner to add your property",
-        "propertyListOneTitle" : "",
-        "propertyListOneText" : "To add your Property, click on the plus Icon",
-        "profileOneTitle" : "",
-        "profileOneText" : "Click the Pen Icon on top right corner to change or setup Username and ID",
-        "profileTwoTitle" : "",
-        "profileTwoText" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
+        "landlordOne" : "Click the 3 bar on top right corner to add your property",
+        "propertyListOne" : "To add your Property, click on the plus Icon",
+        "profileOne" : "Click the Pen Icon on top right corner to change or setup Username and ID",
+        "profileTwo" : "Select Landlord or Tenant under Mode allows you to see different metrics on the Management tab.\n\nHint: Landlord mode allowed you to add tenant under your property",
         "dismiss" : "Dismiss"
     }
 ]
