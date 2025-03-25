@@ -1,5 +1,21 @@
 [
     {
+        "key" : "sample-non-member",
+        "value" : "N/A_test"
+    },
+    {
+        "key" : "sample-blue-member",
+        "value" : "blue_test"
+    },
+    {
+        "key" : "sample-silver-member",
+        "value" : "silver_test"
+    },
+    {
+        "key" : "sample-gold-member",
+        "value" : "gold_test"
+    },
+    {
         "key" : "cqc4jcUC1LVhOtTgYsKF0qGuCh73",
         "value" : "blue_Felix Tien"
     },
