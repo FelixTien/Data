@@ -29,7 +29,20 @@
         "requestNull" : "the",
         "deniedTitle" : "Membership Denied",
         "deniedContent" : "Please upgrade your membership.",
-        "noProperty" : "No Property"
+        "noProperty" : "No Property",
+        "myHistory" : "My History",
+        "noHistory" : "No History",
+        "history" : "History",
+        "payment" : "Payment",
+        "repair" : "Repair",
+        "expense" : "Expense",
+        "date" : "Date",
+        "label" : "Label",
+        "title" : "Title",
+        "cost" : "Cost",
+        "noPayment" : "No Payment",
+        "noRepair" : "No Repair",
+        "noExpense" : "No Expense"
     },
     {
         "landlordMode" : "家主モード",
@@ -61,7 +74,17 @@
         "requestNull" : "このアカウント",
         "deniedTitle" : "会員権限が不足しています",
         "deniedContent" : "会員資格をアップグレードしてください。",
-        "noProperty" : "物件なし"
+        "noProperty" : "物件なし",
+        "myHistory" : "My History",
+        "noHistory" : "No History",
+        "history" : "History",
+        "payment" : "Payment",
+        "repair" : "修理",
+        "expense" : "Expense",
+        "date" : "Date",
+        "label" : "Label",
+        "title" : "Title",
+        "cost" : "Cost"
     },
     {
         "landlordMode" : "房東模式",
@@ -93,7 +116,17 @@
         "requestNull" : "使用者",
         "deniedTitle" : "會員權限不夠",
         "deniedContent" : "請升級您的會員資格。",
-        "noProperty" : "沒有任何房產"
+        "noProperty" : "沒有任何房產",
+        "myHistory" : "My History",
+        "noHistory" : "No History",
+        "history" : "歷史紀錄",
+        "payment" : "Payment",
+        "repair" : "維修",
+        "expense" : "Expense",
+        "date" : "付款日期",
+        "label" : "標註",
+        "title" : "Title",
+        "cost" : "Cost"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -125,6 +158,16 @@
         "requestNull" : "이 계정",
         "deniedTitle" : "Membership Denied",
         "deniedContent" : "Please upgrade your membership.",
-        "noProperty" : "No Property"
+        "noProperty" : "No Property",
+        "myHistory" : "My History",
+        "noHistory" : "No History",
+        "history" : "History",
+        "payment" : "Payment",
+        "repair" : "수리",
+        "expense" : "Expense",
+        "date" : "Date",
+        "label" : "Label",
+        "title" : "Title",
+        "cost" : "Cost"
     }
 ]
