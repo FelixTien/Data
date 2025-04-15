@@ -84,7 +84,10 @@
         "date" : "Date",
         "label" : "Label",
         "title" : "Title",
-        "cost" : "Cost"
+        "cost" : "Cost",
+        "noPayment" : "No Payment",
+        "noRepair" : "No Repair",
+        "noExpense" : "No Expense"
     },
     {
         "landlordMode" : "房東模式",
@@ -126,7 +129,10 @@
         "date" : "日期",
         "label" : "標註",
         "title" : "標題",
-        "cost" : "花費"
+        "cost" : "花費",
+        "noPayment" : "沒有付款紀錄",
+        "noRepair" : "沒有維修紀錄",
+        "noExpense" : "No Expense"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -168,6 +174,9 @@
         "date" : "Date",
         "label" : "Label",
         "title" : "Title",
-        "cost" : "Cost"
+        "cost" : "Cost",
+        "noPayment" : "No Payment",
+        "noRepair" : "No Repair",
+        "noExpense" : "No Expense"
     }
 ]
