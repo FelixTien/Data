@@ -43,7 +43,8 @@
         "noPayment" : "No Payment",
         "noRepair" : "No Repair",
         "noExpense" : "No Expense",
-        "hintTitle" : "Detail regarding the subject",
+        "hintTitle" : "Please enter the receipt title",
+        "tenantResponsible" : "Tenant Responsible",
         "none" : "None",
         "select" : "Select"
     },
@@ -92,6 +93,7 @@
         "noRepair" : "No Repair",
         "noExpense" : "No Expense",
         "hintTitle" : "Detail regarding the subject",
+        "tenantResponsible" : "Tenant Responsible",
         "none" : "None",
         "select" : "Select"
     },
@@ -139,9 +141,10 @@
         "noPayment" : "沒有付款紀錄",
         "noRepair" : "沒有維修紀錄",
         "noExpense" : "沒有支出紀錄",
-        "hintTitle" : "Detail regarding the subject",
-        "none" : "None",
-        "select" : "Select"
+        "hintTitle" : "請輸入收據的標題",
+        "tenantResponsible" : "Tenant Responsible",
+        "none" : "無",
+        "select" : "選擇"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -188,6 +191,7 @@
         "noRepair" : "No Repair",
         "noExpense" : "No Expense",
         "hintTitle" : "Detail regarding the subject",
+        "tenantResponsible" : "Tenant Responsible",
         "none" : "None",
         "select" : "Select"
     }
