@@ -125,14 +125,14 @@
         "history" : "歷史紀錄",
         "payment" : "付款",
         "repair" : "維修",
-        "expense" : "Expense",
+        "expense" : "支出",
         "date" : "日期",
         "label" : "標註",
         "title" : "標題",
         "cost" : "花費",
         "noPayment" : "沒有付款紀錄",
         "noRepair" : "沒有維修紀錄",
-        "noExpense" : "No Expense"
+        "noExpense" : "沒有支出紀錄"
     },
     {
         "landlordMode" : "집주인 모드",
