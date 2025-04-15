@@ -42,7 +42,10 @@
         "cost" : "Cost",
         "noPayment" : "No Payment",
         "noRepair" : "No Repair",
-        "noExpense" : "No Expense"
+        "noExpense" : "No Expense",
+        "hintTitle" : "Detail regarding the subject",
+        "none" : "None",
+        "select" : "Select"
     },
     {
         "landlordMode" : "家主モード",
@@ -87,7 +90,10 @@
         "cost" : "Cost",
         "noPayment" : "No Payment",
         "noRepair" : "No Repair",
-        "noExpense" : "No Expense"
+        "noExpense" : "No Expense",
+        "hintTitle" : "Detail regarding the subject",
+        "none" : "None",
+        "select" : "Select"
     },
     {
         "landlordMode" : "房東模式",
@@ -132,7 +138,10 @@
         "cost" : "花費",
         "noPayment" : "沒有付款紀錄",
         "noRepair" : "沒有維修紀錄",
-        "noExpense" : "沒有支出紀錄"
+        "noExpense" : "沒有支出紀錄",
+        "hintTitle" : "Detail regarding the subject",
+        "none" : "None",
+        "select" : "Select"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -177,6 +186,9 @@
         "cost" : "Cost",
         "noPayment" : "No Payment",
         "noRepair" : "No Repair",
-        "noExpense" : "No Expense"
+        "noExpense" : "No Expense",
+        "hintTitle" : "Detail regarding the subject",
+        "none" : "None",
+        "select" : "Select"
     }
 ]
