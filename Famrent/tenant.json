@@ -22,8 +22,6 @@
         "warningAlertRight" : " ?",
         "emptySubject" : "Empty subject.",
         "emptyDetail" : "Empty detail.",
-        "errorAlertLeft" : "",
-        "errorAlertRight" : " photo required.",
         "pleaseUpdateTheReceiptFirst" : "Please update the receipt first.",
         "noLease" : "No Lease",
         "noData" : "No Data"
@@ -51,8 +49,6 @@
         "warningAlertRight" : " を解約しますか？",
         "emptySubject" : "タイトルを書いてください。",
         "emptyDetail" : "詳細を書いてください。",
-        "errorAlertLeft" : "",
-        "errorAlertRight" : " 画像が必要です。",
         "pleaseUpdateTheReceiptFirst" : "もう一度明細書をアップロードしてください。",
         "noLease" : "賃貸契約なし",
         "noData" : "データなし"
@@ -80,8 +76,6 @@
         "warningAlertRight" : " 嗎？",
         "emptySubject" : "主旨不可為空白。",
         "emptyDetail" : "詳細資料不可為空白。",
-        "errorAlertLeft" : "請上傳 ",
-        "errorAlertRight" : " 圖片。",
         "pleaseUpdateTheReceiptFirst" : "請先上傳收據圖片。",
         "noLease" : "沒有任何租約",
         "noData" : "找不到任何資料"
@@ -109,8 +103,6 @@
         "warningAlertRight" : "를 해지 하시겠습니까？",
         "emptySubject" : "제목을 적어주세요.",
         "emptyDetail" : "자세한 내용을 적어주세요.",
-        "errorAlertLeft" : "",
-        "errorAlertRight" : " 이미지가 필요합니다.",
         "pleaseUpdateTheReceiptFirst" : "다시 명세서를 업로드하세요.",
         "noLease" : "No Lease",
         "noData" : "No Data"

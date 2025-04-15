@@ -48,7 +48,10 @@
         "hintTitle" : "Please enter the receipt title",
         "tenantResponsible" : "Tenant Responsible",
         "none" : "None",
-        "select" : "Select"
+        "select" : "Select",
+        "emptyTitle" : "Empty title.",
+        "emptyDate" : "Empty date.",
+        "yearCannotBeChanged" : "Year cannot be changed."
     },
     {
         "landlordMode" : "家主モード",
@@ -99,7 +102,10 @@
         "hintTitle" : "Detail regarding the subject",
         "tenantResponsible" : "Tenant Responsible",
         "none" : "None",
-        "select" : "Select"
+        "select" : "Select",
+        "emptyTitle" : "Empty title.を書いてください。",
+        "emptyDate" : "Empty date.を書いてください。",
+        "yearCannotBeChanged" : "Year cannot be changed."
     },
     {
         "landlordMode" : "房東模式",
@@ -150,7 +156,10 @@
         "hintTitle" : "請輸入收據的標題",
         "tenantResponsible" : "Tenant Responsible",
         "none" : "無",
-        "select" : "選擇"
+        "select" : "選擇",
+        "emptyTitle" : "標題不可為空白。",
+        "emptyDate" : "日期不可為空白。",
+        "yearCannotBeChanged" : "不可更改年份。"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -201,6 +210,9 @@
         "hintTitle" : "Detail regarding the subject",
         "tenantResponsible" : "Tenant Responsible",
         "none" : "None",
-        "select" : "Select"
+        "select" : "Select",
+        "emptyTitle" : "Empty title.",
+        "emptyDate" : "Empty date.",
+        "yearCannotBeChanged" : "Year cannot be changed."
     }
 ]

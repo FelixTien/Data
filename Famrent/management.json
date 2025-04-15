@@ -41,7 +41,9 @@
         "scheduled" : "Scheduled",
         "solved" : "Solved",
         "subject" : "Subject",
-        "detail" : "Detail"
+        "detail" : "Detail",
+        "errorAlertLeft" : "",
+        "errorAlertRight" : " photo required."
     },
     {
         "receipt1" : "１月明細書",
@@ -85,7 +87,9 @@
         "scheduled" : "日程",
         "solved" : "完了",
         "subject" : "タイトル",
-        "detail" : "詳細"
+        "detail" : "詳細",
+        "errorAlertLeft" : "",
+        "errorAlertRight" : " 画像が必要です。"
     },
     {
         "receipt1" : "一月發票",
@@ -129,7 +133,9 @@
         "scheduled" : "已排程",
         "solved" : "已解決",
         "subject" : "主旨",
-        "detail" : "詳細資料"
+        "detail" : "詳細資料",
+        "errorAlertLeft" : "請上傳 ",
+        "errorAlertRight" : " 圖片。"
     },
     {
         "receipt1" : "1월 명세서",
@@ -173,6 +179,8 @@
         "scheduled" : "날짜",
         "solved" : "해결됨",
         "subject" : "제목",
-        "detail" : "상세 사항"
+        "detail" : "상세 사항",
+        "errorAlertLeft" : "",
+        "errorAlertRight" : " 이미지가 필요합니다."
     }
 ]
