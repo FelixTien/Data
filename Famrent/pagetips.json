@@ -1,11 +1,17 @@
 [
     {
         "page" : "landlord"
-    },{
+    },
+    {
         "page" : "propertyList"
-    },{
+    },
+    {
         "page" : "tenant"
-    },{
+    },
+    {
         "page" : "profile"
+    },
+    {
+        "page" : "test"
     }
 ]
