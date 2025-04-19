@@ -27,8 +27,7 @@
         "taiwanese" : "Mandarin",
         "korean" : "Korean",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID",
-        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step."
+        "noIdAlertTitle" : "Please Set Up ID"
     },
     {
         "us" : "米国",
@@ -58,8 +57,7 @@
         "taiwanese" : "中国語",
         "korean" : "韓国語",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID",
-        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step."
+        "noIdAlertTitle" : "Please Set Up ID"
     },
     {
         "us" : "美國",
@@ -88,9 +86,8 @@
         "japanese" : "日文",
         "taiwanese" : "中文",
         "korean" : "韓文",
-        "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID",
-        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step."
+        "nothing" : "查無資訊",
+        "noIdAlertTitle" : "請設定使用者 ID"
     },
     {
         "us" : "미국",
@@ -120,7 +117,6 @@
         "taiwanese" : "중국어",
         "korean" : "한국어",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID",
-        "noIdAlertText" : "Setting up ID allowed you to proceed to the next step."
+        "noIdAlertTitle" : "Please Set Up ID"
     }
 ]
