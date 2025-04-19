@@ -3,7 +3,7 @@
         "landlordOne" : "Click the「List Icon」on top right corner to manage your property",
         "propertyListOne" : "Click the「Plus Icon」to add your property",
         "tenantOne" : "Click the「List Icon」on top right corner to check your lease",
-        "profileOne" : "Click the「Edit Icon」on top right corner to change Username and ID",
+        "profileOne" : "Click the「Edit Icon」on top right corner to change Username and User ID",
         "profileTwo" : "Click「Landlord」or「Tenant」under the Mode according to your needs to switch identities and confirm metrics in that mode.",
         "dismiss" : "Dismiss"
     },
