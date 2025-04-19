@@ -154,7 +154,7 @@
         "noRepair" : "沒有維修紀錄",
         "noExpense" : "沒有支出紀錄",
         "hintTitle" : "請輸入收據的標題",
-        "tenantResponsible" : "Tenant Responsible",
+        "tenantResponsible" : "報修房客",
         "none" : "無",
         "select" : "選擇",
         "emptyTitle" : "標題不可為空白。",
