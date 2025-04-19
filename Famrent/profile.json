@@ -138,10 +138,10 @@
         "languageChange" : "變更語言",
         "languageChangeLeft" : "您要將您的語言改成 ",
         "languageChangeRight" : " 嗎？",
-        "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
-        "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "landlordModeAlertTitle" : "房東模式",
+        "landlordModeAlertText" : "您現在處於房東模式，該模式下可確認資訊已更改。",
+        "tenantModeAlertTitle" : "房客模式",
+        "tenantModeAlertText" : "您現在處於房客模式，該模式下可確認資訊已更改。"
     },
     {
         "language" : "언어",
