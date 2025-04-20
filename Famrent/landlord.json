@@ -108,7 +108,10 @@
         "select" : "Select",
         "emptyTitle" : "Empty title.を書いてください。",
         "emptyDate" : "Empty date.を書いてください。",
-        "yearCannotBeChanged" : "Year cannot be changed."
+        "yearCannotBeChanged" : "Year cannot be changed.",
+        "paymentAlert" : "Click on Payment Row to view Payment Receipt",
+        "repairAlert" : "Click on ↓ icon to expand row or click on Repair Row to see Repair Receipt",
+        "expenseAlert" : "Click on ↓ icon to expand row or click on Expense Row to see Expense Receipt"
     },
     {
         "landlordMode" : "房東模式",
@@ -162,7 +165,10 @@
         "select" : "選擇",
         "emptyTitle" : "標題不可為空白。",
         "emptyDate" : "日期不可為空白。",
-        "yearCannotBeChanged" : "不可更改年份。"
+        "yearCannotBeChanged" : "不可更改年份。",
+        "paymentAlert" : "Click on Payment Row to view Payment Receipt",
+        "repairAlert" : "Click on ↓ icon to expand row or click on Repair Row to see Repair Receipt",
+        "expenseAlert" : "Click on ↓ icon to expand row or click on Expense Row to see Expense Receipt"
     },
     {
         "landlordMode" : "집주인 모드",
@@ -216,6 +222,9 @@
         "select" : "Select",
         "emptyTitle" : "Empty title.",
         "emptyDate" : "Empty date.",
-        "yearCannotBeChanged" : "Year cannot be changed."
+        "yearCannotBeChanged" : "Year cannot be changed.",
+        "paymentAlert" : "Click on Payment Row to view Payment Receipt",
+        "repairAlert" : "Click on ↓ icon to expand row or click on Repair Row to see Repair Receipt",
+        "expenseAlert" : "Click on ↓ icon to expand row or click on Expense Row to see Expense Receipt"
     }
 ]
