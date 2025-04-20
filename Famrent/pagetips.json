@@ -18,6 +18,9 @@
         "page" : "tenant"
     },
     {
+        "page" : "lease"
+    },
+    {
         "page" : "profile"
     }
 ]
