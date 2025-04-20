@@ -9,6 +9,12 @@
         "page" : "property"
     },
     {
+        "page" : "expenseList"
+    },
+    {
+        "page" : "expenseDetail"
+    },
+    {
         "page" : "tenant"
     },
     {
