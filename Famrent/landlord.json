@@ -51,7 +51,10 @@
         "select" : "Select",
         "emptyTitle" : "Empty title.",
         "emptyDate" : "Empty date.",
-        "yearCannotBeChanged" : "Year cannot be changed."
+        "yearCannotBeChanged" : "Year cannot be changed.",
+        "paymentAlert" : "Click on Payment Row to view Payment Receipt",
+        "repairAlert" : "Click on ↓ icon to expand row or click on Repair Row to see Repair Receipt",
+        "expenseAlert" : "Click on ↓ icon to expand row or click on Expense Row to see Expense Receipt"
     },
     {
         "landlordMode" : "家主モード",
