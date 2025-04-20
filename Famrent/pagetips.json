@@ -6,6 +6,9 @@
         "page" : "propertyList"
     },
     {
+        "page" : "property"
+    },
+    {
         "page" : "tenant"
     },
     {
