@@ -166,9 +166,9 @@
         "emptyTitle" : "標題不可為空白。",
         "emptyDate" : "日期不可為空白。",
         "yearCannotBeChanged" : "不可更改年份。",
-        "paymentAlert" : "Click on Payment Row to view Payment Receipt",
-        "repairAlert" : "Click on ↓ icon to expand row or click on Repair Row to see Repair Receipt",
-        "expenseAlert" : "Click on ↓ icon to expand row or click on Expense Row to see Expense Receipt"
+        "paymentAlert" : "點擊「付款」下的房客大頭貼，再點選底下的欄位以顯示房客的付款歷史紀錄",
+        "repairAlert" : "點擊「維修」下的欄位來查看已維修的收據，如需顯示報修房客請點選 ↓ 圖示來顯示",
+        "expenseAlert" : "點擊「支出」下的欄位來查看已支出的收據，如需顯示報修房客請點選 ↓ 圖示來顯示"
     },
     {
         "landlordMode" : "집주인 모드",
