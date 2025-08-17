@@ -1,0 +1,26 @@
+[
+    {
+        "page" : "landlord"
+    },
+    {
+        "page" : "propertyList"
+    },
+    {
+        "page" : "property"
+    },
+    {
+        "page" : "expenseList"
+    },
+    {
+        "page" : "expenseDetail"
+    },
+    {
+        "page" : "tenant"
+    },
+    {
+        "page" : "lease"
+    },
+    {
+        "page" : "profile"
+    }
+]
