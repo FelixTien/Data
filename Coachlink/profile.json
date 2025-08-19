@@ -2,8 +2,8 @@
     {
         "language" : "Language",
         "mode" : "Mode",
-        "landlord" : "Landlord",
-        "tenant" : "Tenant",
+        "coach" : "Coach",
+        "trainee" : "Trainee",
         "profileOptions" : "Profile Options",
         "changePassword" : "Change Password",
         "changeEmail" : "Change Email",
@@ -42,16 +42,16 @@
         "languageChange" : "Language Change",
         "languageChangeLeft" : "Do you want to change your language to ",
         "languageChangeRight" : " ?",
-        "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
-        "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "coachModeAlertTitle" : "Coach Mode",
+        "coachModeAlertText" : "You are now in the Coach Mode, your dashboard metrics have been changed accordingly.",
+        "traineeModeAlertTitle" : "Trainee Mode",
+        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly."
     },
     {
         "language" : "言語",
         "mode" : "モード",
-        "landlord" : "家主",
-        "tenant" : "入居者",
+        "coach" : "コーチ",
+        "trainee" : "生徒",
         "profileOptions" : "プロフィールオプション",
         "changePassword" : "パスワードを変える",
         "changeEmail" : "メールを変える",
@@ -90,16 +90,16 @@
         "languageChange" : "言語設定",
         "languageChangeLeft" : "",
         "languageChangeRight" : " に変更しますか？",
-        "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
-        "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "coachModeAlertTitle" : "Coach Mode",
+        "coachModeAlertText" : "You are now in the Coach Mode, your dashboard metrics have been changed accordingly.",
+        "traineeModeAlertTitle" : "Trainee Mode",
+        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly."
     },
     {
         "language" : "語言",
         "mode" : "模式",
-        "landlord" : "房東",
-        "tenant" : "房客",
+        "coach" : "教練",
+        "trainee" : "學員",
         "profileOptions" : "個人資料",
         "changePassword" : "變更密碼",
         "changeEmail" : "變更電子郵件",
@@ -138,16 +138,16 @@
         "languageChange" : "變更語言",
         "languageChangeLeft" : "您要將您的語言改成 ",
         "languageChangeRight" : " 嗎？",
-        "landlordModeAlertTitle" : "房東模式",
-        "landlordModeAlertText" : "您現在處於房東模式，該模式下可確認資訊已更改。",
-        "tenantModeAlertTitle" : "房客模式",
-        "tenantModeAlertText" : "您現在處於房客模式，該模式下可確認資訊已更改。"
+        "coachModeAlertTitle" : "教練模式",
+        "coachModeAlertText" : "您現在處於教練模式，該模式下可確認資訊已更改。",
+        "traineeModeAlertTitle" : "學員模式",
+        "traineeModeAlertText" : "您現在處於學員模式，該模式下可確認資訊已更改。"
     },
     {
         "language" : "언어",
         "mode" : "모드",
-        "landlord" : "집주인",
-        "tenant" : "세입자",
+        "coach" : "코치",
+        "trainee" : "연수생",
         "profileOptions" : "프로필 옵션",
         "changePassword" : "비밀번호 변경",
         "changeEmail" : "이메일 변경",
@@ -186,9 +186,9 @@
         "languageChange" : "언어 변경",
         "languageChangeLeft" : "언어를 ",
         "languageChangeRight" : "로 변경하시겠습니까?",
-        "landlordModeAlertTitle" : "Landlord Mode",
-        "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
-        "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "coachModeAlertTitle" : "Coach Mode",
+        "coachModeAlertText" : "You are now in the Coach Mode, your dashboard metrics have been changed accordingly.",
+        "traineeModeAlertTitle" : "Trainee Mode",
+        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly."
     }
 ]
