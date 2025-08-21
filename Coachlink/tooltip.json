@@ -1,10 +1,10 @@
 [
     {
-        "coachOne" : "Click the「List Icon」on top right corner to manage your property",
+        "coachOne" : "Click the「List Icon」on top right corner to manage your lesson",
         "coachTwo" : "Click the「History Icon」to view your past payments, repairs, and expenses",
-        "propertyListOne" : "Click the「Plus Icon」to add your property",
-        "propertyOne" : "Click the「Person Icon」to add your trainee under your property",
-        "propertyTwo" : "Click the「Image Icon」to manage Repair and Expense Page",
+        "lessonListOne" : "Click the「Plus Icon」to add your lesson",
+        "lessonOne" : "Click the「Person Icon」to add your trainee under your lesson",
+        "lessonTwo" : "Click the「Image Icon」to manage Repair and Expense Page",
         "expenseListOne" : "Click the「Plus Icon」to create a Repair or Expense receipt",
         "expenseDetailOne" : "Click the「Edit Icon」to modify the Repair or Expense receipt",
         "traineeOne" : "Click the「List Icon」on top right corner to check your lease",
@@ -15,11 +15,11 @@
         "dismiss" : "Dismiss"
     },
     {
-        "coachOne" : "Click the「List Icon」on top right corner to manage your property",
+        "coachOne" : "Click the「List Icon」on top right corner to manage your lesson",
         "coachTwo" : "Click the「History Icon」to view your past payments, repairs, and expenses",
-        "propertyListOne" : "Click the「Plus Icon」to add your property",
-        "propertyOne" : "Click the「Person Icon」to add your trainee under your property",
-        "propertyTwo" : "Click the「Image Icon」to manage Repair and Expense Page",
+        "lessonListOne" : "Click the「Plus Icon」to add your lesson",
+        "lessonOne" : "Click the「Person Icon」to add your trainee under your lesson",
+        "lessonTwo" : "Click the「Image Icon」to manage Repair and Expense Page",
         "expenseListOne" : "Click the「Plus Icon」to create a Repair or Expense receipt",
         "expenseDetailOne" : "Click the「Edit Icon」to modify the Repair or Expense receipt",
         "traineeOne" : "Click the「List Icon」on top right corner to check your lease",
@@ -30,11 +30,11 @@
         "dismiss" : "Dismiss"
     },
     {
-        "coachOne" : "點擊「列表圖示」來管理您的房產",
+        "coachOne" : "點擊「列表圖示」來管理您的課程",
         "coachTwo" : "點擊「歷史紀錄」來顯示您過去的付款、維修及支出紀錄",
-        "propertyListOne" : "點擊「加號圖示」來增加您的房產",
-        "propertyOne" : "點擊「人物圖示」來新增房客於您的房產中",
-        "propertyTwo" : "點擊「影像圖示」來管理您的維修及支出頁面",
+        "lessonListOne" : "點擊「加號圖示」來增加您的課程",
+        "lessonOne" : "點擊「人物圖示」來新增房客於您的課程中",
+        "lessonTwo" : "點擊「影像圖示」來管理您的維修及支出頁面",
         "expenseListOne" : "點擊「加號圖示」來新增維修或支出的收據",
         "expenseDetailOne" : "點擊「編輯圖示」來修改維修或支出的收據",
         "traineeOne" : "點擊「列表圖示」來確認您的租約",
@@ -45,11 +45,11 @@
         "dismiss" : "知道了"
     },
     {
-        "coachOne" : "Click the「List Icon」on top right corner to manage your property",
+        "coachOne" : "Click the「List Icon」on top right corner to manage your lesson",
         "coachTwo" : "Click the「History Icon」to view your past payments, repairs, and expenses",
-        "propertyListOne" : "Click the「Plus Icon」to add your property",
-        "propertyOne" : "Click the「Person Icon」to add your trainee under your property",
-        "propertyTwo" : "Click the「Image Icon」to manage Repair and Expense Page",
+        "lessonListOne" : "Click the「Plus Icon」to add your lesson",
+        "lessonOne" : "Click the「Person Icon」to add your trainee under your lesson",
+        "lessonTwo" : "Click the「Image Icon」to manage Repair and Expense Page",
         "expenseListOne" : "Click the「Plus Icon」to create a Repair or Expense receipt",
         "expenseDetailOne" : "Click the「Edit Icon」to modify the Repair or Expense receipt",
         "traineeOne" : "Click the「List Icon」on top right corner to check your lease",

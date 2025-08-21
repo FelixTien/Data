@@ -3,10 +3,10 @@
         "page" : "landlord"
     },
     {
-        "page" : "propertyList"
+        "page" : "lessonList"
     },
     {
-        "page" : "property"
+        "page" : "lesson"
     },
     {
         "page" : "expenseList"
