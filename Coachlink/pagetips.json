@@ -1,6 +1,6 @@
 [
     {
-        "page" : "landlord"
+        "page" : "coach"
     },
     {
         "page" : "lessonList"
@@ -15,7 +15,7 @@
         "page" : "expenseDetail"
     },
     {
-        "page" : "tenant"
+        "page" : "trainee"
     },
     {
         "page" : "lease"
