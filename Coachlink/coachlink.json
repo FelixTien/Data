@@ -86,7 +86,7 @@
         "japanese" : "日文",
         "taiwanese" : "中文",
         "korean" : "韓文",
-        "nothing" : "查無資訊",
+        "nothing" : "N/A",
         "noIdAlertTitle" : "請設定使用者 ID"
     },
     {
