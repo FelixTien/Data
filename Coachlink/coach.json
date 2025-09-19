@@ -44,7 +44,9 @@
         "hint4" : "Extra drills, practice, or reminders.",
         "question5" : "OTHER NOTES？",
         "hint5" : "Add comments, encouragement, or tips.",
-        "emptyField" : "Empty field."
+        "emptyField" : "Empty field.",
+        "notEnrolled" : "Not Enrolled",
+        "pickTrainee" : "Pick a trainee, then click to add"
     },
     {
         "coachMode" : "Coach Mode",
@@ -91,7 +93,9 @@
         "hint4" : "Extra drills, practice, or reminders.",
         "question5" : "OTHER NOTES？",
         "hint5" : "Add comments, encouragement, or tips.",
-        "emptyField" : "Empty field."
+        "emptyField" : "Empty field.",
+        "notEnrolled" : "Not Enrolled",
+        "pickTrainee" : "Pick a trainee, then click to add"
     },
     {
         "coachMode" : "Coach Mode",
@@ -138,7 +142,9 @@
         "hint4" : "Extra drills, practice, or reminders.",
         "question5" : "OTHER NOTES？",
         "hint5" : "Add comments, encouragement, or tips.",
-        "emptyField" : "Empty field."
+        "emptyField" : "Empty field.",
+        "notEnrolled" : "Not Enrolled",
+        "pickTrainee" : "Pick a trainee, then click to add"
     },
     {
         "coachMode" : "Coach Mode",
@@ -185,6 +191,8 @@
         "hint4" : "Extra drills, practice, or reminders.",
         "question5" : "OTHER NOTES？",
         "hint5" : "Add comments, encouragement, or tips.",
-        "emptyField" : "Empty field."
+        "emptyField" : "Empty field.",
+        "notEnrolled" : "Not Enrolled",
+        "pickTrainee" : "Pick a trainee, then click to add"
     }
 ]
