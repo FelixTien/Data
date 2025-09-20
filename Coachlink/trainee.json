@@ -39,16 +39,16 @@
         "noReport" : "目前沒有報告"
     },
     {
-        "traineeMode" : "Trainee Mode",
-        "lesson" : "Lesson",
-        "report" : "Report",
-        "coach" : "Coach",
-        "trainingLesson" : "Training Lesson",
-        "noLesson" : "No Lesson",
-        "myCoach" : "My Coach",
-        "noCoach" : "No Coach",
-        "coachId" : "Coach ID",
-        "myReport" : "My Report",
-        "noReport" : "No Report"
+        "traineeMode": "Chế Độ Học Viên",
+        "lesson": "Bài Học",
+        "report": "Báo Cáo",
+        "coach": "Huấn Luyện Viên",
+        "trainingLesson": "Bài Học Của Học Viên",
+        "noLesson": "Không Có Bài Học",
+        "myCoach": "Huấn Luyện Viên Của Tôi",
+        "noCoach": "Không Có Huấn Luyện Viên",
+        "coachId": "ID Huấn Luyện Viên",
+        "myReport": "Báo Cáo Của Tôi",
+        "noReport": "Không Có Báo Cáo"
     }
 ]
