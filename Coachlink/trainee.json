@@ -26,17 +26,17 @@
         "noReport" : "No Report"
     },
     {
-        "traineeMode" : "Trainee Mode",
-        "lesson" : "Lesson",
-        "report" : "Report",
-        "coach" : "Coach",
-        "trainingLesson" : "Training Lesson",
-        "noLesson" : "No Lesson",
-        "myCoach" : "My Coach",
-        "noCoach" : "No Coach",
-        "coachId" : "Coach ID",
-        "myReport" : "My Report",
-        "noReport" : "No Report"
+        "traineeMode" : "我是學員",
+        "lesson" : "課程",
+        "report" : "報告",
+        "coach" : "教練",
+        "trainingLesson" : "訓練課程",
+        "noLesson" : "尚未加入課程",
+        "myCoach" : "我的教練",
+        "noCoach" : "加入教練開始安排課程",
+        "coachId" : "教練 ID",
+        "myReport" : "學習歷程",
+        "noReport" : "目前沒有報告"
     },
     {
         "traineeMode" : "Trainee Mode",
