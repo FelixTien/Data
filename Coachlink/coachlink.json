@@ -3,7 +3,7 @@
         "us" : "US",
         "tw" : "TW",
         "jp" : "JP",
-        "kr" : "KR",
+        "vn" : "VN",
         "management" : "Management",
         "notification" : "Notification",
         "profile" : "Profile",
@@ -26,7 +26,7 @@
         "english" : "English",
         "japanese" : "Japanese",
         "taiwanese" : "Mandarin",
-        "korean" : "Korean",
+        "vietnamese" : "Vietnamese",
         "nothing" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID"
     },
@@ -34,7 +34,7 @@
         "us" : "米国",
         "tw" : "台湾",
         "jp" : "日本",
-        "kr" : "韓国",
+        "vn" : "ベトナム",
         "management" : "管理",
         "notification" : "お知らせ",
         "profile" : "プロフィール",
@@ -57,7 +57,7 @@
         "english" : "英語",
         "japanese" : "日本語",
         "taiwanese" : "中国語",
-        "korean" : "韓国語",
+        "vietnamese" : "ベトナム語",
         "nothing" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID"
     },
@@ -65,7 +65,7 @@
         "us" : "美國",
         "tw" : "臺灣",
         "jp" : "日本",
-        "kr" : "韓國",
+        "vn" : "越南",
         "management" : "管理",
         "notification" : "通知",
         "profile" : "簡介",
@@ -88,7 +88,7 @@
         "english" : "英文",
         "japanese" : "日文",
         "taiwanese" : "中文",
-        "korean" : "韓文",
+        "vietnamese" : "越南文",
         "nothing" : "N/A",
         "noIdAlertTitle" : "請設定使用者 ID"
     },
@@ -119,7 +119,7 @@
         "english" : "영어",
         "japanese" : "일본어",
         "taiwanese" : "중국어",
-        "korean" : "한국어",
+        "vietnamese" : "한국어",
         "nothing" : "N/A",
         "noIdAlertTitle" : "Please Set Up ID"
     }
