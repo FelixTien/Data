@@ -28,7 +28,8 @@
         "taiwanese" : "Mandarin",
         "vietnamese" : "Vietnamese",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "chooseModeHint" : "Please Choose Mode in Profile【Coach or Trainee】for dashboard to show up"
     },
     {
         "us" : "アメリカ",
@@ -59,7 +60,8 @@
         "taiwanese" : "中国語",
         "vietnamese" : "ベトナム語",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "chooseModeHint" : "Please Choose Mode in Profile【Coach or Trainee】for dashboard to show up"
     },
     {
         "us" : "美國",
@@ -90,7 +92,8 @@
         "taiwanese" : "中文",
         "vietnamese" : "越南文",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "請設定使用者 ID"
+        "noIdAlertTitle" : "請設定使用者 ID",
+        "chooseModeHint" : "Please Choose Mode in Profile【Coach or Trainee】for dashboard to show up"
     },
     {
         "us" : "미국",
@@ -121,6 +124,7 @@
         "taiwanese" : "중국어",
         "vietnamese" : "한국어",
         "nothing" : "N/A",
-        "noIdAlertTitle" : "Please Set Up ID"
+        "noIdAlertTitle" : "Please Set Up ID",
+        "chooseModeHint" : "Please Choose Mode in Profile【Coach or Trainee】for dashboard to show up"
     }
 ]
