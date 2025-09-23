@@ -45,7 +45,9 @@
         "landlordModeAlertTitle" : "Landlord Mode",
         "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly.",
+        "membership" : "Membership",
+        "upgradeToUnlock" : "Upgrade to Unlock"
     },
     {
         "language" : "言語",
@@ -93,7 +95,9 @@
         "landlordModeAlertTitle" : "Landlord Mode",
         "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly.",
+        "membership" : "Membership",
+        "upgradeToUnlock" : "Upgrade to Unlock"
     },
     {
         "language" : "語言",
@@ -141,7 +145,9 @@
         "landlordModeAlertTitle" : "房東模式",
         "landlordModeAlertText" : "您現在處於房東模式，該模式下可確認資訊已更改。",
         "tenantModeAlertTitle" : "房客模式",
-        "tenantModeAlertText" : "您現在處於房客模式，該模式下可確認資訊已更改。"
+        "tenantModeAlertText" : "您現在處於房客模式，該模式下可確認資訊已更改。",
+        "membership" : "會員",
+        "upgradeToUnlock" : "升級解鎖"
     },
     {
         "language" : "언어",
@@ -189,6 +195,8 @@
         "landlordModeAlertTitle" : "Landlord Mode",
         "landlordModeAlertText" : "You are now in the Landlord Mode, your dashboard metrics have been changed accordingly.",
         "tenantModeAlertTitle" : "Tenant Mode",
-        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly."
+        "tenantModeAlertText" : "You are now in the Tenant Mode, your dashboard metrics have been changed accordingly.",
+        "membership" : "Membership",
+        "upgradeToUnlock" : "Upgrade to Unlock"
     }
 ]
