@@ -196,7 +196,7 @@
         "coachModeAlertText": "Bạn đang ở chế độ Huấn Luyện Viên, số liệu trên bảng điều khiển của bạn đã được thay đổi tương ứng.",
         "traineeModeAlertTitle": "Chế Độ Học Viên",
         "traineeModeAlertText": "Bạn đang ở chế độ Học Viên, số liệu trên bảng điều khiển của bạn đã được thay đổi tương ứng.",
-        "membership" : "Membership",
-        "upgradeToUnlock" : "Upgrade to Unlock"
+        "membership" : "Thành Viên",
+        "upgradeToUnlock" : "Nâng Cấp Để Mở Khóa"
     }
 ]
