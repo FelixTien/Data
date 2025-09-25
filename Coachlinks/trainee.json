@@ -31,7 +31,7 @@
         "report" : "報告",
         "coach" : "教練",
         "trainingLesson" : "訓練課程",
-        "noLesson" : "尚未加入課程",
+        "noLesson" : "等待教練加入課程",
         "myCoach" : "我的教練",
         "noCoach" : "尚無教練",
         "coachId" : "教練 ID",
