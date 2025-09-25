@@ -45,7 +45,9 @@
         "coachModeAlertTitle" : "Coach Mode",
         "coachModeAlertText" : "You are now in the Coach Mode, your dashboard metrics have been changed accordingly.",
         "traineeModeAlertTitle" : "Trainee Mode",
-        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly."
+        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly.",
+        "membership" : "Membership",
+        "upgradeToUnlock" : "Upgrade to Unlock"
     },
     {
         "language" : "言語",
@@ -93,7 +95,9 @@
         "coachModeAlertTitle" : "Coach Mode",
         "coachModeAlertText" : "You are now in the Coach Mode, your dashboard metrics have been changed accordingly.",
         "traineeModeAlertTitle" : "Trainee Mode",
-        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly."
+        "traineeModeAlertText" : "You are now in the Trainee Mode, your dashboard metrics have been changed accordingly.",
+        "membership" : "Membership",
+        "upgradeToUnlock" : "Upgrade to Unlock"
     },
     {
         "language" : "語言",
@@ -141,7 +145,9 @@
         "coachModeAlertTitle" : "教練模式",
         "coachModeAlertText" : "您現在處於教練模式，該模式下可確認資訊已更改。",
         "traineeModeAlertTitle" : "學員模式",
-        "traineeModeAlertText" : "您現在處於學員模式，該模式下可確認資訊已更改。"
+        "traineeModeAlertText" : "您現在處於學員模式，該模式下可確認資訊已更改。",
+        "membership" : "會員",
+        "upgradeToUnlock" : "升級解鎖"
     },
     {
         "language": "Ngôn Ngữ",
@@ -189,6 +195,8 @@
         "coachModeAlertTitle": "Chế Độ Huấn Luyện Viên",
         "coachModeAlertText": "Bạn đang ở chế độ Huấn Luyện Viên, số liệu trên bảng điều khiển của bạn đã được thay đổi tương ứng.",
         "traineeModeAlertTitle": "Chế Độ Học Viên",
-        "traineeModeAlertText": "Bạn đang ở chế độ Học Viên, số liệu trên bảng điều khiển của bạn đã được thay đổi tương ứng."
+        "traineeModeAlertText": "Bạn đang ở chế độ Học Viên, số liệu trên bảng điều khiển của bạn đã được thay đổi tương ứng.",
+        "membership" : "Membership",
+        "upgradeToUnlock" : "Upgrade to Unlock"
     }
 ]
