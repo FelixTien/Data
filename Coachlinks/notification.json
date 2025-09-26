@@ -135,8 +135,8 @@
         "traineeLeftTitle": "Học Viên Đã Rời Đi",
         "traineeLeftLeft": " đã rời khỏi bài học từ ",
         "traineeLeftRight": ".",
-        "newReportTitle" : "New Report",
-        "newReportLeft" : "Your ",
-        "newReportRight" : " report has been created."
+        "newReportTitle" : "Báo Cáo Mới",
+        "newReportLeft" : "Báo cáo ",
+        "newReportRight" : "Báo cáo của bạn đã được tạo."
     }
 ]
