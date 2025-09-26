@@ -29,7 +29,10 @@
         "lessonIsRemovedRight" : ".",
         "traineeLeftTitle" : "Trainee Left",
         "traineeLeftLeft" : " left a lesson from ",
-        "traineeLeftRight" : "."
+        "traineeLeftRight" : ".",
+        "newReportTitle" : "New Report",
+        "newReportLeft" : "Your ",
+        "newReportRight" : " report has been created."
     },
     {
         "notification" : "Notification",
@@ -61,7 +64,10 @@
         "lessonIsRemovedRight" : ".",
         "traineeLeftTitle" : "Trainee Left",
         "traineeLeftLeft" : " left a lesson from ",
-        "traineeLeftRight" : "."
+        "traineeLeftRight" : ".",
+        "newReportTitle" : "New Report",
+        "newReportLeft" : "Your ",
+        "newReportRight" : " report has been created."
     },
     {
         "notification" : "通知中心",
@@ -93,7 +99,10 @@
         "lessonIsRemovedRight" : "。",
         "traineeLeftTitle" : "學員退出",
         "traineeLeftLeft" : " 學員已退出 ",
-        "traineeLeftRight" : "。"
+        "traineeLeftRight" : "。",
+        "newReportTitle" : "新報告已出爐",
+        "newReportLeft" : "您的 ",
+        "newReportRight" : " 課程報告已經創建"
     },
     {
         "notification": "Thông Báo",
@@ -125,6 +134,9 @@
         "lessonIsRemovedRight": ".",
         "traineeLeftTitle": "Học Viên Đã Rời Đi",
         "traineeLeftLeft": " đã rời khỏi bài học từ ",
-        "traineeLeftRight": "."
+        "traineeLeftRight": ".",
+        "newReportTitle" : "New Report",
+        "newReportLeft" : "Your ",
+        "newReportRight" : " report has been created."
     }
 ]
