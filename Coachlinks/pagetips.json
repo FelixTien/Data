@@ -1,24 +1,6 @@
 [
     {
-        "page" : "coach"
-    },
-    {
         "page" : "lessonList"
-    },
-    {
-        "page" : "lesson"
-    },
-    {
-        "page" : "expenseList"
-    },
-    {
-        "page" : "expenseDetail"
-    },
-    {
-        "page" : "trainee"
-    },
-    {
-        "page" : "lease"
     },
     {
         "page" : "profile"
