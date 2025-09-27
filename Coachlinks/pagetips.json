@@ -3,6 +3,9 @@
         "page" : "coachingLessonList"
     },
     {
+        "page" : "test"
+    },
+    {
         "page" : "profile"
     }
 ]
