@@ -56,7 +56,7 @@
         "coachId": "ID Huấn Luyện Viên",
         "myReport": "Báo Cáo Của Tôi",
         "noReport": "Không Có Báo Cáo",
-        "privateLessonReport" : "Private Lesson Report",
-        "groupLessonReport" : "Group Lesson Report"
+        "privateLessonReport" : "Báo cáo buổi học cá nhân",
+        "groupLessonReport" : "Báo cáo buổi học nhóm"
     }
 ]
