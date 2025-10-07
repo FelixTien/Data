@@ -277,7 +277,7 @@
         "checkIn" : "Điểm danh",
         "outOfLesson" : "Ngoài buổi học",
         "lessonScheduleDays" : "Lịch ngày học ", 
-        "private" : "Cá nhân",
+        "private1" : "Cá nhân",
         "group" : "Nhóm",
         "chooseLessonType" : "Chọn loại buổi học",
         "importFromPrevious" : "Nhập từ buổi trước",
