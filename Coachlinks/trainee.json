@@ -10,7 +10,9 @@
         "noCoach" : "No Coach",
         "coachId" : "Coach ID",
         "myReport" : "My Report",
-        "noReport" : "No Report"
+        "noReport" : "No Report",
+        "privateLessonReport" : "Private Lesson Report",
+        "groupLessonReport" : "Group Lesson Report"
     },
     {
         "traineeMode" : "Trainee Mode",
@@ -23,7 +25,9 @@
         "noCoach" : "No Coach",
         "coachId" : "Coach ID",
         "myReport" : "My Report",
-        "noReport" : "No Report"
+        "noReport" : "No Report",
+        "privateLessonReport" : "Private Lesson Report",
+        "groupLessonReport" : "Group Lesson Report"
     },
     {
         "traineeMode" : "我是學員",
@@ -36,7 +40,9 @@
         "noCoach" : "尚無教練",
         "coachId" : "教練 ID",
         "myReport" : "學習歷程",
-        "noReport" : "目前沒有報告"
+        "noReport" : "目前沒有報告",
+        "privateLessonReport" : "Private Lesson Report",
+        "groupLessonReport" : "Group Lesson Report"
     },
     {
         "traineeMode": "Chế Độ Học Viên",
@@ -49,6 +55,8 @@
         "noCoach": "Không Có Huấn Luyện Viên",
         "coachId": "ID Huấn Luyện Viên",
         "myReport": "Báo Cáo Của Tôi",
-        "noReport": "Không Có Báo Cáo"
+        "noReport": "Không Có Báo Cáo",
+        "privateLessonReport" : "Private Lesson Report",
+        "groupLessonReport" : "Group Lesson Report"
     }
 ]
