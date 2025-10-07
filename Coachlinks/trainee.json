@@ -41,8 +41,8 @@
         "coachId" : "教練 ID",
         "myReport" : "學習歷程",
         "noReport" : "目前沒有報告",
-        "privateLessonReport" : "Private Lesson Report",
-        "groupLessonReport" : "Group Lesson Report"
+        "privateLessonReport" : "私人課程報告",
+        "groupLessonReport" : "團體課程報告"
     },
     {
         "traineeMode": "Chế Độ Học Viên",
