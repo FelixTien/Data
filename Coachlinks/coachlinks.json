@@ -43,19 +43,7 @@
         "wednesdayShort" : "Wed",
         "thursdayShort" : "Thu",
         "fridayShort" : "Fri",
-        "saturdayShort" : "Sat",
-        "january" : "Jan",
-        "february" : "Feb",
-        "march" : "Mar",
-        "april" : "Apr",
-        "may" : "May",
-        "june" : "Jun",
-        "july" : "Jul",
-        "august" : "Aug",
-        "september" : "Sep",
-        "october" : "Oct",
-        "november" : "Nov",
-        "december" : "Dec"
+        "saturdayShort" : "Sat"
     },
     {
         "us" : "アメリカ",
@@ -101,19 +89,7 @@
         "wednesdayShort" : "水",
         "thursdayShort" : "木",
         "fridayShort" : "金",
-        "saturdayShort" : "土",
-        "january" : "１月",
-        "february" : "２月",
-        "march" : "３月",
-        "april" : "４月",
-        "may" : "５月",
-        "june" : "６月",
-        "july" : "７月",
-        "august" : "８月",
-        "september" : "９月",
-        "october" : "１０月",
-        "november" : "１１月",
-        "december" : "１２月"
+        "saturdayShort" : "土"
     },
     {
         "us" : "美國",
@@ -159,19 +135,7 @@
         "wednesdayShort" : "三",
         "thursdayShort" : "四",
         "fridayShort" : "五",
-        "saturdayShort" : "六",
-        "january" : "一月",
-        "february" : "二月",
-        "march" : "三月",
-        "april" : "四月",
-        "may" : "五月",
-        "june" : "六月",
-        "july" : "七月",
-        "august" : "八月",
-        "september" : "九月",
-        "october" : "十月",
-        "november" : "十一月",
-        "december" : "十二月"
+        "saturdayShort" : "六"
     },
     {
         "us": "Mỹ",
@@ -217,18 +181,6 @@
         "wednesdayShort" : "Wed",
         "thursdayShort" : "Thu",
         "fridayShort" : "Fri",
-        "saturdayShort" : "Sat",
-        "january" : "Jan",
-        "february" : "Feb",
-        "march" : "Mar",
-        "april" : "Apr",
-        "may" : "May",
-        "june" : "Jun",
-        "july" : "Jul",
-        "august" : "Aug",
-        "september" : "Sep",
-        "october" : "Oct",
-        "november" : "Nov",
-        "december" : "Dec"
+        "saturdayShort" : "Sat"
     }
 ]
