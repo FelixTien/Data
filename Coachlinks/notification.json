@@ -32,7 +32,9 @@
         "traineeLeftRight" : ".",
         "newReportTitle" : "New Report",
         "newReportLeft" : "Your ",
-        "newReportRight" : " report has been created."
+        "newReportRight" : " report has been created.",
+        "remindCoachTitle" : "Don’t forget your report！",
+        "remindCoachMessage" : "Your coach hasn’t written report yet. A quick reminder might help them finish it soon！"
     },
     {
         "notification" : "Notification",
@@ -67,7 +69,9 @@
         "traineeLeftRight" : ".",
         "newReportTitle" : "New Report",
         "newReportLeft" : "Your ",
-        "newReportRight" : " report has been created."
+        "newReportRight" : " report has been created.",
+        "remindCoachTitle" : "Don’t forget your report！",
+        "remindCoachMessage" : "Your coach hasn’t written report yet. A quick reminder might help them finish it soon！"
     },
     {
         "notification" : "通知中心",
@@ -102,7 +106,9 @@
         "traineeLeftRight" : "。",
         "newReportTitle" : "新報告已出爐",
         "newReportLeft" : "您的 ",
-        "newReportRight" : " 課程報告已經創建。"
+        "newReportRight" : " 課程報告已經創建。",
+        "remindCoachTitle" : "別忘了您的課程報告喔！",
+        "remindCoachMessage" : "您的教練忘記幫您撰寫您的課程報告了。馬上提醒您的教練請他幫您補上您的課程報告。"
     },
     {
         "notification": "Thông Báo",
@@ -137,6 +143,8 @@
         "traineeLeftRight": ".",
         "newReportTitle" : "Báo Cáo Mới",
         "newReportLeft" : "Báo cáo ",
-        "newReportRight" : "Báo cáo của bạn đã được tạo."
+        "newReportRight" : "Báo cáo của bạn đã được tạo.",
+        "remindCoachTitle" : "Đừng quên báo cáo của bạn!",
+    "remindCoachMessage" : "Huấn luyện viên của bạn vẫn chưa viết báo cáo. Hãy gửi một lời nhắc để họ hoàn thành sớm hơn!"
     }
 ]
