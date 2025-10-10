@@ -177,7 +177,7 @@
         "lessonType" : "課程類別",
         "report" : "訓練報告",
         "lesson" : "課程堂數",
-        "attendance" : "Attendance",
+        "attendance" : "出席名單",
         "hintTitle" : "提示",
         "hintContent" : "您的學員還有未結束的課程喔！",
         "hintNoCredit" : "您的學員已經沒有堂數了。點擊右邊課程堂數按鈕來增加學員的堂數。",
