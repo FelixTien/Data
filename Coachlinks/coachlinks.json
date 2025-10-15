@@ -58,6 +58,8 @@
         "pager3TraineeInfo1" : "The smarter way to connect with your next great coach",
         "pager3TraineeInfo2" : "Track lesson credits remaining",
         "pager3TraineeInfo3" : "Read your coach’s feedback reports",
+        "checkIn" : "CHECK-IN",
+        "lessonLeft" : "LESSON LEFT",
         "pager4Title" : "Let's Get Started！",
         "pager4Content" : "Create your user ID to connect with your coach or trainee and start your journey with CoachLinks today"
     },
@@ -120,6 +122,8 @@
         "pager3TraineeInfo1" : "The smarter way to connect with your next great coach",
         "pager3TraineeInfo2" : "Track lesson credits remaining",
         "pager3TraineeInfo3" : "Read your coach’s feedback reports",
+        "checkIn" : "CHECK-IN",
+        "lessonLeft" : "LESSON LEFT",
         "pager4Title" : "Let's Get Started！",
         "pager4Content" : "Create your user ID to connect with your coach or trainee and start your journey with CoachLinks today"
     },
@@ -182,6 +186,8 @@
         "pager3TraineeInfo1" : "更有效率的聯繫您優秀的教練",
         "pager3TraineeInfo2" : "監控剩餘課程堂數",
         "pager3TraineeInfo3" : "閱讀您教練的課程回饋報告",
+        "checkIn" : "課程點名",
+        "lessonLeft" : "剩餘堂數",
         "pager4Title" : "讓我們開始吧！",
         "pager4Content" : "請創建您的使用者 ID 來聯繫您的教練或學員並與 CoachLinks 來開啟您的旅程吧"
     },
@@ -244,6 +250,8 @@
         "pager3TraineeInfo1" : "The smarter way to connect with your next great coach",
         "pager3TraineeInfo2" : "Track lesson credits remaining",
         "pager3TraineeInfo3" : "Read your coach’s feedback reports",
+        "checkIn" : "CHECK-IN",
+        "lessonLeft" : "LESSON LEFT",
         "pager4Title" : "Let's Get Started！",
         "pager4Content" : "Create your user ID to connect with your coach or trainee and start your journey with CoachLinks today"
     }
