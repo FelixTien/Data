@@ -12,7 +12,10 @@
         "myReport" : "My Report",
         "noReport" : "No Report",
         "privateLessonReport" : "Private Lesson Report",
-        "groupLessonReport" : "Group Lesson Report"
+        "groupLessonReport" : "Group Lesson Report",
+        "hintBlank" : "You still have some blank reports. Please contact your coach to write all black reports for you before you leave the lesson.",
+        "hintContent" : "You still have lesson left.",
+        "blankReportAlert" : "This is a blank report. Please contact your coach to write the report for you."
     },
     {
         "traineeMode" : "Trainee Mode",
@@ -27,7 +30,10 @@
         "myReport" : "My Report",
         "noReport" : "No Report",
         "privateLessonReport" : "Private Lesson Report",
-        "groupLessonReport" : "Group Lesson Report"
+        "groupLessonReport" : "Group Lesson Report",
+        "hintBlank" : "You still have some blank reports. Please contact your coach to write all black reports for you before you leave the lesson.",
+        "hintContent" : "You still have lesson left.",
+        "blankReportAlert" : "This is a blank report. Please contact your coach to write the report for you."
     },
     {
         "traineeMode" : "我是學員",
@@ -42,7 +48,10 @@
         "myReport" : "學習歷程",
         "noReport" : "目前沒有報告",
         "privateLessonReport" : "私人課程報告",
-        "groupLessonReport" : "團體課程報告"
+        "groupLessonReport" : "團體課程報告",
+        "hintBlank" : "在您離開此課程前請先聯繫您的教練完成撰寫所有的空白報告。",
+        "hintContent" : "您的課程尚未結束喔！",
+        "blankReportAlert" : "這份報告是空白報告，請聯繫您的教練完成撰寫此課程報告。"
     },
     {
         "traineeMode": "Chế Độ Học Viên",
@@ -57,6 +66,9 @@
         "myReport": "Báo Cáo Của Tôi",
         "noReport": "Không Có Báo Cáo",
         "privateLessonReport" : "Báo cáo buổi học cá nhân",
-        "groupLessonReport" : "Báo cáo buổi học nhóm"
+        "groupLessonReport" : "Báo cáo buổi học nhóm",
+        "hintBlank" : "You still have some blank reports. Please contact your coach to write all black reports for you before you leave the lesson.",
+        "hintContent" : "You still have lesson left.",
+        "blankReportAlert" : "This is a blank report. Please contact your coach to write the report for you."
     }
 ]
