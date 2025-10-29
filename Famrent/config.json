@@ -1,12 +1,12 @@
 {
     "hasInterstitial" : "true",
     "hasRewarded" : "true",
-    "nonePropertyCount" : "1",
-    "noneTenantCount" : "1",
-    "bluePropertyCount" : "1",
-    "blueTenantCount" : "1",
-    "silverPropertyCount" : "2",
-    "silverTenantCount" : "2",
+    "nonePropertyCount" : "10",
+    "noneTenantCount" : "20",
+    "bluePropertyCount" : "30",
+    "blueTenantCount" : "40",
+    "silverPropertyCount" : "50",
+    "silverTenantCount" : "60",
     "goldPropertyCount" : "10000",
-    "goldTenantCount" : "10000"
+    "goldTenantCount" : "20000"
 }
