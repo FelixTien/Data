@@ -1,12 +1,12 @@
 {
     "hasInterstitial" : "true",
     "hasRewarded" : "true",
-    "noneLessonCount" : "100",
-    "noneTraineeCount" : "200",
-    "blueLessonCount" : "300",
-    "blueTraineeCount" : "400",
-    "silverLessonCount" : "500",
-    "silverTraineeCount" : "600",
-    "goldLessonCount" : "20000",
+    "noneLessonCount" : "1",
+    "noneTraineeCount" : "1",
+    "blueLessonCount" : "1",
+    "blueTraineeCount" : "1",
+    "silverLessonCount" : "2",
+    "silverTraineeCount" : "2",
+    "goldLessonCount" : "10000",
     "goldTraineeCount" : "10000"
 }
