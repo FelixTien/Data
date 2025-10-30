@@ -1,8 +1,8 @@
 {
     "hasInterstitial" : "true",
     "hasRewarded" : "true",
-    "noneLessonCount" : "2",
-    "noneTraineeCount" : "1",
+    "nonLessonCount" : "2",
+    "nonTraineeCount" : "1",
     "blueLessonCount" : "3",
     "blueTraineeCount" : "2",
     "silverLessonCount" : "4",
