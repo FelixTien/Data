@@ -1,6 +1,6 @@
 {
-    "hasInterstitial" : "true",
-    "hasRewarded" : "true",
+    "hasInterstitial" : "false",
+    "hasRewarded" : "false",
     "nonLessonCount" : "2",
     "nonTraineeCount" : "1",
     "blueLessonCount" : "3",
