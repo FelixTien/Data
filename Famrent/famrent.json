@@ -41,7 +41,7 @@
         "pager3LandlordInfo2" : "Track repairs – Log expenses for quick tax prep",
         "pager3LandlordInfo3" : "Plan maintenance – Schedule repairs that fit everyone’s time",
         "pager3TenantTitle" : "Everything Tenants Need",
-        "pager3TenantInfo1" : "Report issues – Notify your landlord and view payment history",
+        "pager3TenantInfo1" : "Receipt history – Send payment receipt to your landlord and view payment history",
         "pager3TenantInfo2" : "Request repairs – Submit and track maintenance directly",
         "pager3TenantInfo3" : "Confirm payments – Auto-alert your landlord when rent is paid",
         "pager4Title" : "Let's Get Started！",
@@ -89,7 +89,7 @@
         "pager3LandlordInfo2" : "Track repairs – Log expenses for quick tax prep",
         "pager3LandlordInfo3" : "Plan maintenance – Schedule repairs that fit everyone’s time",
         "pager3TenantTitle" : "Everything Tenants Need",
-        "pager3TenantInfo1" : "Report issues – Notify your landlord and view payment history",
+        "pager3TenantInfo1" : "Receipt history – Send payment receipt to your landlord and view payment history",
         "pager3TenantInfo2" : "Request repairs – Submit and track maintenance directly",
         "pager3TenantInfo3" : "Confirm payments – Auto-alert your landlord when rent is paid",
         "pager4Title" : "Let's Get Started！",
@@ -141,7 +141,7 @@
         "pager3TenantInfo2" : "維修 – 提報維修並追蹤",
         "pager3TenantInfo3" : "付款 – 上傳發票通知房東",
         "pager4Title" : "現在開始租房吧！",
-        "pager4Content" : "廣告幫助我們提供免費的功能，感謝您的支持與諒解"
+        "pager4Content" : "廣告幫助我們提供免費的功能\n感謝您的支持與諒解"
     },
     {
         "us": "Mỹ",
@@ -185,7 +185,7 @@
         "pager3LandlordInfo2" : "Track repairs – Log expenses for quick tax prep",
         "pager3LandlordInfo3" : "Plan maintenance – Schedule repairs that fit everyone’s time",
         "pager3TenantTitle" : "Everything Tenants Need",
-        "pager3TenantInfo1" : "Report issues – Notify your landlord and view payment history",
+        "pager3TenantInfo1" : "Receipt history – Send payment receipt to your landlord and view payment history",
         "pager3TenantInfo2" : "Request repairs – Submit and track maintenance directly",
         "pager3TenantInfo3" : "Confirm payments – Auto-alert your landlord when rent is paid",
         "pager4Title" : "Let's Get Started！",
