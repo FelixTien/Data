@@ -1,0 +1,15 @@
+[
+    {
+        "offer" : "true",
+        "content" : "silver 1"
+    },{
+        "offer" : "true",
+        "content" : "silver 2"
+    },{
+        "offer" : "true",
+        "content" : "silver 3"
+    },{
+        "offer" : "false",
+        "content" : "silver 4"
+    }
+]
