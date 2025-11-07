@@ -2,37 +2,19 @@
     {
         "offer" : "true",
         "content" : [
-            { "detail" : "e gold 1" },
-            { "detail" : "j gold 1" },
-            { "detail" : "t gold 1" },
-            { "detail" : "v gold 1" }
+            { "detail" : "Remove Ads" },
+            { "detail" : "広告を外す" },
+            { "detail" : "移除廣告" },
+            { "detail" : "Remove Ads" }
         ]
     },
     {
         "offer" : "true",
         "content" : [
-            { "detail" : "e gold 2" },
-            { "detail" : "j gold 2" },
-            { "detail" : "t gold 2" },
-            { "detail" : "v gold 2" }
-        ]
-    },
-    {
-        "offer" : "true",
-        "content" : [
-            { "detail" : "e gold 3" },
-            { "detail" : "j gold 3" },
-            { "detail" : "t gold 3" },
-            { "detail" : "v gold 3" }
-        ]
-    },
-    {
-        "offer" : "true",
-        "content" : [
-            { "detail" : "e gold 4" },
-            { "detail" : "j gold 4" },
-            { "detail" : "t gold 4" },
-            { "detail" : "v gold 4" }
+            { "detail" : "Unlimited Landlord Property" },
+            { "detail" : "無限的房東房產" },
+            { "detail" : "無制限の家主物件" },
+            { "detail" : "Unlimited Landlord Property" }
         ]
     }
 ]

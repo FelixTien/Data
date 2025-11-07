@@ -2,37 +2,19 @@
     {
         "offer" : "true",
         "content" : [
-            { "detail" : "e silver 1" },
-            { "detail" : "j silver 1" },
-            { "detail" : "t silver 1" },
-            { "detail" : "v silver 1" }
+            { "detail" : "Remove Ads" },
+            { "detail" : "広告を外す" },
+            { "detail" : "移除廣告" },
+            { "detail" : "Remove Ads" }
         ]
     },
     {
         "offer" : "true",
         "content" : [
-            { "detail" : "e silver 2" },
-            { "detail" : "j silver 2" },
-            { "detail" : "t silver 2" },
-            { "detail" : "v silver 2" }
-        ]
-    },
-    {
-        "offer" : "true",
-        "content" : [
-            { "detail" : "e silver 3" },
-            { "detail" : "j silver 3" },
-            { "detail" : "t silver 3" },
-            { "detail" : "v silver 3" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e silver 4" },
-            { "detail" : "j silver 4" },
-            { "detail" : "t silver 4" },
-            { "detail" : "v silver 4" }
+            { "detail" : "1 More Landlord Property" },
+            { "detail" : "增加 1 個房東房產" },
+            { "detail" : "もう１つの家主物件" },
+            { "detail" : "1 More Landlord Property" }
         ]
     }
 ]

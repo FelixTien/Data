@@ -2,37 +2,19 @@
     {
         "offer" : "false",
         "content" : [
-            { "detail" : "e none 1" },
-            { "detail" : "j none 1" },
-            { "detail" : "t none 1" },
-            { "detail" : "v none 1" }
+            { "detail" : "Remove Ads" },
+            { "detail" : "広告を外す" },
+            { "detail" : "移除廣告" },
+            { "detail" : "Remove Ads" }
         ]
     },
     {
         "offer" : "false",
         "content" : [
-            { "detail" : "e none 2" },
-            { "detail" : "j none 2" },
-            { "detail" : "t none 2" },
-            { "detail" : "v none 2" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e none 3" },
-            { "detail" : "j none 3" },
-            { "detail" : "t none 3" },
-            { "detail" : "v none 3" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e none 4" },
-            { "detail" : "j none 4" },
-            { "detail" : "t none 4" },
-            { "detail" : "v none 4" }
+            { "detail" : "Additional Landlord Property" },
+            { "detail" : "額外的房東房產" },
+            { "detail" : "追加の家主物件" },
+            { "detail" : "Additional Landlord Property" }
         ]
     }
 ]
