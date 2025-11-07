@@ -9,7 +9,7 @@
         ]
     },
     {
-        "offer" : "true",
+        "offer" : "false",
         "content" : [
             { "detail" : "Additional Landlord Property" },
             { "detail" : "額外的房東房產" },
