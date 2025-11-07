@@ -1,15 +1,38 @@
 [
     {
         "offer" : "true",
-        "content" : "blue 1"
-    },{
+        "content" : [
+            { "detail" : "e blue 1" },
+            { "detail" : "j blue 1" },
+            { "detail" : "t blue 1" },
+            { "detail" : "v blue 1" }
+        ]
+    },
+    {
         "offer" : "true",
-        "content" : "blue 2"
-    },{
+        "content" : [
+            { "detail" : "e blue 2" },
+            { "detail" : "j blue 2" },
+            { "detail" : "t blue 2" },
+            { "detail" : "v blue 2" }
+        ]
+    },
+    {
         "offer" : "false",
-        "content" : "blue 3"
-    },{
+        "content" : [
+            { "detail" : "e blue 3" },
+            { "detail" : "j blue 3" },
+            { "detail" : "t blue 3" },
+            { "detail" : "v blue 3" }
+        ]
+    },
+    {
         "offer" : "false",
-        "content" : "blue 4"
+        "content" : [
+            { "detail" : "e blue 4" },
+            { "detail" : "j blue 4" },
+            { "detail" : "t blue 4" },
+            { "detail" : "v blue 4" }
+        ]
     }
 ]

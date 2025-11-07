@@ -1,15 +1,38 @@
 [
     {
         "offer" : "true",
-        "content" : "gold 1"
-    },{
+        "content" : [
+            { "detail" : "e gold 1" },
+            { "detail" : "j gold 1" },
+            { "detail" : "t gold 1" },
+            { "detail" : "v gold 1" }
+        ]
+    },
+    {
         "offer" : "true",
-        "content" : "gold 2"
-    },{
+        "content" : [
+            { "detail" : "e gold 2" },
+            { "detail" : "j gold 2" },
+            { "detail" : "t gold 2" },
+            { "detail" : "v gold 2" }
+        ]
+    },
+    {
         "offer" : "true",
-        "content" : "gold 3"
-    },{
+        "content" : [
+            { "detail" : "e gold 3" },
+            { "detail" : "j gold 3" },
+            { "detail" : "t gold 3" },
+            { "detail" : "v gold 3" }
+        ]
+    },
+    {
         "offer" : "true",
-        "content" : "gold 4"
+        "content" : [
+            { "detail" : "e gold 4" },
+            { "detail" : "j gold 4" },
+            { "detail" : "t gold 4" },
+            { "detail" : "v gold 4" }
+        ]
     }
 ]
