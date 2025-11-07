@@ -12,8 +12,8 @@
         "offer" : "true",
         "content" : [
             { "detail" : "1 More Landlord Property" },
-            { "detail" : "增加 1 個房東房產" },
             { "detail" : "もう１つの家主物件" },
+            { "detail" : "增加 1 個房東房產" },
             { "detail" : "1 More Landlord Property" }
         ]
     }

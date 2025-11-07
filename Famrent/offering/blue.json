@@ -12,8 +12,8 @@
         "offer" : "false",
         "content" : [
             { "detail" : "Additional Landlord Property" },
-            { "detail" : "額外的房東房產" },
             { "detail" : "追加の家主物件" },
+            { "detail" : "額外的房東房產" },
             { "detail" : "Additional Landlord Property" }
         ]
     }

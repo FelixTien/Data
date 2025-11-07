@@ -12,8 +12,8 @@
         "offer" : "true",
         "content" : [
             { "detail" : "Unlimited Landlord Property" },
-            { "detail" : "無限的房東房產" },
             { "detail" : "無制限の家主物件" },
+            { "detail" : "無限的房東房產" },
             { "detail" : "Unlimited Landlord Property" }
         ]
     }
