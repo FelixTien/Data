@@ -1,6 +1,6 @@
 {
-    "hasInterstitial" : "false",
-    "hasRewarded" : "false",
+    "hasInterstitial" : "true",
+    "hasRewarded" : "true",
     "hasQuarterRestrict" : "false",
     "nonPropertyCount" : "2",
     "nonTenantCount" : "1",
