@@ -67,8 +67,8 @@
         "noReport": "Không Có Báo Cáo",
         "privateLessonReport" : "Báo cáo buổi học cá nhân",
         "groupLessonReport" : "Báo cáo buổi học nhóm",
-        "hintBlank" : "You still have some blank reports. Please contact your coach to write all black reports for you before you leave the lesson.",
-        "hintContent" : "You still have lesson left.",
-        "blankReportAlert" : "This is a blank report. Please contact your coach to write the report for you."
+        "hintBlank" : "Bạn vẫn còn một số báo cáo trống. Vui lòng liên hệ huấn luyện viên để hoàn thành tất cả các báo cáo trước khi rời buổi học.",
+        "hintContent" : "Bạn vẫn còn buổi học chưa hoàn thành.",
+        "blankReportAlert" : "Đây là báo cáo trống. Vui lòng liên hệ huấn luyện viên để viết báo cáo cho bạn."
     }
 ]
