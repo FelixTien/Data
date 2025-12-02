@@ -2,6 +2,7 @@
     "hasInterstitial" : "false",
     "hasRewarded" : "false",
     "hasQuarterRestrict" : "false",
+    "openStore" : "false",
     "nonPropertyCount" : "20",
     "nonTenantCount" : "10",
     "bluePropertyCount" : "30",
