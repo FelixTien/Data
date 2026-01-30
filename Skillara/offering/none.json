@@ -1,38 +1,11 @@
 [
     {
-        "offer" : "false",
+        "offer" : "true",
         "content" : [
-            { "detail" : "e none 1" },
-            { "detail" : "j none 1" },
-            { "detail" : "t none 1" },
-            { "detail" : "v none 1" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e none 2" },
-            { "detail" : "j none 2" },
-            { "detail" : "t none 2" },
-            { "detail" : "v none 2" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e none 3" },
-            { "detail" : "j none 3" },
-            { "detail" : "t none 3" },
-            { "detail" : "v none 3" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e none 4" },
-            { "detail" : "j none 4" },
-            { "detail" : "t none 4" },
-            { "detail" : "v none 4" }
+            { "detail" : "5 skills limitation." },
+            { "detail" : "5 skills limitation." },
+            { "detail" : "5 skills limitation." },
+            { "detail" : "5 skills limitation." }
         ]
     }
 ]
