@@ -1,7 +1,7 @@
 {
     "hasInterstitial" : "false",
     "hasRewarded" : "false",
-    "openStore" : "true",
+    "openStore" : "false",
     "nonLessonCount" : "20",
     "nonTraineeCount" : "10",
     "blueLessonCount" : "30",
