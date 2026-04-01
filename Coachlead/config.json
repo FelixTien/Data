@@ -1,0 +1,13 @@
+{
+    "hasInterstitial" : "false",
+    "hasRewarded" : "false",
+    "openStore" : "false",
+    "nonLessonCount" : "20",
+    "nonTraineeCount" : "10",
+    "blueLessonCount" : "30",
+    "blueTraineeCount" : "20",
+    "silverLessonCount" : "40",
+    "silverTraineeCount" : "30",
+    "goldLessonCount" : "10000",
+    "goldTraineeCount" : "10000"
+}
