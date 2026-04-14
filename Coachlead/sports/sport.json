@@ -1,21 +1,41 @@
 [
     {
-        "name" : "Ping Pong",
+        "name" : [
+            { "title" : "Ping Pong" },
+            { "title" : "Ping Pong" },
+            { "title" : "桌球" },
+            { "title" : "Ping Pong" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/pingpong.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/pingpong.white.png"
     },
     {
-        "name" : "Badminton",
+        "name" : [
+            { "title" : "Badminton" },
+            { "title" : "Badminton" },
+            { "title" : "羽球" },
+            { "title" : "Badminton" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/badminton.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/badminton.white.png"
     },
     {
-        "name" : "Pickle Ball",
+        "name" : [
+            { "title" : "Pickle Ball" },
+            { "title" : "Pickle Ball" },
+            { "title" : "匹克球" },
+            { "title" : "Pickle Ball" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/pickleball.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/pickleball.white.png"
     },
     {
-        "name" : "Golf",
+        "name" : [
+            { "title" : "Golf" },
+            { "title" : "Golf" },
+            { "title" : "高爾夫" },
+            { "title" : "Golf" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/golf.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/golf.white.png"
     }

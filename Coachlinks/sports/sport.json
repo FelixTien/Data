@@ -1,26 +1,51 @@
 [
     {
-        "name" : "Ping Pong",
+        "name" : [
+            { "title" : "Ping Pong" },
+            { "title" : "Ping Pong" },
+            { "title" : "桌球" },
+            { "title" : "Ping Pong" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/pingpong.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/pingpong.white.png"
     },
     {
-        "name" : "Badminton",
+        "name" : [
+            { "title" : "Badminton" },
+            { "title" : "Badminton" },
+            { "title" : "羽球" },
+            { "title" : "Badminton" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/badminton.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/badminton.white.png"
     },
     {
-        "name" : "Pickle Ball",
+        "name" : [
+            { "title" : "Pickle Ball" },
+            { "title" : "Pickle Ball" },
+            { "title" : "匹克球" },
+            { "title" : "Pickle Ball" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/pickleball.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/pickleball.white.png"
     },
     {
-        "name" : "Golf",
+        "name" : [
+            { "title" : "Golf" },
+            { "title" : "Golf" },
+            { "title" : "高爾夫" },
+            { "title" : "Golf" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/golf.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/golf.white.png"
     },
     {
-        "name" : "Other",
+        "name" : [
+            { "title" : "Other" },
+            { "title" : "Other" },
+            { "title" : "其他" },
+            { "title" : "Other" }
+        ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/notice.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/notice.white.png"
     }
