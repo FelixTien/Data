@@ -38,5 +38,15 @@
         ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/golf.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/golf.white.png"
+    },
+    {
+        "name" : [
+            { "title" : "Other" },
+            { "title" : "Other" },
+            { "title" : "其他" },
+            { "title" : "Other" }
+        ],
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/notice.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/notice.white.png"
     }
 ]
