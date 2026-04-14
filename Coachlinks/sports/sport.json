@@ -1,18 +1,22 @@
 [
     {
         "name" : "Ping Pong",
-        "url" : "N/A_test"
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/pingpong.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/pingpong.white.png"
     },
     {
         "name" : "Badminton",
-        "url" : "blue_test"
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/badminton.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/badminton.white.png"
     },
     {
         "name" : "Pickle Ball",
-        "url" : "silver_test"
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/pickleball.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/pickleball.white.png"
     },
     {
         "name" : "Golf",
-        "url" : "gold_test"
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/golf.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/golf.white.png"
     }
 ]

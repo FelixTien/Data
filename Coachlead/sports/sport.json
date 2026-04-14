@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Ping Pong",
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/pingpong.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/pingpong.white.png"
+    },
+    {
+        "name" : "Badminton",
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/badminton.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/badminton.white.png"
+    },
+    {
+        "name" : "Pickle Ball",
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/pickleball.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/pickleball.white.png"
+    },
+    {
+        "name" : "Golf",
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/golf.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/golf.white.png"
+    }
+]
