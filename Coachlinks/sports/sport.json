@@ -18,5 +18,10 @@
         "name" : "Golf",
         "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/golf.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/golf.white.png"
+    },
+    {
+        "name" : "Other",
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/notice.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/notice.white.png"
     }
 ]
