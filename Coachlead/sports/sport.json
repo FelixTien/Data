@@ -31,16 +31,6 @@
     },
     {
         "name" : [
-            { "title" : "Golf" },
-            { "title" : "Golf" },
-            { "title" : "高爾夫" },
-            { "title" : "Golf" }
-        ],
-        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/golf.black.png",
-        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/golf.white.png"
-    },
-    {
-        "name" : [
             { "title" : "Other" },
             { "title" : "Other" },
             { "title" : "其他" },
