@@ -21,6 +21,16 @@
     },
     {
         "name" : [
+            { "title" : "Pickle Ball" },
+            { "title" : "Pickle Ball" },
+            { "title" : "匹克球" },
+            { "title" : "Pickle Ball" }
+        ],
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlinks/sports/pickleball.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlinks/sports/pickleball.white.png"
+    },
+    {
+        "name" : [
             { "title" : "Golf" },
             { "title" : "Golf" },
             { "title" : "高爾夫" },
