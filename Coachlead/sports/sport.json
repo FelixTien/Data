@@ -21,6 +21,16 @@
     },
     {
         "name" : [
+            { "title" : "Fitness" },
+            { "title" : "Fitness" },
+            { "title" : "健身" },
+            { "title" : "Fitness" }
+        ],
+        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/fitness.black.png",
+        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/fitness.white.png"
+    },
+    {
+        "name" : [
             { "title" : "Pickle Ball" },
             { "title" : "Pickle Ball" },
             { "title" : "匹克球" },
@@ -28,16 +38,6 @@
         ],
         "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/pickleball.black.png",
         "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/pickleball.white.png"
-    },
-    {
-        "name" : [
-            { "title" : "Golf" },
-            { "title" : "Golf" },
-            { "title" : "高爾夫" },
-            { "title" : "Golf" }
-        ],
-        "urlBlack" : "https://felixtien.github.io/Data/Coachlead/sports/golf.black.png",
-        "urlWhite" : "https://felixtien.github.io/Data/Coachlead/sports/golf.white.png"
     },
     {
         "name" : [
