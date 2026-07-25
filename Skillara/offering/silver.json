@@ -2,37 +2,10 @@
     {
         "offer" : "true",
         "content" : [
-            { "detail" : "e silver 1" },
-            { "detail" : "j silver 1" },
-            { "detail" : "t silver 1" },
-            { "detail" : "v silver 1" }
-        ]
-    },
-    {
-        "offer" : "true",
-        "content" : [
-            { "detail" : "e silver 2" },
-            { "detail" : "j silver 2" },
-            { "detail" : "t silver 2" },
-            { "detail" : "v silver 2" }
-        ]
-    },
-    {
-        "offer" : "true",
-        "content" : [
-            { "detail" : "e silver 3" },
-            { "detail" : "j silver 3" },
-            { "detail" : "t silver 3" },
-            { "detail" : "v silver 3" }
-        ]
-    },
-    {
-        "offer" : "false",
-        "content" : [
-            { "detail" : "e silver 4" },
-            { "detail" : "j silver 4" },
-            { "detail" : "t silver 4" },
-            { "detail" : "v silver 4" }
+            { "detail" : "30 skills limitation." },
+            { "detail" : "30 skills limitation." },
+            { "detail" : "30 skills limitation." },
+            { "detail" : "30 skills limitation." }
         ]
     }
 ]
