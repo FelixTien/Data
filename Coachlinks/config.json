@@ -10,8 +10,8 @@
     "blueTraineeCount" : "20",
     "silverTraineeCount" : "30",
     "goldTraineeCount" : "10000",
-    "nonPlaceCount" : "10",
-    "bluePlaceCount" : "20",
-    "silverPlaceCount" : "30",
-    "goldPlaceCount" : "10000"
+    "nonPlaceCount" : "2",
+    "bluePlaceCount" : "5",
+    "silverPlaceCount" : "10",
+    "goldPlaceCount" : "20"
 }
