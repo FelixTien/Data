@@ -3,11 +3,15 @@
     "hasRewarded" : "false",
     "openStore" : "false",
     "nonLessonCount" : "20",
-    "nonTraineeCount" : "10",
     "blueLessonCount" : "30",
-    "blueTraineeCount" : "20",
     "silverLessonCount" : "40",
-    "silverTraineeCount" : "30",
     "goldLessonCount" : "10000",
-    "goldTraineeCount" : "10000"
+    "nonTraineeCount" : "10",
+    "blueTraineeCount" : "20",
+    "silverTraineeCount" : "30",
+    "goldTraineeCount" : "10000",
+    "nonPlaceCount" : "10",
+    "bluePlaceCount" : "20",
+    "silverPlaceCount" : "30",
+    "goldPlaceCount" : "10000"
 }
