@@ -1,2 +1,30 @@
 {
+    "id" : "",
+    "scrollable" : "true",
+    "picURL" : "",
+    "linkURL" : "https://lin.ee/xvwQ9Rr",
+    "title" : [
+        { "text" : "Please choose the lesson type" },
+        { "text" : "Please choose the lesson type" },
+        { "text" : "請選擇課程種類" },
+        { "text" : "Please choose the lesson type" }
+    ],
+    "content" : [
+        { "text" : "1. Personal Introduction / Resume Summary\n\nI have [X] years of experience in [Field/Industry], specializing in [Key Skill 1] and [Key Skill 2]. Throughout my career, I have successfully [Specific Achievement, e.g., increased operational efficiency by 20% / led and completed large-scale projects], demonstrating strong teamwork and problem-solving abilities. I am passionate about continuously learning new technologies and look forward to leveraging my expertise in the [Target Position] role at your company to drive meaningful impact.\n\n2. Business Email Opening / Proposal Introduction\n\nDear [Name], thank you for taking the time to read this email. We have been following your company’s recent developments in [Specific Field/Project] and would love to introduce our [Product/Service Name]. This solution is tailored to address [Target Pain Point] and effectively help you [Expected Benefit/Advantage]. I have attached our detailed proposal for your review and would welcome the opportunity to discuss potential collaboration with you further." },
+        { "text" : "1. Personal Introduction / Resume Summary\n\nI have [X] years of experience in [Field/Industry], specializing in [Key Skill 1] and [Key Skill 2]. Throughout my career, I have successfully [Specific Achievement, e.g., increased operational efficiency by 20% / led and completed large-scale projects], demonstrating strong teamwork and problem-solving abilities. I am passionate about continuously learning new technologies and look forward to leveraging my expertise in the [Target Position] role at your company to drive meaningful impact.\n\n2. Business Email Opening / Proposal Introduction\n\nDear [Name], thank you for taking the time to read this email. We have been following your company’s recent developments in [Specific Field/Project] and would love to introduce our [Product/Service Name]. This solution is tailored to address [Target Pain Point] and effectively help you [Expected Benefit/Advantage]. I have attached our detailed proposal for your review and would welcome the opportunity to discuss potential collaboration with you further." },
+        { "text" : "一、 個人自我介紹 / 履歷簡介\n\n我有著 [X] 年的 [領域/專業] 經驗，擅長 [核心技能 1] 與 [核心技能 2]。在過往的工作經歷中，我曾成功 [具體成就，例如：提升 20% 營運效率 / 獨立完成大型專案]，並展現出良好的團隊溝通與問題解決能力。我熱衷於持續學習新技術，期待能將專業能力應用於貴公司的 [目標職務]，創造實質價值。\n\n二、 商業 Email 開頭 / 提案說明\n\n您好，感謝您撥冗閱讀此信。我們注意到貴公司近期在 [特定領域/項目] 的發展，因此希望能向您介紹我們的 [產品/服務名稱]。這項方案專為解決 [目標痛點] 所設計，能夠有效幫助您 [預期獲得的好處或優勢]。隨信附上詳細的提案簡報，誠摯期待能有機會與您進一步討論合作細節。" },
+        { "text" : "1. Personal Introduction / Resume Summary\n\nI have [X] years of experience in [Field/Industry], specializing in [Key Skill 1] and [Key Skill 2]. Throughout my career, I have successfully [Specific Achievement, e.g., increased operational efficiency by 20% / led and completed large-scale projects], demonstrating strong teamwork and problem-solving abilities. I am passionate about continuously learning new technologies and look forward to leveraging my expertise in the [Target Position] role at your company to drive meaningful impact.\n\n2. Business Email Opening / Proposal Introduction\n\nDear [Name], thank you for taking the time to read this email. We have been following your company’s recent developments in [Specific Field/Project] and would love to introduce our [Product/Service Name]. This solution is tailored to address [Target Pain Point] and effectively help you [Expected Benefit/Advantage]. I have attached our detailed proposal for your review and would welcome the opportunity to discuss potential collaboration with you further." }
+    ],
+    "confirm" : [
+        { "text" : "Add Line Friend" },
+        { "text" : "Add Line Friend" },
+        { "text" : "加入 Line 好友" },
+        { "text" : "Add Line Friend" }
+    ],
+    "cancel" : [
+        { "text" : "Maybe Later" },
+        { "text" : "Maybe Later" },
+        { "text" : "下次再說" },
+        { "text" : "Maybe Later" }
+    ]
 }
