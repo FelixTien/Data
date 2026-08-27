@@ -1,9 +1,14 @@
 {
     "id" : "abcde",
     "scrollable" : "true",
-    "picURL" : "https://felixtien.github.io/Data/felixtien.png",
+    "picURL" : "",
     "linkURL" : "https://lin.ee/xvwQ9Rr",
-    "title" : [],
+    "title" : [
+        { "text" : "Please choose the lesson type" },
+        { "text" : "Please choose the lesson type" },
+        { "text" : "請選擇課程種類" },
+        { "text" : "Please choose the lesson type" }
+    ],
     "content" : [
         { "text" : "1. Personal Introduction / Resume Summary\n\nI have [X] years of experience in [Field/Industry], specializing in [Key Skill 1] and [Key Skill 2]. Throughout my career, I have successfully [Specific Achievement, e.g., increased operational efficiency by 20% / led and completed large-scale projects], demonstrating strong teamwork and problem-solving abilities. I am passionate about continuously learning new technologies and look forward to leveraging my expertise in the [Target Position] role at your company to drive meaningful impact.\n\n2. Business Email Opening / Proposal Introduction\n\nDear [Name], thank you for taking the time to read this email. We have been following your company’s recent developments in [Specific Field/Project] and would love to introduce our [Product/Service Name]. This solution is tailored to address [Target Pain Point] and effectively help you [Expected Benefit/Advantage]. I have attached our detailed proposal for your review and would welcome the opportunity to discuss potential collaboration with you further." },
         { "text" : "1. Personal Introduction / Resume Summary\n\nI have [X] years of experience in [Field/Industry], specializing in [Key Skill 1] and [Key Skill 2]. Throughout my career, I have successfully [Specific Achievement, e.g., increased operational efficiency by 20% / led and completed large-scale projects], demonstrating strong teamwork and problem-solving abilities. I am passionate about continuously learning new technologies and look forward to leveraging my expertise in the [Target Position] role at your company to drive meaningful impact.\n\n2. Business Email Opening / Proposal Introduction\n\nDear [Name], thank you for taking the time to read this email. We have been following your company’s recent developments in [Specific Field/Project] and would love to introduce our [Product/Service Name]. This solution is tailored to address [Target Pain Point] and effectively help you [Expected Benefit/Advantage]. I have attached our detailed proposal for your review and would welcome the opportunity to discuss potential collaboration with you further." },
