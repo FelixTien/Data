@@ -1,7 +1,7 @@
 {
     "id" : "abcde",
     "scrollable" : "true",
-    "picURL" : "https://felixtien.github.io/Data/felixtien.png",
+    "picURL" : "",
     "linkURL" : "https://lin.ee/xvwQ9Rr",
     "title" : [
         { "text" : "Please choose the lesson type" },
@@ -18,13 +18,13 @@
     "confirm" : [
         { "text" : "Confirm" },
         { "text" : "Confirm" },
-        { "text" : "確認" },
+        { "text" : "加入 Line 好友" },
         { "text" : "Confirm" }
     ],
     "cancel" : [
         { "text" : "Cancel" },
         { "text" : "Cancel" },
-        { "text" : "取消" },
+        { "text" : "下次再說" },
         { "text" : "Cancel" }
     ]
 }
