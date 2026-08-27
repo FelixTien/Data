@@ -1,14 +1,9 @@
 {
     "id" : "abcde",
     "scrollable" : "true",
-    "picURL" : "https://felixtien.github.io/Data/test.png",
+    "picURL" : "https://felixtien.github.io/Data/felixtien.png",
     "linkURL" : "https://lin.ee/xvwQ9Rr",
-    "title" : [
-        { "text" : "Please choose the lesson type" },
-        { "text" : "Please choose the lesson type" },
-        { "text" : "請選擇課程種類" },
-        { "text" : "Please choose the lesson type" }
-    ],
+    "title" : [],
     "content" : [],
     "confirm" : [
         { "text" : "Add Line Friend" },
